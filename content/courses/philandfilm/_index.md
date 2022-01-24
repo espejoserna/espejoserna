@@ -63,7 +63,7 @@ Is knowledge possible? What is knowledge? Why does knowledge of reality matter? 
 
 Is there free will? What makes you the person you are? What makes us human? What could artificial intelligence be?
  
-(Probable films: Blade runner, Gattaca, Ex Machina, Minority report, Arrival)
+(Probable films: Blade runner, Gattaca, Ex Machina, Minority report, Arrival, Her)
 
 *(6 weeks)*
 
