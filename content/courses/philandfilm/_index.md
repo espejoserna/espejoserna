@@ -87,7 +87,7 @@ Weekly short videos in response to a video prompt.
 
 ### Longish videos
 
-A short video essay that presents with the following structure:
+A short video essay with the following structure:
 1. Pick one of the films and one of the questions we have touched upon in class. 
 1. Select scenes/quotes from the film that help present the question
 1. Structure a version of the question on the basis of the scences/quotes
@@ -109,7 +109,7 @@ An video in which you defend a philosophical thesis.You must use the secondary l
 
 ### **Late submissions**
 
-If something  happens, it is important to speak with the me. Let’s talk. We do not have to talk about your personal issues, but it is important that you get in touch with me if you find yourselves in a situation where you see you cannot fulfill the required submissions. In such cases we need to talk as soon as possible and agree upon a plan to solve the problems with respect to the class requirements. I repeat: please get in touch.  
+If something  happens, it is important to speak with me. Let’s talk. We do not have to talk about your personal issues, but it is important that you get in touch with me if you find yourselves in a situation where you see you cannot fulfill the required submissions. In such cases we need to talk as soon as possible and agree upon a plan to solve the problems with respect to the class requirements. I repeat: please get in touch.  
 
 
 ![](/courses/hfc/_index_files/borde.jpg)
@@ -121,7 +121,7 @@ If something  happens, it is important to speak with the me. Let’s talk. We do
 |Unit|Activity|Percentage|
 | --- | --- | --- |
 |1|    Short videos          |15%
-|    1 |    Longish videos                             |    15%
+|    1 |    Longish video                             |    15%
  |    2 |      Short videos                        |   15%
 |     2 |      Longish videos                              |  15%
  |    3 |   Rough outline   |    10%
@@ -140,5 +140,5 @@ In this module, you will read and listen to philosophy in preparation for the le
 Most of the reading will come from [1000word philosophy](https://1000wordphilosophy.com/); everything else will be made available as a pdf.
 
 ### Podcasts
-Most of the listening will come from [Philosophy Bites](https://philosophybites.libsyn.com/). 
+Most of the listening will come from [Philosophy Bites](https://philosophybites.com/). 
 
