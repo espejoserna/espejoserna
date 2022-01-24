@@ -72,7 +72,7 @@ Is there free will? What makes you the person you are? What makes us human? What
 
 Is  morality objetive? What are the virtues and vices of critical thinking? What are the risks of moral thoughtlessness?
 
-(Probable films: Memento, They live, The act of killing, the Network, 12 angry men )
+(Probable films: Memento, They live, The act of killing, The Network, 12 angry men)
 
 (*5 weeks*)
 ![](/courses/hfc/_index_files/borde.jpg)
