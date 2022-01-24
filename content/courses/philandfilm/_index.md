@@ -54,7 +54,7 @@ To achieve success in philosophy is, according to the philosopher Wilfried Sella
 
 Is knowledge possible? What is knowledge? Why does knowledge of reality matter? Is time real?
 
-(Probable films: Total recall, Matrix, Truman Show, Inception, Interstellar, 12 Monkeys )
+(Probable films: Total recall, Matrix, Truman Show, Inception, Interstellar, 12 Monkeys)
 
 *(5 weeks)*
 
@@ -63,7 +63,7 @@ Is knowledge possible? What is knowledge? Why does knowledge of reality matter? 
 
 Is there free will? What makes you the person you are? What makes us human? What could artificial intelligence be?
  
-(Probable films: Blade runner, Gattaca, Ex Machina, Minority report, Looper)
+(Probable films: Blade runner, Gattaca, Ex Machina, Minority report, Arrival)
 
 *(6 weeks)*
 
