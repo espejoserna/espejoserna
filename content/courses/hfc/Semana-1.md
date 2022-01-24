@@ -29,8 +29,7 @@ Presentaciones  personales
 * ¿De qué creen que trata?
 * ¿Qué esperan aprender?
 * ¿Cómo se sientieron con las clases el semestre pasado?
-* ¿Qué les gusta de la modalidad virtual?
-* ¿Qué no les gusta de la modalidad virtual?
+
 
 Presentación del curso
 ------------------------
