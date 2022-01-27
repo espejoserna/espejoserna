@@ -1,13 +1,13 @@
 ---
-title: Week 1
-linktitle: Semana 1 
+title: Week 01 - Overview
+linktitle: Semana 01 
 toc: true
 type: docs
 date: "2019-05-05T00:00:00+01:00"
 draft: false
 menu:
   philandfilm:
-    name: Week 1
+    name: Week 01
     weight: 2
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
@@ -86,10 +86,10 @@ Take 2 minutes to think and make sure you've understood everything up to this po
 
 It is easy to miss something we  are not looking for. 
 
-https://www.youtube.com/watch?v=z-Dg-06nrnc
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/z-Dg-06nrnc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-Take your time and check your understanding and make sure you are not missing something.
+Take your time and check your understanding, make sure you are not missing something.
 
 ---
 

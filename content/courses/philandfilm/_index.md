@@ -131,7 +131,7 @@ If something  happens, it is important to speak with me. Let’s talk. We do not
 
 
 
-## Bibliography and media
+## Readings and media
 
 In this module, you will read and listen to philosophy in preparation for the lecture. Every week I will assign a specific podcast episode and one short reading to go with the film.
 

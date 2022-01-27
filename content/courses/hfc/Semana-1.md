@@ -13,6 +13,11 @@ menu:
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 1
 ---
+## Presentación
+
+
+<a href="{{< relref "/slides/hfc/1" >}}" target="_blank">Click aquí para ver la presentación en una nueva pestaña.</a>
+
 
 Plan
 ------
@@ -184,3 +189,4 @@ La filosofía de la ciencia se ocupa de aspectos _filosóficos_ de la ciencia
 ## Para la próxima semana
 
 ### Losee, J. (1976). _Introducción histórica a la filosofía de la ciencia._  España: Alianza Editorial. Páginas 15-38 (★)
+

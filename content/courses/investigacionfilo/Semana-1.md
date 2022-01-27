@@ -64,12 +64,12 @@ Fuentes:
 
 - Bibliotecas (Octavio Arismendi, Andes, nacional, javeriana, BLAA)
 
-- Scribd, facebook (philosophical underclass) y amigos con vínculos con los rusos. 
+- Scribd, facebook (philosophical underclass) y los amigos de los piratas rusos. 
 
  
 
 ## Tareas para la próxima semana
-1. Escribir una página sobre un posible tema de tesis. Presente un tema de interés. Suponga que es un estudiante de primer semestre y explique el vocabulario técnico que utilice.
+1. Escribir una página sobre un posible tema de tesis. Presente un tema de interés. Suponga que quien lo lee es un estudiante de primer semestre y explique el vocabulario técnico que utilice.
 
 2. Leer al menos 20 páginas (de la bolsa de textos). Hacer una reseña.
 
