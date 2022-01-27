@@ -137,8 +137,8 @@ In this module, you will read and listen to philosophy in preparation for the le
 
 ### Reading
 
-Most of the reading will come from [1000word philosophy](https://1000wordphilosophy.com/); everything else will be made available as a pdf.
+Most of the readings will come from [1000word philosophy](https://1000wordphilosophy.com/); everything else will be made available as a pdf.
 
 ### Podcasts
-Most of the listening will come from [Philosophy Bites](https://philosophybites.com/). 
+Most of the listening tasks will come from [Philosophy Bites](https://philosophybites.com/). 
 
