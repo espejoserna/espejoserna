@@ -127,7 +127,7 @@ If something  happens, it is important to speak with me. Let’s talk. We do not
  |    3 |   Rough outline   |    10%
   |   3  |   Longer video essay       |           30%
 
-<img src="img/331553.svg" style=" padding:5px;">
+![](/courses/hfc/_index_files/borde.jpg)
 
 
 
