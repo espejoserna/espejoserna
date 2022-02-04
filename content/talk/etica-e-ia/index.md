@@ -4,7 +4,7 @@ event: Clase - Tecnología y ecología humana
 event_url: 
 location: 
 summary: Discusión sobre la IA real y el lugar del razonamiento ético.
-abstract: "Esta clase tiene dos objetivos. 1. Explicar qué es la IA real para distinguirla de los casos de ciencia ficción. 2) Enseñar algunos de los retos éticos específicos de la IA real a través de casos concretos. Esto se logrará por medio de una discusión de las posibles formas de entender los proyectos de IA y del reto específico que presentan los sesgos en IA."
+abstract: "Esta clase tiene dos objetivos. 1. Explicar qué es la IA real para distinguirla de los casos de ciencia ficción. 2) Enseñar algunos de los retos éticos específicos de la IA real a través de casos concretos. Esto se logrará por medio de una discusión de las posibles formas de entender los proyectos de IA y del reto específico que presentan la identificación y eliminación de los *sesgos* de programas creados con IA."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.

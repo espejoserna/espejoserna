@@ -41,7 +41,7 @@ url_video: ""
 slides: ""
 ---
 
-Se suele aprender filosofía por medio de la lectura de los grandes textos de la tradición o de textos que discuten, comentan y explican aquellos grandes textos. Este curso implica un esfuerzo po
+Se suele aprender filosofía por medio de la lectura de los grandes textos de la tradición o de textos que discuten, comentan y explican aquellos grandes textos. Este curso implica un esfuerzo por acercarse a la filosofía por otros medios.
 
 Este curso tiene dos objetivos:
 
