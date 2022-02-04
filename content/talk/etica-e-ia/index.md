@@ -3,8 +3,8 @@ title: Ética e Inteligencia Artificial
 event: Clase - Tecnología y ecología humana
 event_url: 
 location: 
-summary: Discusión sobre la IA real y su relación con las cuestiones éticas.
-abstract: "Esta clase tiene dos objetivos. 1. Explicar qué es la IA real para distinguirla de los casos de ciencia ficción. 2) Enseñar algunos de los retos éticos específicos de la IA real a través de casos concretos. "
+summary: Discusión sobre la IA real y el lugar del razonamiento ético.
+abstract: "Esta clase tiene dos objetivos. 1. Explicar qué es la IA real para distinguirla de los casos de ciencia ficción. 2) Enseñar algunos de los retos éticos específicos de la IA real a través de casos concretos. Esto se logrará por medio de una discusión de las posibles formas de entender los proyectos de IA y del reto específico que presentan los sesgos en IA."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -55,14 +55,14 @@ math: true
 ---
 
 {{% alert note %}}
-Aquí estan las diapositivas:  
+Aquí estan las diapositivas: https://jcunisabana.github.io/presentaciones/ia-tecno.html
 {{% /alert %}}
 
-Slides can be added in a few ways:
+## Lecturas recomendadas
+- Boyle, Matthew (2016). Additive Theories of Rationality: A Critique. *European Journal of Philosophy* 24 (3): 527-555.
 
-- **Create** slides using academia's [*Slides*](https://sourcethemes.com/academic/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+- Coeckelbergh, Marck. (2021). *Ética de la inteligencia artificial*. Cátedra.
 
-Further talk details can easily be added to this page using *Markdown* and $\rm \LaTeX$ math code.
+- O'Neil, Cathy. (2018). *Armas de destrucción matemática: cómo el big data aumenta la desigualdad y amenaza la democracia*. Capitán Swing Libros.
 
+- Zuboff, Shoshana (2020). *La era del capitalismo de la vigilancia: La lucha por un futuro humano frente a las nuevas fronteras del poder*. Paidós. 
