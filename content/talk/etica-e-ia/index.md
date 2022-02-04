@@ -9,7 +9,7 @@ abstract: "Esta clase tiene dos objetivos. 1. Explicar qué es la IA real para d
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: "Fri Feb  4 14:00:00 2022"
-date_end: "Fri Feb  4 16:00:00 2022"
+date_end: "Fri Feb  4 17:00:00 2022"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
