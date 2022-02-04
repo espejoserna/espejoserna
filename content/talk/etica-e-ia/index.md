@@ -65,4 +65,6 @@ Aquí estan las diapositivas: https://jcunisabana.github.io/presentaciones/ia-te
 
 - O'Neil, Cathy. (2018). *Armas de destrucción matemática: cómo el big data aumenta la desigualdad y amenaza la democracia*. Capitán Swing Libros.
 
+- Véliz, Carissa. (2021) *Privacidad es poder: Datos, vigilancia y libertad en la era digital*. Debate.
+
 - Zuboff, Shoshana (2020). *La era del capitalismo de la vigilancia: La lucha por un futuro humano frente a las nuevas fronteras del poder*. Paidós. 
