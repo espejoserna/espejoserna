@@ -1,10 +1,10 @@
 ---
-title: Coding and Analyzing Qualitative Data
-event: academia Theme Conference
-event_url: https://example.org
+title: Ética e Inteligencia Artificial
+event: Clase - Tecnología y ecología humana
+event_url: 
 location: 
-summary: An example talk using academia's Markdown slides feature.
-abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
+summary: Discusión sobre la IA real y su relación con las cuestiones éticas.
+abstract: "Esta clase tiene dos objetivos. 1. Explicar qué es la IA real para distinguirla de los casos de ciencia ficción. 2) Enseñar algunos de los retos éticos específicos de la IA real a través de casos concretos. "
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -55,7 +55,7 @@ math: true
 ---
 
 {{% alert note %}}
-Click on the **Slides** button above to view the built-in slides feature.
+Aquí estan las diapositivas:  
 {{% /alert %}}
 
 Slides can be added in a few ways:
