@@ -1,6 +1,6 @@
 ---
 title: Phil and Film
-summary: An introduction to using academia's Slides feature.
+summary: 
 authors: []
 tags: []
 categories: []
@@ -25,207 +25,400 @@ slides:
 
 ## Plan
 
-
 1.  Overview of the film
-2.  Four skeptical scenarios
+2.  What is knowledge?
+3.  What is personal identity?
 
 
 </section> 
 <section>
 
 ## Overview of the film
-</section> 
-<section>
 
-### Task 
-
-Write a one-line summary of the plot of THE MATRIX.
+Write in chat a one-line summary of the plot of TOTAL RECALL
 
 (A good one :P).
+<iframe src="https://giphy.com/embed/3oEdvaxcFPKdt9V5mM" width="480" height="260" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/jerology-total-recall-arnold-schwarzeneger-dont-bullshit-me-3oEdvaxcFPKdt9V5mM">via GIPHY</a></p>
 
-</section> 
-<section>
-
-The film considers several questions with philosophical interest. One is about reality and knowledge of it. Another about why it matters.
-
-They are not quite the same, though one depends on the other.
-</section> 
-<section>
-
-
-### Claim
-
-> *The film makes use of a skeptical scenario in order to make a point about **destiny**.*
-</section> 
-<section>
-Much like many in the history of philosophy, skepticism, in THE MATRIX, is not an end in itself but a means to further philosophical claims. (Compare to the use of skepticism as a springboard for their own interests.)
-
-The question about the knowledge of reality is one dating back to the very origins of philosophy. Consider the following version of the question:
-</section> 
-<section>
-
-### Is everything cake?
-
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/KIRE8yscK_o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </section> 
 <section>
 
 
-If there can be such a distinction between how reality is seems and how it is, is knowledge of reality possible?
-</section> 
-<section>
-The history of philosophy is packed with answers to this question, raising issues, offering compromises and setting up philosophical theories that address this concern.
+The film considers issues about:
 
-One distinctive aproximation to the issues has the form of the question about appearance and reality. 
-</section> 
-<section>
-
->*What is the relation between how things appear to be and how they really are?*
-</section> 
-<section>
-One possible answer considered in THE MATRIX is the following:
-
->"The Matrix is everywhere. It is all around us, even now in this very room. You can see it when you look out your window or when you turn on your television. You can feel it when you go to work, when you go to church, when you pay your taxes. It is the world that has been pulled over your eyes to blind you from the truth."
-</section> 
-<section>
-Knowledge of reality might not be possible because there are obstables (the Matrix) that "blind us from the truth".
-</section> 
-<section>
-But can one lift the veil that blinds us from the truth? 
-
-1. What do you think is the film's answer?
-1. What would you answer independently of the film?
-
-Consider the differences, if there are.
-</section> 
-<section>
-Shift gears and turn towards destiny.
-</section> 
-<section>
-
-### Interlude
-</section> 
-<section>
-
-> Is freedom compatible with destiny?
-</section> 
-<section>
-The question about free will and autonomy is another central question in philosophy.
-</section> 
-<section>
-THE MATRIX considers the question under the following guise:
-
-*If there is anything like destiny, then how can there be freedom?*
-</section> 
-<section>
-
-Answer:
-> The Oracle: You’re going to have to make a choice. In the one hand you’ll have Morpheus’ life and in the other hand you’ll have your own. One of you is going to die. Which one will be up to you. I’m sorry, kiddo, I really am. You have a good soul, and I hate giving good people bad news. 
+* Our knowledge of reality.
+* Our personal identity.
 
 </section> 
 <section>
 
-> The Oracle: Oh, don’t worry about it. As soon as you step outside that door, you’ll start feeling better. You’ll remember you don’t believe in any of this fate crap. You’re in control of your own life, remember? Here, take a cookie. I promise, by the time you’re done eating it, you’ll feel right as rain.
-</section> 
-<section>
-THE MATRIX seems to hold the view that destinty is the air thanks to which our freedom can fly. 
-</section> 
-<section>
+Though they are not quite the same; one depends on the other.
 
-We will come back to the issue of free will in other films. For the moment, let us turn back at the question about knowledge.</section> 
-<section>
-
-
-## Four skeptical scenarios
-</section> 
-<section>
-
-The film presents to us a skeptical scenario, a situation that is meant to give us reasons to doubt that knowledge is possible. Let us consider some kinds of scenarios and then ask about which kind you think fits THE MATRIX better.
-</section> 
-<section>
-
-### Illusions 
-
-> Doubting your knowledge because it comes from the senses and they sometimes deceive you
+{{% alert note %}}
+The film makes use of a skeptical scenario in order to make a point about identity.
+{{% /alert %}}
 
 </section> 
 <section>
 
-![](https://www.illusionsindex.org/images/illusions/grey-strawberries/greystrawberriesmainimage.png)
-</section> 
-<section>
 
-![](https://www.illusionsindex.org/images/illusions/grey-strawberries/greystrawberriesaltered.png.jpg)
+Skepticism, in TOTAL RECALL, is not an end in itself; it is a means for another philosophical claims.
 
-(Baysan, U. and Macpherson, F. (August 2017) "Grey strawberries" in F. Macpherson (ed.), The Illusions Index. Retrieved from https://www.illusionsindex.org/i/grey-strawberries.)
-</section> 
-<section>
-
-Possible response: this does not throw doubt on all knowledge. It assumes that it is possibe some form of knowledge, namely what is needed to contrast between the images.
-</section> 
-<section>
-
-### Dreams
-
-> Doubting your knowledge because it comes from the senses and you could be dreaming it all
-</section> 
-<section>
-
-Have you dreamt that you're dreaming? What would be the difference from how you feel now ?
-</section> 
-<section>
-
-Possible response: this does not put in doubt all knowledge. It assumes that it is possibe some form of knowledge, namely what is needed to contrast
-
-There are stronger versions of skepticism that require a different kind of answer.
-</section> 
-<section>
-
-### Trickster
-
-> Doubting your knowledge because you could be tricked in every aspect by a superior being.
+- Though not quite as secondary as in THE MATRIX, skepticism in TOTAL RECALL plays second fiddle to the main topic of identity.
 
 </section> 
 <section>
 
-Have you erased your computer and reinstalled some programs but others not? Could there be a being that did that to you? You could have been created yesterday with all your memories as they are, no?
-
-Possible response: ???
+To consider these topics we will first talk about an important question in philosophy: What is knowledge?
 </section> 
 <section>
 
-### Broken mind
-
-> Doubting your knowledge because you might be critically, mentally ill.
+## Knowledge
 
 </section> 
 <section>
 
-If you cannot trust yourself, what can you trust?
+Consider the following clip from the film:
 
-Possible response: ???
 </section> 
 <section>
 
-What kind of skeptical scenario is presented by  
-THE MATRIX?
+<div style="padding:54.17% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/673818061?h=a7cadd3a05&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="TR4"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
-1.  Illusions: Doubting the senses 1
-2.  Dreams: Doubting the senses 2 
-3.  Trickster: Superior being causing mistakes
-4.  Broken mind: doubting the mind as a whole
 </section> 
 <section>
+
+> "You're not here."
+
+
+At this point in the film, is Doug *justified* in trusting Dr. Edgemar?
+
+What is the *rational* thing for Doug to believe about the experiences he has had between Recall and his meeting Dr. Edgemar?
+
+</section> 
+<section>
+
+Compare this to the scene in THE MATRIX where Neo is also offered a red pill as a way out.
+
+<div class="tenor-gif-embed" data-postid="5437251" data-share-method="host" data-aspect-ratio="1.83824" data-width="100%"><a href="https://tenor.com/view/the-matrix-choose-pill-gif-5437251">Blue Pill Red Pill Choose GIF</a>from <a href="https://tenor.com/search/the+matrix-gifs">The Matrix GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+</section> 
+<section>
+
+Doug refuses to accept what he is being told. Neo accepts what he is being told. 
+</section> 
+
+<section>
+Who is correct?
+
+</section> 
+<section>
+
+ **Neither**. But why? </section> 
+<section>
+
+They both act upon belief that stops short of knowledge.
+
+</section> 
+<section>
+
+### Believing something <br> ≠ <br>  knowing something
+
+</section> 
+<section>
+
+Consider a multiple choice exam where you have given an answer to all the questions but where you only know the answer to the first half. What is the difference?
+
+1.  The answers from knowledge are certainly **TRUE**. The other answers *might* be false or true.
+2.  The answers from knowledge are certainly true and **JUSTIFIED**. Even if the other answers happen to be true, you have no proper warrant that they are true.
+3. They were not by chance. 
+
+</section> 
+<section>
+
+- Knowledge entails Truth: to know something is to know something true.
+- Knowledge entails Justification: to know something is to know something for which one has justification   
+- Knowledge is not by chance: to know something is to know in a way that is not just product of luck.
+
+</section> 
+<section>
+
+### What is knowledge?
+
+</section> 
+<section>
+
+**K = JTB**
+
+</section> 
+<section>
+
+**K**nowledge is **J**ustified **T**rue **B**elief
+
+It is not possible for us to completely cover the details of this account. But we can get a good enough idea of each element.
+
+</section> 
+<section>
+
+### Belief
+</section> 
+<section>
+
+What is it to believe something?
+
+That is a hard question. There are several theoretical accounts of belief. For the moment it will be important for us to talk about *direction of fit*
+
+</section> 
+<section>
+
+**believing something ≠ desiring something** 
+
+</section> 
+<section>
+
+Think about the difference of a piece of paper with a list of items where it is meant to be a description of what you have bought from the store and when it is meant to be a prescription of what you ought to buy from the store. 
+- Belief has mind<-world direction of fit: belief answers to how the world is. 
+- Desire has a world<-mind direction of fit: the world (is expected to) answer to how the mind is. 
+
+</section> 
+<section>
+To believe is to the mental attitude of taking up something as true.
+
+
+</section> 
+<section>
+
+### True belief
+
+</section> 
+<section>
+
+What is it to believe truly?
+
+</section> 
+<section>
+
+Another tough one.
+
+> To say that what is is not, or that what is not is, is false; but to say that what is is, and what is not is not, is true; and therefore also he who says that a thing is or is not will say either what is true or what is false. Aristotle, *Metaphysics* 1011 b
+
+</section> 
+<section>
+
+### Justified true belief
+
+</section> 
+<section>
+
+What is it to believe truly and with justification?
+
+Justification implies *reason*. Not merely happening to be a in a true cognitive state but rather to have a reason in support.
+
+</section> 
+<section>
+
+The JTB account does not quite work as a characterization of knowledge because of the Gettier cases.
+
+</section> 
+<section>
+
+### Gettier cases
+
+</section> 
+<section>
+
+Edmund Gettier (1963) in "Is Justified True Belief Knowledge?""
+
+1.  Smith is told by the CEO of the company that Jones will get the job.  
+    Smith believes so.
+2.  Smith sees that Jones has ten coins in his pocket.  
+    Smith believes so.
+3.  Smith infers that the person who will get the job has ten coins in his pocket.  
+    Smith believes so. Call this the G belief
+4.  Unbeknownst to Smith he gets the job and he has ten coins in his pocket.
+
+</section> 
+<section>
+
+5.  The G belief is true.
+6.  The G belief is justified.
+7.  The G belief is not knowledge.
+
+</section> 
+<section>
+
+
+There have been several attempts to describe further conditions on knowledge in order to respond to Gettier's challenge.
+
+</section> 
+<section>
+
+### K = true, sensitive and safe belief.
+
+</section> 
+<section>
+
+1. p is true.  
+1. S believes that p.  
+1. If p were false, S would not believe that p (sensitivity)  
+1. If S were to believe that p, p would not be false. (safety).
+
+The counterfactuals are key in this view. How are we to understand, for example, with the case of mathematical knowledge?
+
+</section> 
+<section>
+
+### Simple Causal Theory of Knowledge:
+
+</section> 
+<section>
+
+1. S knows that p iff p is true;  
+1. S believes that p;  
+1. S’s belief that p is caused by the fact that p.  
+
+</section> 
+<section>
+
+
+This leaves behind complicated cases where it might be true that a fact causes but, because of deviant causal chains, there is, at least intuitively, reason to believe there is no knowledge. 
+
+</section> 
+<section>
+
+
+### Knowledge as primitive
+</section> 
+<section>
+
+
+Another possible answer to question about the nature of knowledge is to reject the question: 
+</section> 
+<section>
+
+
+We should not attempt to understand knowledge in terms of belief plus something else. Rather, we should attempt to understand justification and belief, for example, in terms of knowledge. Knowledge is that in terms of which we explain all other epistemological notions. 
+</section> 
+<section>
+
+
+
+
+## What is personal identity?
+
+</section> 
+<section>
+
+
+The questions about knowledge help us see the questions about identity. 
+
+</section> 
+<section>
+
+
+###  Is Doug right in believing Lori?
+</section> 
+<section>
+
+
+<div style="padding:54.17% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/673816164?h=a7b7a1081d&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="TR1"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+</section> 
+<section>
+
+
+> "Your whole life is just a dream."
+
+- Who is Hauser and who is Doug? 
+- Is it possible for two people to "share" the same body?
+
+- At this point, does Doug _know_ that he is not married to Lori?
+
+</section> 
+<section>
+
+
+###  Is Doug right in believing Hauser?
+</section> 
+<section>
+
+
+Watch the following clip from the film.
+</section> 
+<section>
+
+
+<div style="padding:54.17% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/673815921?h=5acd442f25&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="TR2"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+</section> 
+<section>
+
+
+> "I've been playing for the wrong team"
+
+- Is Doug right in believing Hauser?
+
+- At this point in the film, does Doug _know_ that he knows what is necessary to take Cohaagen down?
+
+- At this point in the film, is Doug justified in trusting Hauser? Should he take a strange instrument and shove it up his nose?
+</section> 
+<section>
+
+
+Watch the following clip from the film.
+</section> 
+<section>
+
+
+<div style="padding:54.17% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/673815639?h=8118b82804&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="TR3"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+</section> 
+<section>
+
+
+> "It's my body you have here."
+
+
+Set aside the moral issues involved in Hauser's plan, assume it wasn't evil. Were you in Hauser's position, would you erase your memories in order to carry out your plans?
+
+- If you could wake up tomorrow having finished your degree, without having sent your own "Doug" to do it, would you do it? 
+
+
+- Is Doug *Doug*? Or is he really Hauser?
+</section> 
+<section>
+
+
+
+There are several ways to answer
+
+- Same psychology? Same person. So?
+
+- Same living being? Same person. So?
+
+- Same actions? Same person. So?
+</section> 
+<section>
+
+
+
+## Task
+
+### Short video 
+
+</section> 
+<section>
+
+
+
+We have been talking about knowledge without giving any characterization of it. Think about a moment in your life when you thought you knew something ABOUT YOURSELF but found out you didn't? What were you missing in order to know? Had you had _that_ before, would you have had knowledge?
+
+</section> 
+
+<section data-transition="fade-in" data-background="#009933" data-background-transition="zoom">
 
 ## Next week
 
-### Film: Total Recall (1998) 
-[IMBD entry](https://www.imdb.com/title/tt0100802/)
+### **Film: The Truman Show (1998)**
+* Why is reality important?
+* Podcast: [Roger Crisp on Utilitarianism](http://philosophybites.com/2007/07/roger-crisp-on-.html)
+* Reading: [The Experience Machine](https://unisabanaedu.sharepoint.com/:b:/s/PhilandFilm2022i/EZFPsxKyFhFClfpl1hsfftABsy_RGQRJ_iEAIZox29SIBQ?e=ysjKqC)</section> 
 
-* What is knowledge?
-* Podcast: [Paul Snowdon on Persons and Animals](http://philosophybites.libsyn.com/paul_snowdon_on_persons_and_animals)
-* Podcast: [Jennifer Nagel on Intuitions about Knowledge](http://philosophybites.libsyn.com/jennifer-nagel-on-intuitions-about-knoweldge)
-* Reading: [The Gettier Problem & the Definition of Knowledge by Andrew Chapman](https://1000wordphilosophy.wordpress.com/2014/04/10/the-gettier-problem/)
-* Reading: [Personal Identity by Chad Vance](hhttps://1000wordphilosophy.com/2014/02/10/personal-identity/)
-</section> 
+
