@@ -37,7 +37,7 @@ slides:
 <section>
  
 
-¿cuál es el tema principal de Matrix?
+¿cuál es la preocupación principal de Matrix?
 
 </section> 
 <section>
@@ -45,19 +45,11 @@ slides:
 The film considers several questions of philosophical interest. One is about reality and knowledge of it. Another about why it matters.
 
 </section> 
-<section>
-
-
-> The film makes use of a skeptical scenario in order to make a point about choice.
-
-Much like Quaid and Neo, Truman faces a choice. Is Truman's choice a good one?
-</section> 
-<section>
+ <section>
  
-### The film makes use of a skeptical scenario in order to make a point about the *good* choice.
-
-What determines the right choice? 
+El escepticismo es un trampolín hacia las cuestiones sobre el destino.
 </section> 
+
 <section>
  
 ## Nadar sin agua, volar sin áire y libertad sin restricciones
