@@ -41,11 +41,7 @@ slides:
 ¿cuál es la preocupación principal de Matrix?
 
 </section> 
-<section>
- 
-The film considers several questions of philosophical interest. One is about reality and knowledge of it. Another about why it matters.
 
-</section> 
  <section>
  
 El escepticismo es un trampolín hacia las cuestiones sobre el destino.
