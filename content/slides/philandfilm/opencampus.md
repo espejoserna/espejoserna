@@ -18,6 +18,7 @@ slides:
 # ¿Cómo volverse un héroe?
 
 #### Juan Camilo Espejo-Serna
+#### Facultad de Filosofía y Ciencias Humanas
 #### Universidad de la Sabana
 
 </section> 
