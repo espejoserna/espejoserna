@@ -73,7 +73,6 @@ Matrix es el viaje de Neo para convertirse en héroe. Neo no quiere su destino p
 </section> 
 <section>
  
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/F7KKXxV/Whats-App-Image-2022-02-17-at-7-59-49-AM.jpg" alt="Whats-App-Image-2022-02-17-at-7-59-49-AM" border="0"></a>
-
+<a href="https://ibb.co/BZDzk8Q"><img src="https://i.ibb.co/853KkFf/Whats-App-Image-2022-02-17-at-7-59-49-AM.jpg" alt="Whats-App-Image-2022-02-17-at-7-59-49-AM" border="0"></a>
 </section> 
 
