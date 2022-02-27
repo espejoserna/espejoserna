@@ -19,7 +19,7 @@ weight: 1
 ## Slides
 
 
-<a href="{{< relref "/slides/philandfilm/Semana-5" >}}" target="_blank">Click to open the slides in a new tab.</a>
+<a href="{{< relref "/slides/philandfilm/Semana-6" >}}" target="_blank">Click to open the slides in a new tab.</a>
 
 ---
 
