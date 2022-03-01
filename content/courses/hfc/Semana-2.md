@@ -103,7 +103,7 @@ Cuando pensamos en la explicación (por ejemplo, las condiciones que debe cumpli
 
 ¿Qué es la ciencia?
 
-Una primera reespuest:la ciencia es un conjunto de enunciados organizados deductivamente
+Una primera respuesta:la ciencia es un conjunto de enunciados organizados deductivamente
 
 Física: principios básicos (principio de no-contradición, principio de identidad, principio de tercero excluido, etc.) + principios particulares de la ciencia (el movimiento natural es movimiento en dirección a su posición natural, el vacío no es posible, etc.)
 

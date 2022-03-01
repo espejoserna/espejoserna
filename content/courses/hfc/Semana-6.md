@@ -14,7 +14,7 @@ menu:
 weight: 1
 ---
 
-<a href="https://jcunisabana.github.io/filociencia/6.html#/" target="_blank">Click aquí para ver la presentación en una nueva pestaña.</a>
+<a href="{{< relref "/slides/hfc/6 >}}" target="_blank">Click aquí para ver la presentación en una nueva pestaña.</a>
 ---
 
 ## Plan
