@@ -14,11 +14,11 @@ menu:
 weight: 1
 ---
 
-<a href="{{< relref "/slides/hfc/6 >}}" target="_blank">Click aquí para ver la presentación en una nueva pestaña.</a>
+<a href="{{< relref "/slides/hfc/6" >}}" target="_blank">Click aquí para ver la presentación en una nueva pestaña.</a>
+
 ---
 
 ## Plan
-
 
 1.  La idea central
 2.  Orígenes
