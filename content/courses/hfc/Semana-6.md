@@ -1,6 +1,6 @@
 ---
-title: Semana 6 - La concepción heredada de las teorías científicas
-linktitle: Semana 6 
+title: Semana 6 -7 - La concepción heredada de las teorías científicas
+linktitle: Semana 6 -7 
 toc: true
 type: docs
 date: "Sun Feb  6 17:35:41 2022"
