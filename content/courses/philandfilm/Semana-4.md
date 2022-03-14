@@ -1,6 +1,6 @@
 ---
 title: Week 04 - Why is reality important? 
-linktitle: Week 03 
+linktitle: Week 04
 toc: true
 type: docs
 date: "Sun Feb 13 19:23:43 2022"
@@ -125,6 +125,8 @@ Suppose you endorse Utilitarianism. Would you plug into the experience machine f
 In the following, we will consider three questions that aim at thinking about why reality (real pleassure, real memories, real life) matters.
 
 {{< youtube UxqyRv1z2Tk >}}
+
+
 
 - Would you do what Cypher did and surrender yourself back into the matrix?
 - Why?
