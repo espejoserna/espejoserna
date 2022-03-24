@@ -118,7 +118,7 @@ Realidad virtual: Matrix
 <section>
 
 - Neo: ¿Esto no es real?
-- Morpheus:  ¿Qué es «real»? ¿De qué modo definirías «real»? Si te refieres a lo que puedes sentir, a lo que puedes oler, a lo que puedes saborear y ver, entonces el término «real» son señales eléctricas interpretadas por tu cerebro. Este es el mundo que tú conoces. El mundo tal y como era a finales del siglo veinte. Ahora sólo existe como parte de una simulación interactiva neural que llamamos Matrix. Has vivido en un mundo imaginario, Neo. Este es el mundo como es, en la actualidad. 
+- Morpheus:  ¿Qué es «real»? ¿De qué modo definirías «real»? Si te refieres a lo que puedes sentir, a lo que puedes oler, a lo que puedes saborear y ver, entonces el término «real» son señales eléctricas interpretadas por tu cerebro. 
 
 
 
