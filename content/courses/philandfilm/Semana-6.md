@@ -74,7 +74,7 @@ Select a number of coins, shake them in your hands and count heads.
 
 <iframe src="https://giphy.com/embed/a8TIlyVS7JixO" width="480" height="445" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
-Announce your total ammount. You win if you got the most heads.
+Announce your total amount. You win if you got the most heads.
 
 - Was the game fair?  
 - Is there merit in it?

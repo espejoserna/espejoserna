@@ -25,9 +25,6 @@ weight: 1
 
 
 
-Check out the idea behind: [Philosopher AI](https://philosopherai.com)
-
-
 ## Plan
 
 
