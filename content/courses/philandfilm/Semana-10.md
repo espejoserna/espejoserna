@@ -70,7 +70,7 @@ There is not much linear storytelling in the film
 
 {{< youtube tYScJZWhaHA >}}
 
-<p><a href="https://commons.wikimedia.org/wiki/File:Memento_structure.png#/media/File:Memento_structure.png"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Memento_structure.png" alt="Memento structure.png"></a><br>By Originally uploaded to en.wikipedia on 10:41, 14 September 2006 by en:User:FT2 - Self-made(by en wikipedia user &lt;a href="https://en.wikipedia.org/wiki/en:User:FT2" class="extiw" title="w:en:User:FT2"&gt;FT2&lt;/a&gt;), Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=1239007">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Memento_structure.png#/media/File:Memento_structure.png"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Memento_structure.png" alt="Memento structure.png"></a></p>
 
 
 ## Extended mind
