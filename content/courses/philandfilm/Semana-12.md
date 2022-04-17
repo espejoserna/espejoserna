@@ -4,7 +4,7 @@ linktitle: Week 12
 toc: true
 type: docs
 date: "Sat Mar 26 12:21:59 2022"
-draft: true
+draft: false
 menu:
   philandfilm:
     name: Week 12
@@ -78,11 +78,13 @@ So much for the art, what about the artist?
 
 ### The artist
 
+From: https://en.wikipedia.org/wiki/Woody_Allen_sexual_abuse_allegation
+
 In August 1992, American filmmaker and actor Woody Allen was accused by his adoptive daughter Dylan Farrow, then aged seven, of having sexually molested her in the home of her adoptive mother, actress Mia Farrow, in Bridgewater, Connecticut. Allen has repeatedly denied the allegation.
 
 When the allegation was made, Allen and Mia Farrow had been in a 12-year relationship and had three children together: two adopted, Dylan and Moses, and one biological, Satchel (now known as Ronan Farrow). The sexual abuse is alleged to have taken place eight months after Farrow learned that Allen had a romantic relationship with another of her adoptive daughters, Soon-Yi Previn, who married Allen in 1997; Previn was a first-year undergraduate and 21 years old when Farrow found out about the relationship. Allen alleged that the relationship prompted Farrow to concoct the molestation allegation as an act of vengeance. The Connecticut State's Attorney investigated the allegation but did not press charges. The Connecticut State Police referred Dylan to the Child Sexual Abuse Clinic of Yale–New Haven Hospital, which concluded that Allen had not sexually abused Dylan and the allegation was likely coached or influenced by Mia Farrow. The New York Department of Social Services found "no credible evidence" to support the allegation.
 
-After Allen married Soon-Yi Previn, the adopted daughter of Mia Farrow and André Previn, Farrow commented, "He's my father married to my sister. That makes me his son and his brother-in-law. That is such a moral transgression."\[94\]
+After Allen married Soon-Yi Previn, the adopted daughter of Mia Farrow and André Previn, Farrow commented, "He's my father married to my sister. That makes me his son and his brother-in-law. That is such a moral transgression."
 
 Woody Allen has shaped the film industry in ways that will only be fully understood in retrospective.  
 But his moral character seems, at best, questionable and, at worst, that of a sexual predator.

@@ -14,10 +14,10 @@ slides:
 ---
 
 
-<section data-background-image="https://upload.wikimedia.org/wikipedia/commons/9/95/Rubiks-revenge-alles.jpg" data-background-size="cover" data-background-position="right">
+<section data-background-image="https://losviajesdeaspasiacom.files.wordpress.com/2015/08/013_manhattan-brian-hamill-facebook.jpg" data-background-size="cover" data-background-position="right">
 
 <div  style="width: 50%; height: 100%; float: left; color:#fff; background:#000; box-shadow:5px 0 0 #000, -5px 0 0 #000; padding: 5px 0;">
-<h3>Moral thoughtlessness</h3>               
+<h3>The art and the artist</h3>               
 <font size="3">
 <p>Juan Camilo Espejo-Serna<br>Facultad de Filosofía y Ciencias Humanas<br> Universidad de la Sabana</p>
 </font>
@@ -28,12 +28,13 @@ slides:
 ## Plan
 
 1.  Film overview
-1.  The hairpin timeline
-2.  Extended mind
-3.  Moral thoughtlessness
+2.  The artists
+3.  The philosophers
+4.  The humans
+
 
 </section>
-<section data-background-image="https://upload.wikimedia.org/wikipedia/commons/8/81/A_woman_thinking.jpg" data-background-size="cover" data-background-position="right">
+<section data-background-image="https://losviajesdeaspasiacom.files.wordpress.com/2015/08/013_manhattan-brian-hamill-facebook.jpg" data-background-size="cover" data-background-position="right">
 
 
 <h2 style="text-shadow: 2px 2px 4px #000000;"> Film overview</h2>
@@ -42,295 +43,286 @@ slides:
 <section>
 
 
-Write in chat a one-line summary of the plot of MEMENTO.
+
+Write in chat a one-line summary of the plot of Manhattan.
 
 (A good one :P).
 
-<iframe src="https://giphy.com/embed/ukE9oP3kb7TVu" width="480" height="203" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+
+<iframe src="https://giphy.com/embed/1mssFq6HEF3TWHaVQf" width="100%" height="100%" style="position:relative" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+
+
+
+
+
 </section>
+
+
+<section data-background-image="https://losviajesdeaspasiacom.files.wordpress.com/2015/08/013_manhattan-brian-hamill-facebook.jpg" data-background-size="cover" data-background-position="right">
+
+
+<h2 style="text-shadow: 2px 2px 4px #000000;"> The artists</h2>
+
+</section>
+
 <section>
 
 
-
-I'm unsure about whether the film makes the philosophical claim I will me defending today. But the example presented surely does help make my point. 
-
-The claim is not from the film but on the *basis* of the film.
-</section>
-<section>
-
-
-Moral failures are usually explained in terms of either failures in knowledge or failures in the will.
-
-An action is wrong because either the person didn't know that it was a bad action or because even if they knew that it was a bad action they din't have the will power to get them to do the correct thing.
-</section>
-<section>
-
-
-- Example of wrong action caused by a failure of knowledge?
-
-- Example of wrong action caused by a failure of the will?
-</section>
-<section>
-
-
-### Main claim
-
-In MEMENTO, I will argue, there is a third kind: moral thoughtlessness.
-</section>
-<section>
-
-
-Moral thoughtlessness is a particular kind of moral failure, where the subject is fully responsible but not because of weakness of the will or lack of knowledge. I will explain this concept through the film.
-</section>
-<section>
-
-
-CONTRAST: There is one way of reading the film where the main point is that Lenny has a mental disorder that causes him to have a memory problem. He is not to be blamed because of this disorder. Others, like Natalie and Ted, are guilty.
-</section>
-<section>
-
-
-I will argue that *Memento* presents us an example of the moral problems that thoughtlessness about our own mental life can generate. I will argue that Lenny is guilty of moral thoughtlessness.
-</section>
-<section data-background-image="https://upload.wikimedia.org/wikipedia/commons/8/81/A_woman_thinking.jpg" data-background-size="cover" data-background-position="right">
-
-
-<h2 style="text-shadow: 2px 2px 4px #000000;"> The hairpin timeline</h2>
-
+The film considers several topics of philosophical interest revolving around what it is to be human and our own understanding of morality.
 
 </section>
 <section>
 
+But this time we will also consider the human being that made the film itself.
 
-There is not much linear storytelling in the film
+So unlike previous sessions, I do not wish to focus on the film alone but also on what we ought to do with the moral standing of the people involved.
+
 </section>
 <section>
-
-
-### Nolan's explanation
-</section>
-<section>
-
-
-{{< youtube tYScJZWhaHA >}}
-</section>
-<section>
-
-
-<p><a href="https://commons.wikimedia.org/wiki/File:Memento_structure.png#/media/File:Memento_structure.png"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Memento_structure.png" alt="Memento structure.png"></a>
-</section>
-<section data-background-image="https://upload.wikimedia.org/wikipedia/commons/8/81/A_woman_thinking.jpg" data-background-size="cover" data-background-position="right">
-
-
-<h2 style="text-shadow: 2px 2px 4px #000000;">Extended mind</h2>
  
+Let us begin with a clip.
+
+</section>
+<section>
+ 
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/700047451?h=72b6229921&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="5-converted"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+
 </section>
 <section>
 
+<div style=" text-align: left;"> 
+YALE: Well, I'm not a saint, okay?  
 
-
-Claim: Even though Lenny has a mental disorder; this is not the root of the moral problem. He lost his internal memory but has his *extended* memory.
+IKE: (Gesturing, almost hitting the skeleton) But you—but you're too easy on yourself, don't you see that?! You know, you ... you—that's your problem, that's your whole problem. You-you rationalize everything. You're not honest with yourself. You talk about . . . you wanna—you wanna write a book, but—but, in the end, you'd rather buy the Porsche, you know, or you cheat a little bit on Emily, and you play around the truth a little with me, and—and the next thing you know, you're in front of a Senate committee and you're naming names! You're informing on your friends!  
+</div>
 </section>
 <section>
 
+<div style=" text-align: left;"> 
 
-This might seem weird because it amounts to the claim that Lenny’s mind extends out of his head. How could this be possible?
+YALE (Reacting) You are so self-righteous, you know. I mean, we're just people, we're just human beings, you know. You think you're God!  
+
+IKE I—I gotta model myself after someone!  
+
+YALE Well, you just can't live the way you do, you know. It's all so perfect.  
+</div>
+
 </section>
 <section>
 
-
-### The extended mind hypothesis
-
-"mental states, including states of believing, could be grounded in physical traces that remained firmly outside the head. As long as a few simple conditions were met (more on which below), Leonard’s notes and tattoos could indeed count as new additions to his store of long-term knowledge and dispositional belief."
-</section>
-<section>
-
-
-### First example: tetris
-</section>
-<section>
-
-
-<iframe src="https://giphy.com/embed/f7STAwvEml1eIf0FEq" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/tetris-denyse-mitterhofer-dmitterhofer-f7STAwvEml1eIf0FEq">via GIPHY</a></p>
-</section>
-<section>
-
-
-TETRIS. The human player has the option of identifying the falling pieces (a) by mental rotation or (b) by the use of the onscreen button that causes the falling zoid to rotate.
-</section>
-<section>
-
-
-Now imagine (c) a future human with both normal imaginative rotation capacities and also a retinal display that can fast-rotate the image on demand, just like using the rotate button. Imagine too that to initiate this latter action the future human issues a thought command straight from motor cortex.
-</section>
-<section>
-
-
-Now let us pump our intuitions. Case (a) looks to be a simple case of mental rotation. Case (b) looks like a simple case of non-mental (merely external) rotation. Yet case (c) now looks hard to classify.
-</section>
-<section>
-
-
-By hypothesis, the computational operations involved are the same as in case (b). Yet our intuitions seem far less clear.
-</section>
-<section>
-
-
-But now add the Martian player (case 4) whose natural cognitive equipment includes (for obscure ecological reasons) the kind of bio-technological fast-rotate machinery imagined in case (3). In the Martian case, we would have no hesitation in classifying the fast-rotations as species of mental rotation.
-</section>
-<section>
-
-
-Extended mind hypothesis: If, as we confront some task, a part of the world functions as a process which, were it to go on in the head, we would have no hesitation in accepting as part of the cognitive process, then that part of the world is (for that time) part of the cognitive process.
-</section>
-<section>
-
-
-### Second example: the notebook
-
-<iframe src="https://giphy.com/embed/MTjM7okzpQu88" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/soulpancake-school-writing-MTjM7okzpQu88">via GIPHY</a></p>
-</section>
-<section>
-
-
-Inga hears of an intriguing exhibition at MOMA (the Museum of Modern Art in New York). She thinks, recalls it's on 53rd St, and sets off.
-</section>
-<section>
-
-
-Otto suffers from a mild form of Alzheimer's, and as a result he always carries a thick notebook.
-
-Otto walked to 53rd St. because he wanted to go to the museum and believed (even before consulting his notebook) that it was on 53rd St.
-</section>
-<section>
-
-
-The functional poise of the stored information was, in each case, sufficiently similar (we \[Clark and Chalmers\] argued) to warrant similarity of treatment. Otto’s long-term beliefs just weren’t all in his head.
-</section>
-<section>
-
-
-What is in the mind?
-</section>
-<section>
-
-
-Requirements:
+<div style=" text-align: left;"> 
 
 <small>
 
-1.  That the resource be reliably available and typically invoked. (Otto always carries the notebook and won't answer that he ‘doesn't know’ until after he has consulted it).
-2.  That any information thus retrieved be more-or-less automatically endorsed. It should not usually be subject to critical scrutiny (unlike the opinions of other people, for example). It should be deemed about as trustworthy as something retrieved clearly from biological memory
-3.  That information contained in the resource should be easily accessible as and when required.
+IKE: Jesus—well, what are future generations gonna say about us? My God! (He points to the skeleton, acknowledging it at last) You know, someday we're gonna—we're gonna be like him! I mean, y-y-y-y-you know—well, he was probably one of the beautiful people. He was probably dancing and playing tennis and everything. And—and— (Pointing to the skeleton again) and now—well, this is what happens to us! You know, uh, it's very important to have—to have some kind of personal integrity. Y-you know, I'll—I'll be hanging in a class­room one day. And—and I wanna make sure when I ... thin out that I'm w-w-well thought off.
+
+</small>
+</div>
+
+</section>
+<section>
+
+Compare this to the following clips
+
+</section>
+<section>
+
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/700048662?h=83010a56d7&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="2-converted"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+
+</section>
+<section>
+  
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/700048606?h=a07f5b9402&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="3-converted"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+
+</section>
+<section>
+  
+Describe in three words the character played by Woody Allen.
+
+</section>
+<section>
+  
+So much for the art, what about the artist?
+
+</section>
+<section>
+  
+The following is from: https://en.wikipedia.org/wiki/Woody_Allen_sexual_abuse_allegation
+
+
+</section>
+<section>
+
+
+In August 1992, American filmmaker and actor Woody Allen was accused by his adoptive daughter Dylan Farrow, then aged seven, of having sexually molested her in the home of her adoptive mother, actress Mia Farrow, in Bridgewater, Connecticut. Allen has repeatedly denied the allegation.
+
+</section>
+<section>
+  
+When the allegation was made, Allen and Mia Farrow had been in a 12-year relationship and had three children together: two adopted, Dylan and Moses, and one biological, Satchel (now known as Ronan Farrow). The sexual abuse is alleged to have taken place eight months after Farrow learned that Allen had a romantic relationship with another of her adoptive daughters, Soon-Yi Previn, who married Allen in 1997; Previn was a first-year undergraduate and 21 years old when Farrow found out about the relationship. Allen alleged that the relationship prompted Farrow to concoct the molestation allegation as an act of vengeance.
+
+</section>
+<section>
+
+The Connecticut State's Attorney investigated the allegation but did not press charges. The Connecticut State Police referred Dylan to the Child Sexual Abuse Clinic of Yale–New Haven Hospital, which concluded that Allen had not sexually abused Dylan and the allegation was likely coached or influenced by Mia Farrow. The New York Department of Social Services found "no credible evidence" to support the allegation.
+
+</section>
+<section>
+  
+After Allen married Soon-Yi Previn, the adopted daughter of Mia Farrow and André Previn, Farrow commented, "He's my father married to my sister. That makes me his son and his brother-in-law. That is such a moral transgression."
+
+</section>
+<section>
+
+
+Woody Allen has shaped the film industry in ways that will only be fully understood in retrospective.  
+But his moral character seems, at best, questionable and, at worst, that of a sexual predator.
+
+</section>
+<section>
+
+
+How should we respond to brilliant-but-flawed artist and his work?
+
+</section>
+<section>
+
+
+Possible responses:
+
+<small>
+
+1.  Why bother with the question? You have to distinguish the ART from the ARTIST.
+2.  It is wrong to mix! It is an ad hominen attack. Criticize the film, not the director and actor. Do not mix aesthethics with ethics.
+3.  Maybe the moral character of the artist is in some way embedded in their art but it is only circumstantial, a minor element of the work and by no means matter to criticize the filmwork as a whole.
+4.  Maybe the moral character of the artist is in some way embedded in their art but it can be fixed (or ignored) and thus does not affect the work of art.
+5.  Maybe the moral character of the artist is in some way embedded in their art but people can make amends and thus save the work.
+6.  Maybe the moral character of the artist is in some way embedded in their art and there is no way to make amends and thus save the work.
 
 </small>
 </section>
 <section>
 
 
-Lenny has anterograde amnesia. He cannot make new memories like we do.
+What do you think about this particular case? What do you think about similar cases like Weinstein (convicted) and Polanski (fugitive of the law)?
 
-But there is a sense in which he can make new memories. His tattoos, his polaroids, his notes: these are his memories. Following Clark, yes.
+<small>
+
+- In October 2017, The New York Times and The New Yorker reported that dozens of women had accused Harvey Weinstein of rape, sexual assault and sexual abuse over a period of at least thirty years. Weinstein denied "any non-consensual sex". In February 2020, he was found guilty of rape in the third degree and a criminal sexual act. In March 2020, he was sentenced to 23 years of imprisonment.
+
+- In 1977, Polanski was arrested and charged with drugging and raping a 13-year-old girl. As a result of a plea bargain, he pleaded guilty to the lesser offence of unlawful sex with a minor. In 1978, after learning that the judge planned to reject his plea deal and impose a prison term instead of probation, he fled to Paris.
+
+</small>
+
 </section>
-<section data-background-image="https://upload.wikimedia.org/wikipedia/commons/8/81/A_woman_thinking.jpg" data-background-size="cover" data-background-position="right">
+
+<section data-background-image="https://losviajesdeaspasiacom.files.wordpress.com/2015/08/013_manhattan-brian-hamill-facebook.jpg" data-background-size="cover" data-background-position="right">
 
 
-<h2 style="text-shadow: 2px 2px 4px #000000;">Moral thoughtlessness</h2>
+<h2 style="text-shadow: 2px 2px 4px #000000;">The philosophers</h2>
+
+</section>
+
+
+<section>
+
+
+
+If you randomly pick a philosopher from the past, there is a strong chance you get to find racism, misogyny, aporophobia, and many other prejudices and biases that discriminate against minorities.
+</section>
+<section>
+
+1.  Aristotle: thought that people could naturally be slaves and women are lesser versions of men.
+2.  Descartes took animals to be machines.
+3.  Kant: made racist remarks about the “perfection” of the white race and the ineptitude of the non-white races right up until his death
+4.  Hume: “I am apt to suspect the negroes, and in general all the other species of men (for there are four or five different kinds) to be naturally inferior to the whites.
 
 </section>
 <section>
 
 
-Moral failures are usually explained in terms of either failures in knowledge or failures in the will.
-</section>
-<section>
-
-
-If Lenny's illness were the problem, what kind of failure would it be?
-
-Let us set aside issues about the wrongness of revenge. Let us suppose that he is justified. (I dont' think so, but that is an issue we will discuss with another film.)
+5.  Schopenhauer: “Women are suited to being the nurses and teacher of our earliest childhood precisely because they themselves are childish, silly and short-sighted, in a word big children, their whole lives long: a kind of intermediate stage between the child and the man, who is the actual human being, ‘man.’”
+6.  Nietzsche: sick people are parasites on society
+7.  Frege: antisemite
+8.  Heidegger: nazi
+9.  Sarte: womanizer
 
 </section>
 <section>
 
 
-### When does Lenny decide to kill Teddy?
-</section>
-<section>
-Right before the first tatoo?
-
-<span class="fragment">Right before the first scene of the film?</span>
-
-<span class="fragment">Right after Natalie tricks him?
-</span>
-
-<span class="fragment">Right after he realizes Teddy tricks him?
-</span>
-
-
-
-
+How should we respond to brilliant-but-flawed philosopher and his work?
 
 </section>
 <section>
 
 
-I want to argue that the exact time he decides to kill Tedy is: <span class="fragment">Never</span>.
+Possible responses to the question:
 
+<small>
+
+1.  Why bother with the question? You have to distinguish the philosopher from the theory.
+2.  It is wrong to mix! It is an ad hominen attack. Criticize the theory, not the philosopher. Do not mix philosophy with the persona life.
+3.  Maybe the moral character of the philosopher is in some way embedded in their work but it is only circumstantial, a minor element of the theory and by no means matter to criticize it as a whole.
+4.  Maybe the moral character of the philosopher is in some way embedded in their philosophy but it can be fixed (or ignored) and thus does not affect the work of art.
+5.  Maybe the moral character of the artist is in some way embedded in their art but others can make amends and thus save the work.
+
+</small>
+
+What do you think about the case of the troubling views of philosophers?
+</section>
+
+<section data-background-image="https://losviajesdeaspasiacom.files.wordpress.com/2015/08/013_manhattan-brian-hamill-facebook.jpg" data-background-size="cover" data-background-position="right">
+
+
+<h2 style="text-shadow: 2px 2px 4px #000000;">The humans</h2>
 
 </section>
 <section>
 
- 
-Lenny never fully decided to kill Teddy; <span class="fragment">he just went along</span>
+What to do in general?
 
-
-Lenny decides what to believe and what to forget. This has nothing to to do with his psychological condition, but rather his moral standing.
 </section>
 <section>
 
- 
-His character does not change throught the film. He believes that revenge is ok but even if we accept that revenge is ok, he is not killing Ted justly.
+
+
+- Acceptance: Take the Good, Ignore the Bad
+
+- Complete Dismissal: Boycott and Excommunication
+
+- Historical Apologism: Judge by Past Standards
+
+- Redemption: Using the Good to Defeat the Bad
+
 </section>
 <section>
 
- 
-Firm, fixed general moral rules written in stone (or skin) can be misled by thoughtlessness. That is Lenny's case.
+
+What are *you* more inclined to do?
+
 </section>
+
 <section>
 
- 
-Thoughtful wrongdoing vs Thoughtless wrongdoing
-</section>
-<section>
 
- 
-Can you give me an example of a thoughtful wrongdoing and thoughless one?
-</section>
-<section>
+Cancel culture  vs. blissful ignorance
 
-Example:  "Thoughtful" sexual harassment vs Thoughtless sexual harassment
-</section>
-<section>
-
- 
-Lenny is not blameless. He is fully responsible of killing Teddy because he put himself in a position where he knew that would be what he would do. Though he never actually decides, his moral failure consists in his going along, not minding the situation and eventually killing someone out of a brief moment of spite. 
+This is a false dilemma.
 
 
 </section>
-
- 
 
 
 
 <section data-transition="fade-in" data-background="#009933" data-background-transition="zoom">
 
-##  Discussion
 
-### Your pick
+##  Next week
 
-* Film: Pick any of the films we have seen!
-* Write: 200 word summary of one the films that interested you for a rewatch
-* Read: Search a paper on [1000 word philosophy](http://1000wordphilosophy.com) that relates to the film you chose and read it.
+### Film: Network (1979)
+
+* Listen:[Cassam on Conspiracy theories](https://philosophybites.com/2015/05/quassim-cassam-on-conspiracy-theories.html)
+* Read: [Jared Milson on Conspiracy theories](https://1000wordphilosophy.com/2020/12/17/conspiracy-theories/)
 
 </section> 
