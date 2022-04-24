@@ -18,7 +18,7 @@ weight: 12
 ## Slides
 
 
-<a href=" {{< relref "/slides/philandfilm/Semana-12" >}}" target="_blank">Click to open the slides in a new tab.</a>
+<a href=" {{< relref "/slides/philandfilm/Semana-13" >}}" target="_blank">Click to open the slides in a new tab.</a>
 
 
 ---
@@ -30,9 +30,6 @@ Plan
 3.  Ratings, news and entertainment
 4.  Grades, learning and entertainment
 
-  
-
-===
 
 ## Film overview
 
@@ -155,18 +152,17 @@ The assumption behind gamification is that learning should be valued in terms of
 
 ### Entertainment
 
-Learning should not be fun.
+Learning should not be fun. (?)
 
-It should not be boring either.
+It should not be boring either. (?)
 
-This is the wrong scale
+This is the wrong scale.
 
 If we care about grades then we see gamification as good thing: it gets us closer to our ends.
 
 If we care about learning we might see gamification as a bad thing: it changes the value scale.
 
-### Next week
-
-* Watch: [The Social Dilemma](https://www.youtube.com/watch?v=1cSGvqQHpjs)
+## Next week
+### Watch: The Social Dilemma (2020)
 * Watch:[The Case for Ending Data Economy](https://www.youtube.com/watch?v=luCXlPYrTP4)
 * Read: [Carissa Veliz on Why Democracy Needs Privacy](http://bostonreview.net/science-nature-politics/carissa-veliz-power-privacy)
