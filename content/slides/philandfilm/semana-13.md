@@ -168,7 +168,7 @@ One might be tempted to think first and foremost of values as moral values. But 
 
 Example: values in a football match
 
-If winning is the main aim of football, whatever gets us closer to such aim has value.
+IF winning is the main aim of football, whatever gets us closer to such aim has value.
 
 <iframe src="https://giphy.com/embed/26FL4BhNXmo8PNLYk" width="480" height="258" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 </section>
@@ -178,14 +178,14 @@ If winning is the main aim of football, whatever gets us closer to such aim has 
 
 What is the main aim of a news show?
 
-We value what gets us closer to achieving that aim
+We value what gets us closer to achieving that aim.
 
 </section>
 
 <section>
 
 
-It seems the question wears the answer on its sleeves: the main functions of a newscast is to communicate the news.
+It seems the question wears the answer on its sleeves: the main function of a newscast is to *communicate* the news.
 
 </section>
 
@@ -243,7 +243,7 @@ The film show the change of values in the news.
 
 Instead of news, the aim becomes ratings. The means (ratings) become the ends.
 
-(Kant already warned us about a version of this problema
+(Kant already warned us about a version of this problem).
 </section>
 
 
