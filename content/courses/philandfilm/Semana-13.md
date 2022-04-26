@@ -30,6 +30,12 @@ Plan
 3.  Ratings, news and entertainment
 4.  Grades, learning and entertainment
 
+<<<<<<< Updated upstream
+=======
+  
+
+---
+>>>>>>> Stashed changes
 
 ## Film overview
 
