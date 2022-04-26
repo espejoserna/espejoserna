@@ -11,7 +11,7 @@ menu:
     weight: 10
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
-weight: 1
+weight: 9
 ---
 
 <a href="{{< relref "/slides/hfc/9" >}}" target="_blank">Click aquí para ver la presentación en una nueva pestaña.</a>
