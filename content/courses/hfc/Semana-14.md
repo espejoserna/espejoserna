@@ -1,5 +1,5 @@
 ---
-title: Semana 13 - Kuhn - Ciencia revolucionaria
+title: Semana 14 - Filosofías feministas de la ciencia
 linktitle: Semana 10
 toc: true
 type: docs
@@ -7,11 +7,11 @@ date: "Sun Apr  3 21:08:31 2022"
 draft: false
 menu:
   hfc:
-    name: Semana 13
-    weight: 13
+    name: Semana 14
+    weight: 14
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
-weight: 11
+weight: 13
 ---
 
 <a href="{{< relref "/slides/hfc/14" >}}" target="_blank">Click aquí para ver la presentación en una nueva pestaña.</a>
