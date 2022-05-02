@@ -14,10 +14,10 @@ slides:
 ---
 
 
-<section data-background-image="https://cdn.cnn.com/cnnnext/dam/assets/140326200452-network---howard-beale-horizontal-large-gallery.jpg" data-background-size="cover" data-background-position="right">
+<section data-background-image="https://makeawebsitehub.com/wp-content/uploads/2016/04/social_media.jpg" data-background-size="cover" data-background-position="right">
 
 <div  style="width: 50%; height: 100%; float: left; color:#fff; background:#000; box-shadow:5px 0 0 #000, -5px 0 0 #000; padding: 5px 0;">
-<h3>News and entertainment</h3>               
+<h3>The problem of social media</h3>               
 <font size="3">
 <p>Juan Camilo Espejo-Serna<br>Facultad de Filosofía y Ciencias Humanas<br> Universidad de la Sabana</p>
 </font>
@@ -27,345 +27,206 @@ slides:
 
 <section>
 
-## Plan
+Plan
 
 1.  Film overview
-2.  Conspiracy against the news
-3.  Ratings, news and entertainment
-4.  Grades, learning and entertainment
-
-
+2.  Caring for truth
+3.  The problem
 </section>
-<section data-background-image="https://cdn.cnn.com/cnnnext/dam/assets/140326200452-network---howard-beale-horizontal-large-gallery.jpg" data-background-size="cover" data-background-position="right">
+
+
+<section data-background-image="https://makeawebsitehub.com/wp-content/uploads/2016/04/social_media.jpg" data-background-size="cover" data-background-position="right">
 
 
 <h2 style="text-shadow: 2px 2px 4px #000000;"> Film overview</h2>
 
 </section>
 
+
+
+
 <section>
-
-
-Write in chat a one-line summary of the plot of NETWORK.
+Write in chat a one-line summary of the plot of THE SOCIAL DILEMMA.
 
 (A good one).
 
-<iframe src="https://giphy.com/embed/l41YdsBZC6Im0L8cM" width="100%" height="100%" style="position:relative" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<iframe src="https://giphy.com/embed/atZII8NmbPGw0" width="100%" height="100%" style="position:relative;" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+</section>
 
+
+<section>
+
+The film mixes a documentary with some kind of live action reenactment. I'm not a fan, but it gets a message across. (I hope).
+
+</section>
+
+
+<section>
+
+What is the problem?
+
+</section>
+
+
+<section>
+
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/705194092?h=d8b5f842fb&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="ai1"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+
+</section>
+
+
+<section>
+
+The issue is one about **truth**.
+
+</section>
+
+<section data-background-image="https://makeawebsitehub.com/wp-content/uploads/2016/04/social_media.jpg" data-background-size="cover" data-background-position="right">
+
+
+<h2 style="text-shadow: 2px 2px 4px #000000;"> Caring for truth</h2>
 
 </section>
 
 <section>
-
-The technical aspects of the film are dated; the personal aspects are spot on.
-
+What do you think "caring for truth" is?
 </section>
+
 
 <section>
 
-Main claim: Network shows one way in which considerations about value may go.
-it shows us the change in values in the news.
-
-
+Telling the truth
 </section>
+
+
+<section>
+What do you think "not caring for truth" is?
+</section>
+
+
+<section>
+Telling lies? Not quite.
+</section>
+
 
 <section>
 
-It is a worry about truth
+###  Lies and bullshit
 </section>
+
 
 <section>
 
-
-But this worry is not that they change truth for lies; rather it is that whether true or false does not matter. The _scale_ changes.
-
-Let me explain.
-  
+What is the difference between lies and bullshit
 </section>
 
-<section data-background-image="https://cdn.cnn.com/cnnnext/dam/assets/140326200452-network---howard-beale-horizontal-large-gallery.jpg" data-background-size="cover" data-background-position="right">
 
-
-<h2 style="text-shadow: 2px 2px 4px #000000;">Conspiracy against the news</h2>
-
+<section>
+"I will never do it again. Promise."  This can be said as a lie (knowing that for example you will do it again) or as bullshit (not caring whether it happens or not but saying so because of the power it has)
 </section>
+
+
+<section>
+There are cases in which this is meant either as truth, lies or bullshit
+</section>
+
 
 <section>
 
+A teacher has the power to change your mind. Think about the difference between such power and that of social media.
 
-
-"A conspiracy theory is an explanation of some alleged fact or event in terms of the actions undertaken by a small group of individuals working in secret."
-
-Does the film present a conspiracy _against_ the news?
 </section>
+
 
 <section>
 
-
-Conspiracy theories are sometimes true (Watergate). And thus they are sometimes reasonable to accept. But when?
+FB and other social media platforms have the power to change minds too. That is their business model.
 
 </section>
+
 
 <section>
 
-There is no recipe. There is no single way to determine when not to believe. But we can be wary of how they are meant to work.
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/705194038?h=ccff5b8cdd&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="psyeffect"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 </section>
+
 
 <section>
 
-Cassam suggests that conspiracy theories work because of vice of the mind.
+And what is their aim?
+</section>
+
+
+<section>
+  <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/705194060?h=5f09327d8b&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="the-product"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+
 
 </section>
+
+
+<section data-background-image="https://makeawebsitehub.com/wp-content/uploads/2016/04/social_media.jpg" data-background-size="cover" data-background-position="right">
+
+
+<h2 style="text-shadow: 2px 2px 4px #000000;"> The problem</h2>
+
+</section>
+
+
+
+
 
 <section>
 
-Vices like singlemindedness or intelectual pride. Examples?
-
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/705193997?h=bc27e9345d&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="fbvswikipedia"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 </section>
+
+
+<section>
+Truth?
+</section>
+
 
 <section>
 
-Does the film present a conspiracy against the news?
+The end of truth will not come as a bang but as a whimper in the form of pervasive pizzagate.
 
 </section>
+
+
+<section>
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/705193943?h=8c59d76eb8&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="pizzagate"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+
+</section>
+
 
 <section>
 
-I don't think so. What then?
+What is at risk is a shared understanding of reality
 
 </section>
 
-
-<section data-background-image="https://cdn.cnn.com/cnnnext/dam/assets/140326200452-network---howard-beale-horizontal-large-gallery.jpg" data-background-size="cover" data-background-position="right">
-
-
-<h2 style="text-shadow: 2px 2px 4px #000000;">Ratings, news and entertainment
-</h2>
-
-</section>
 
 <section>
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/705193924?h=047a7fe917&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="truthai"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
-The film does not show a conspiracy to destroy the news or change it from the root. There is however an attack on the news. Let me show you what kind of attack I mean.
 
 </section>
+
 
 <section>
+Social networks aim, at best, at virality. At worst, they aim purely and only at profit, regardless of the means.
 
-The attack is a slow change in values
-
-</section>
-
-<section>
-
-
-One might be tempted to think first and foremost of values as moral values. But the notion of value is more general and is best explained by other means.
-
-</section>
-
-<section>
-
-Example: values in a football match
-
-IF winning is the main aim of football, whatever gets us closer to such aim has value.
-
-<iframe src="https://giphy.com/embed/26FL4BhNXmo8PNLYk" width="480" height="258" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
-</section>
-
-<section>
-
-
-What is the main aim of a news show?
-
-We value what gets us closer to achieving that aim.
-
-</section>
-
-<section>
-
-
-It seems the question wears the answer on its sleeves: the main function of a newscast is to *communicate* the news.
-
-</section>
-
-<section>
-
-
-We have ratings to judge how good a newscast show is: ratings meassure the amount of people that keep on watching and thus the people who get what they want, that is, the news.
-
-</section>
-
-<section>
-
-
-Why are ratings used to judge a show?
-
-</section>
-
-<section>
-
-
-**Proxies**
 
 
 </section>
-
-<section>
-
-
-When we cannot meassure X but we know that it correlates with a variable Y that be meassured we use Y as a proxy for X.
-
-Examples?
-
-</section>
-
-<section>
-
-
-The problem with proxies is that they can foster perverse incentives. One can maximize a proxy without caring for the original aim. The proxy stops being a proxy.
-
-Example: change of values in a football match: recognition instead of goals
-
-<iframe src="https://giphy.com/embed/EMw0vgpmBYdVe" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
-
-</section>
-
-<section>
-
-
-The film show the change of values in the news.
-
-</section>
-
-<section>
-
-
-Instead of news, the aim becomes ratings. The means (ratings) become the ends.
-
-(Kant already warned us about a version of this problem).
-</section>
-
-
-<section data-background-image="https://cdn.cnn.com/cnnnext/dam/assets/140326200452-network---howard-beale-horizontal-large-gallery.jpg" data-background-size="cover" data-background-position="right">
-
-
-<h2 style="text-shadow: 2px 2px 4px #000000;">Grades, learning and entertainment
-
-</h2>
-
-
-</section>
-
-<section>
-
-  
-
-
-I want to further explain the problems of changes in values in an example that is closer to us: Grades, learning and entertainment
-
-
-</section>
-
-<section>
-
-
-
-Act I: Instructors and students value learning.
-
-</section>
-
-<section>
-
-Act II: Instructors and students value grades as a proxy for learning.
-
-</section>
-
-<section>
-
-Act III: Instructors and students change their values from learning to grades.
-
-</section>
-
-<section>
-
-Act IV:  Sad ending.
-
-</section>
-
-<section>
-
-Probably: we have all been, from time to time, sucked into caring for grades above learning.
-
-examples?
-
-</section>
-
-<section>
-
-The film shows us the dangers of mixing news and entertainment. What are the dangers of mixing learning and entertainment?
-
-</section>
-
-<section>
-
-Gamification: "learning through a game". Examples?
-
-</section>
-
-<section>
-
-Instructors are bombarded with the following: "No motivation to study? Low grades? Learning problems? Make learning fun."
-
-</section>
-
-<section>
-
-The assumption behind gamification is that learning should be valued in terms of fun (at best as a proxy for learning). Why?
-
-
-
-</section>
-
-<section>
-
-Entertainment?
-
-</section>
-
-<section>
-
-
-> Learning should not be fun; It should not be boring either. 
-
-What do you think?
-
-
-</section>
-
-<section>
-
-
-This is the wrong scale.
-
-</section>
-
-<section>
-
-If we care about grades then we see gamification as good thing: it gets us closer to our ends.
-
-If we care about learning we might see gamification as a bad thing: it changes the value scale.
-
-</section>
-
-
 
 <section data-transition="fade-in" data-background="#009933" data-background-transition="zoom">
 
 
 ##  Next week
 
-### Film: The Social Dilemma (2020)
+### Film: The act of killing (2012)
 
 * Watch:[The Case for Ending Data Economy](https://www.youtube.com/watch?v=luCXlPYrTP4)
 * Read: [Carissa Veliz on Why Democracy Needs Privacy](http://bostonreview.net/science-nature-politics/carissa-veliz-power-privacy)
