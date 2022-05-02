@@ -228,8 +228,8 @@ Social networks aim, at best, at virality. At worst, they aim purely and only at
 
 ### Film: The act of killing (2012)
 
-* Watch:[The Case for Ending Data Economy](https://www.youtube.com/watch?v=luCXlPYrTP4)
-* Read: [Carissa Veliz on Why Democracy Needs Privacy](http://bostonreview.net/science-nature-politics/carissa-veliz-power-privacy)
+* Watch: The act of killing
+* Read: [Ethical realism](https://1000wordphilosophy.com/2015/11/05/ethical-realism/)
 
 
 </section> 

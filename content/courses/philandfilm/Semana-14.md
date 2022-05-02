@@ -18,7 +18,7 @@ weight: 13
 ## Slides
 
 
-<a href=" {{< relref "/slides/philandfilm/Semana-13" >}}" target="_blank">Click to open the slides in a new tab.</a>
+<a href=" {{< relref "/slides/philandfilm/Semana-14" >}}" target="_blank">Click to open the slides in a new tab.</a>
 
 
 ---
@@ -101,6 +101,10 @@ Shared understanding of reality
 
 Social networks aim, at best, at virality. At worst, they aim purely and only at profit, regardless of the means.
 
-### Next week
+## Next week
 
-### Film: The act of killing
+
+### Film: The act of killing (2012)
+
+* Watch: The act of killing
+* Read: [Ethical realism](https://1000wordphilosophy.com/2015/11/05/ethical-realism/)
