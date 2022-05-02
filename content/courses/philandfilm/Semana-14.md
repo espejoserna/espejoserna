@@ -102,3 +102,5 @@ Shared understanding of reality
 Social networks aim, at best, at virality. At worst, they aim purely and only at profit, regardless of the means.
 
 ### Next week
+
+### Film: The act of killing
