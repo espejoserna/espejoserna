@@ -65,6 +65,14 @@ Octubre 29, 2021: Facebook cambia su nombre a Meta
 </section>
 <section>
 
+ Versión corta: 
+  {{< youtube mpI9GcWWI4s >}}
+
+</section>
+<section>
+
+Versión larga:
+
 {{< youtube gElfIo6uw4g >}}
 </section>
 
@@ -80,7 +88,7 @@ Octubre 29, 2021: Facebook cambia su nombre a Meta
 
 
 <section>
-¿Qúé opinan sobre el metaverso? <span class="fragment"> ¿Les emociona? </span> <span class="fragment">¿Les atemoriza? </span> <span class="fragment">¿Les es indiferente?</span> 
+¿Qué opinan sobre el metaverso? <span class="fragment"> ¿Les emociona? </span> <span class="fragment">¿Les atemoriza? </span> <span class="fragment">¿Les es indiferente?</span> 
 </section>
 <section>
 
@@ -106,6 +114,8 @@ Realidad virtual: Matrix
 
 
 <section>
+
+
 
 {{< youtube VVro5wxqh4U >}}
 </section>
@@ -184,6 +194,7 @@ Podemos apreciar que Truman no vive en la realidad, pero eso no tiene nada que v
 
 Podemos separar el hecho de que algo sea creado por computador, por otras personas con intereses específicos, del hecho de que sea real. Una realidad virtual *real*, entonces, será una en donde podamos tener vidas genuinas, con amistades verdaderas, amor real, etc. Truman a pesar de vivir en un mundo físico, no vive en la realidad. 
 </section>
+
 <section> 
 Que sea físico no lo hace real; <br>que sea digital (virtual) no lo hace irreal.
 
