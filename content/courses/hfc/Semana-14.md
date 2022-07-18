@@ -4,7 +4,7 @@ linktitle: Semana 10
 toc: true
 type: docs
 date: "Sun Apr  3 21:08:31 2022"
-draft: false
+draft: true
 menu:
   hfc:
     name: Semana 14
