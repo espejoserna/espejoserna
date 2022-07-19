@@ -2,8 +2,8 @@
 title: Lógica 1
 author: R package build
 date: '2022-01-04'
-linktitle: Philosophy and Film
-summary: Filosofía por medio de películas, lecturas de 1000 palabras y podcasts. En inglés.
+linktitle: Lógica 1
+summary: Introducción a la lógica
 weight: 1
 lastmod: '2022-01-04'
 draft: no
