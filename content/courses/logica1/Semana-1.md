@@ -1,12 +1,12 @@
 ---
-title: Week 01 - Overview
+title: Lógica 1
 linktitle: Semana 01 
 toc: true
 type: docs
 date: "2019-05-05T00:00:00+01:00"
 draft: false
 menu:
-  Lógica 1:
+  logica1:
     name: Semana 01
     weight: 2
 

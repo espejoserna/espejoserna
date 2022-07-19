@@ -1,5 +1,5 @@
 ---
-title: Philosophy and Film
+title: Lógica 1
 author: R package build
 date: '2022-01-04'
 linktitle: Philosophy and Film
@@ -10,7 +10,7 @@ draft: no
 toc: yes
 type: docs
 menu:
-  philandfilm:
+  logica1:
     name: Syllabus
     weight: 1
 ---
