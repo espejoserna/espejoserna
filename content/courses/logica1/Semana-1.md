@@ -151,7 +151,7 @@ Glosario
 1. Argumento válido y argumento inválido
 1. Distinción entre validez y verdad
 
-### Para la próxima clase
+## Para la próxima clase
 
-* Tugendhat, E y Wolf, U (1997) _Propedéutica lógico-semántica_. Cap. 1 (★) España: Anthropos
-* Copi, I y Cohen, C. (2013) _Introducción a la lógica_. Cap. 1 (★) México: Limusa
+### * Tugendhat, E y Wolf, U (1997) _Propedéutica lógico-semántica_. Cap. 1 (★) España: Anthropos
+### * Copi, I y Cohen, C. (2013) _Introducción a la lógica_. Cap. 1 (★) México: Limusa
