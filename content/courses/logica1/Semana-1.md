@@ -1,5 +1,5 @@
 ---
-title: Week 01 - Overview
+title: Semana 01 - Introducción
 linktitle: Semana 01 
 toc: true
 type: docs
@@ -9,7 +9,6 @@ menu:
   Lógica 1:
     name: Semana 01
     weight: 2
-
 ---
 
 ## Plan

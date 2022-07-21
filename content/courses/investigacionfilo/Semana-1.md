@@ -28,7 +28,7 @@ Para eso vamos a necesitar.
 
  - ¿Ya han pensado un tema de tesis?
 
--  Si no tienen una idea, ¿qué les interesas? 
+-  Si no tienen una idea, ¿qué les interesa? 
 - ¿En qué materias les ha ido mejor?
 - ¿Con qué profesor o profesora han pensado trabajar?
 
