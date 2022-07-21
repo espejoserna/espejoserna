@@ -4,7 +4,7 @@ linktitle: Semana 6 -7
 toc: true
 type: docs
 date: "Sun Feb  6 17:35:41 2022"
-draft: false
+draft: true 
 menu:
   hfc:
     name: Semana 6
