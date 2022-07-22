@@ -20,15 +20,20 @@ Este no es un curso común y corriente. No hay lecturas fijas; no hay parciales,
 Para eso vamos a necesitar.
 
 1. Computador en clase siempre. 
-2. Flipgrid
+2. Flip
 
-¡y nada más!
+¡y nada más! (Casi)
 
 ## Presentaciones estudiantes
 
+<<<<<<< Updated upstream
  - ¿Ya han pensado un tema de tesis?
 
 -  Si no tienen una idea, ¿qué les interesa? 
+=======
+- ¿Ya han pensado un tema de tesis?
+-  Si no tienen una idea, ¿qué les interesas? 
+>>>>>>> Stashed changes
 - ¿En qué materias les ha ido mejor?
 - ¿Con qué profesor o profesora han pensado trabajar?
 
@@ -73,5 +78,5 @@ Fuentes:
 
 2. Leer al menos 20 páginas (de la bolsa de textos). Hacer una reseña.
 
-3. Participar en Flipgrid antes del viernes a media noche
+3. Participar en Flip antes del viernes a media noche
 
