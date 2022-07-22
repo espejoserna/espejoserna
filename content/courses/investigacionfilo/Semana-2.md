@@ -20,9 +20,7 @@ weight: 1
   
 ### Discusión 
 - Los retos de la autonomía y la importancia de un sistema de trabajo
-
 - Las materias que han visto y planean ver
-  
 - Los posibles directores y la relación con ellos.
   
 ### Retroalimentación

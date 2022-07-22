@@ -26,14 +26,8 @@ Para eso vamos a necesitar.
 
 ## Presentaciones estudiantes
 
-<<<<<<< Updated upstream
- - ¿Ya han pensado un tema de tesis?
-
--  Si no tienen una idea, ¿qué les interesa? 
-=======
 - ¿Ya han pensado un tema de tesis?
 -  Si no tienen una idea, ¿qué les interesas? 
->>>>>>> Stashed changes
 - ¿En qué materias les ha ido mejor?
 - ¿Con qué profesor o profesora han pensado trabajar?
 
