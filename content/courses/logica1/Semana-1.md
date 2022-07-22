@@ -1,9 +1,5 @@
 ---
-<<<<<<< HEAD
 title: Semana 01 - Introducción
-=======
-title: Lógica 1
->>>>>>> 0804ee666a148a61693707ed573075f7d5959d47
 linktitle: Semana 01 
 toc: true
 type: docs

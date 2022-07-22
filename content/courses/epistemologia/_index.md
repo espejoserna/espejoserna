@@ -3,7 +3,7 @@ title: Epistemología de la investigación
 author: R package build
 date: '2022-01-04'
 linktitle: Epistemología de la investigación
-summary: De la ciencia como un 'cálculo axiomático aplicado' a la ciencia como una práctica humana más. (¡Y una adición de recreaciones sencillas de experimentos clave en la historia de la ciencia!)
+summary: 
 weight: 1
 lastmod: '2022-01-04'
 draft: yes
