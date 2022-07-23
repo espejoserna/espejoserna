@@ -9,6 +9,7 @@ lastmod: '2022-01-21'
 draft: no
 toc: yes
 type: docs
+tags: ["curso", "Another Tag"]
 menu:
   investigacionfilo:
     name: Syllabus
