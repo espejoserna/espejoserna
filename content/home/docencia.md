@@ -1,7 +1,6 @@
 ---
 widget: blank
 headless: true
-
 # ... Put Your Section Options Here (title etc.) ...
 title: Docencia
 subtitle:
