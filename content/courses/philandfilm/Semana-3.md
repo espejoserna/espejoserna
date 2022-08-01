@@ -4,7 +4,7 @@ linktitle: Week 03
 toc: true
 type: docs
 date: "Wed Feb  2 10:55:06 2022"
-draft: true
+draft: false
 menu:
   philandfilm:
     name: Week 03
