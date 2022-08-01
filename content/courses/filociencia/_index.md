@@ -6,7 +6,7 @@ linktitle: Filosofía de la ciencia
 summary: Curso para el doctorado en Enfermería que pretende relacionar las diferentes corrientes de la filosofía de la ciencia con el desarrollo científico de enfermería y su importancia en la fundamentación de la investigación y la práctica de la esta disciplina. 
 weight: 1
 lastmod: '2022-01-04'
-draft: no
+draft: yes
 toc: yes
 type: docs
 menu:
