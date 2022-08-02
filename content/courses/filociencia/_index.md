@@ -67,19 +67,18 @@ Revisen si entienden la exposición y si están de acuerdo; pregunten por las re
 
 1. La naturaleza de la ciencia y la política de Ciencia, Tecnología e Innovación
 1. La posibilidad de la interdisciplinariedad
-1. Algunos conceptos clave  
-1. La noción de conocimiento
+1. Algunos conceptos filosóficos clave   
 
-### La filosofía de la ciencia
-1. Los inicios de la ciencia: Copérnico y Galileo
+### Filosofía de la ciencia
+1. Los inicios de la ciencia moderna
 1. Positivismo lógico
 1. Quine, la naturalización de la epistemología y el pragmatismo
 1. Popper y el falsacionismo
 1. Kuhn, paradigmas y revoluciones científicas
 1. Filosofía feminista de la ciencia
-1. Fraude y el objetivo de la ciencia
+1. Fraude y ciencia
 
-### Introducción a la filosofía de la ciencia y la enfermería
+### Filosofía de la ciencia y enfermería
 1. Visiones de enfermería: Particular determinística
 1. Visiones de enfermería: Integrativa interactiva
 1. Visiones de enfermería: Unitaria transformativa
@@ -120,6 +119,29 @@ Para todo lo demás, es importante avisar al profesor. Hablemos. No me tienen qu
 
 ## Bibliografía
 
+### Introducción a la filosofía
+
+https://www.eltiempo.com/opinion/columnistas/moises-wasserman/ciencia-hegemonica-y-justicia-epistemica-moises-wasserman-687343
+
+Sánchez-Migallón, S; Nubiola, J. (2018) Introducción a la filosofía. Eunsa.
+
+### Filosofía de la ciencia
+
+Ayer, A. J. (ed.) (1981). El positivismo lógico. México: Fondo de Cultura Económica. 
+
+Bright, Liam Kofi (2017). On fraud. Philosophical Studies 174 (2):291-310.
+
+Harding, S. (1997). Ciencia y feminismo. Ediciones Morata.
+
+Kuhn, T. S. (2019). La estructura de las revoluciones científicas. Fondo de cultura económica.
+
+Losee, J., & Montesinos, A. (1976). Introducción histórica a la filosofía de la ciencia.
+
+Popper, K. R. (1991). Conjeturas y refutaciones: el desarrollo del conocimiento científico. Paidós Ibérica.
+
+Quine, W.V.O. (1953). Two dogmas of Empiricism. W.V.O. Quine, From a Logical Point of View (pp. 20-46). Harvard: Harvard University Press.         
+
+### Filosofía de la ciencia y enfermería
 
 Dahnke, M. D; H. M Dreher. (2016) Philosophy of science for nursing practice: Concepts an applications. Second Edition. New York: Springer Publishing Company.
 
