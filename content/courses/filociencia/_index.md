@@ -6,7 +6,7 @@ linktitle: Filosofía de la ciencia
 summary: Curso para el doctorado en Enfermería que pretende relacionar las diferentes corrientes de la filosofía de la ciencia con el desarrollo científico de enfermería y su importancia en la fundamentación de la investigación y la práctica de la esta disciplina. 
 weight: 1
 lastmod: '2022-01-04'
-draft: yes
+draft: false
 toc: yes
 type: docs
 menu:
@@ -20,7 +20,7 @@ menu:
 ##  Descripción del seminario
 
 
-Esta es una asignatura teórica para el doctorado en Enfermerìa de la Universidad de La Sabana que pretende relacionar las diferentes corrientes de la filosofía de la ciencia con el desarrollo científico de enfermería y su importancia en la fundamentación de la investigación y la práctica de la disciplina. Al finalizar el seminario, el doctorando deberá estar en capacidad de analizar el alcance de la ciencia y del conocimiento científico, contrastar los enfoques de las diferentes corrientes filosóficas de la ciencia desde los puntos de vista ontológico, epistemológico, axiológico y metodológico y relacionar la filosofía de la ciencia con las visiones de la ciencia de enfermería y su transferencia a la práctica disciplinar.
+Esta es una asignatura teórica para el doctorado en Enfermería de la Universidad de La Sabana que pretende relacionar las diferentes corrientes de la filosofía de la ciencia con el desarrollo científico de enfermería y su importancia en la fundamentación de la investigaci´n y la práctica de la disciplina. Al finalizar el seminario, el doctorando deberá estar en capacidad de analizar el alcance de la ciencia y del conocimiento científico, contrastar los enfoques de las diferentes corrientes filosóficas de la ciencia desde los puntos de vista ontológico, epistemológico, axiológico y metodológico y relacionar la filosofía de la ciencia con las visiones de la ciencia de enfermería y su transferencia a la práctica disciplinar.
 
 
 Por medio del estudio de la filosofía de la ciencia se busca fortalecer la capacidad del estudiante para ofrecer las herramientas para la integración epistemológica necesaria para desarrollar proyectos y programas de investigación en enfermería que promuevan el avance del conocimiento de la disciplina y contribuyan a mejorar las condiciones de salud de las personas, las familias y la comunidad, en los diferentes escenarios del ejercicio profesional, con alta calidad científica, ética y humanística, estableciendo redes y alianzas estratégicas
@@ -32,7 +32,7 @@ Por medio del estudio de la filosofía de la ciencia se busca fortalecer la capa
 ## Resultados previstos de aprendizaje
 
 
-- Comprender el lenguaje propio de la discusión filosófica sobre la ciencia para aportar en las discusiones sobre la naturaleza de la ciencia, del progreso científico y su lugar en la sociedad.
+- Comprender el lenguaje propio de la discusión filosófica sobre la ciencia para aportar en las discusiones sobre la naturaleza de la ciencia en general y en particular de la enfermería, del progreso científico y su lugar en la sociedad.
 
 - Distinguir, relacionar y sistematizar conocimientos aportados por la enfermería y la filosofía para dar cuenta de la naturaleza de la ciencia, del progreso científico y su lugar en la sociedad.
 
@@ -47,7 +47,7 @@ Por medio del estudio de la filosofía de la ciencia se busca fortalecer la capa
 
 **Antes de la sesión**
 
-Todos los asistentes deberán subir una notas de lectura por tarde el lunes al medio día. Las notas deberán seguir el siguiente forma:
+Todos los asistentes deberán subir unos apuntes de lectura por tarde el lunes al medio día. Los apuntes deberán seguir el siguiente forma:
 
 1. Tesis principal: una *oración* en la que se enuncie de manera clara el objetivo principal del texto. 
 2. Razones a favor: una presentación corta de tres razones ofrecidas en el texto para la tesis principal.
@@ -63,17 +63,23 @@ Revisen si entienden la exposición y si están de acuerdo; pregunten por las re
 
 ## Contenidos
 
+### Introducción a la filosofía
+
 1. La naturaleza de la ciencia y la política de Ciencia, Tecnología e Innovación
 1. La posibilidad de la interdisciplinariedad
-1. Introducción a la filosofía: el asombro filosófico como el germen de la ciencia  
+1. Algunos conceptos clave  
 1. La noción de conocimiento
+
+### La filosofía de la ciencia
 1. Los inicios de la ciencia: Copérnico y Galileo
-1. Empirismo lógico (positivismo)
+1. Positivismo lógico
 1. Quine, la naturalización de la epistemología y el pragmatismo
 1. Popper y el falsacionismo
 1. Kuhn, paradigmas y revoluciones científicas
 1. Filosofía feminista de la ciencia
 1. Fraude y el objetivo de la ciencia
+
+### Introducción a la filosofía de la ciencia y la enfermería
 1. Visiones de enfermería: Particular determinística
 1. Visiones de enfermería: Integrativa interactiva
 1. Visiones de enfermería: Unitaria transformativa
@@ -94,10 +100,11 @@ Las notas de lectura son esenciales para la sesión de sminario. Deberán seguir
 
 ### Plan de trabajo ensayo final
 
+Formulación clara de un objetivo general y unos objetivos específicos junto con la bibliografía que van a utilizar.
 
 ### Ensayo final
 
-
+Un ensayo académico en donde presenten una posición argumentada y que siga una estructura bien definida y argumentativamente sólida.
 
 
 
@@ -109,3 +116,29 @@ Para todo lo demás, es importante avisar al profesor. Hablemos. No me tienen qu
 
 
 ![](/courses/hfc/_index_files/borde.jpg)
+
+
+## Bibliografía
+
+
+Dahnke, M. D; H. M Dreher. (2016) Philosophy of science for nursing practice: Concepts an applications. Second Edition. New York: Springer Publishing Company.
+
+Fawcett, J & DeSanto-Madeya, S (2013) CONTEMPORARY NURSING KNOWLEDGE: ANALYSIS AND EVALUATION OF NURSINg MODELS AND THEORIES. 3rd. Edition. Philadelphia: F.A. Davis Company. Cap.1 
+
+Meleis, AI (2012) THEORETICAL NURSING: DEVELOPMENT AND PROGRESS. 5TH EDITION.PHILADELPHIA: Wolters Kluver/Lippincott Williams and Wilkins. 
+Polifroni, EC. (2011) Philosophy of science: An introduction. En Butts, JB y Rich KL. Editors. PHILOSOPHIES AND THEORIES FOR ADVANCED NURSING PRACTICE. Salsburry, Mass: Jones and Bartlett - Learning.
+
+Risjord, M. (2010) Nursing knowledge: Science, practice and philosophy. London: Wiley-Blakwell.
+
+Rodgers, BL. DEVELOPING NURSING KNOWLEDGE: PHILOSOPHICAL TRADITIONS AND INFLUENCES. (2005) Philadelphia: Lippincott Williams and Wilkins.
+
+Newman MA, Sime AM, Corcoran-Perry SA. (1991). The focus of the discipline of nursing. ADVANCES IN NURSING SCIENCE. 14, 1, 1-6. Traducción M.M. de Villalobos. 
+
+Newman, MA., Smith, Marlaine C.; Dexheimer Pharris, Margaret; Jones, Dorothy. (2008). The focus of the discipline of nursing Revisted. ADVANCES IN NURSING SCIENCE. 2008; 31(1); 1627
+Willis, DG; Grace, P; Roy C. (2008) A central unifying focus for the discipline: Facilitating humanisation, meaning, choose, quality of life, and healing in living and dying. ADVANCES IN NURSING SCIENCE. 31 (1), 28 -40.
+
+Watson, j. Nuring: Philosophy and science of caring. Revised edition. (2008) Denver: University Press of Colorado.
+
+Watson, J. Enfermería: La Filosofía y Ciencia del Cuidado. En prensa  Denver: University Press of Colorado.
+
+
