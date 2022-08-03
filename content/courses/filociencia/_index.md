@@ -20,7 +20,7 @@ menu:
 ##  Descripción del seminario
 
 
-Esta es una asignatura teórica para el doctorado en Enfermería de la Universidad de La Sabana que pretende relacionar las diferentes corrientes de la filosofía de la ciencia con el desarrollo científico de enfermería y su importancia en la fundamentación de la investigaci´n y la práctica de la disciplina. Al finalizar el seminario, el doctorando deberá estar en capacidad de analizar el alcance de la ciencia y del conocimiento científico, contrastar los enfoques de las diferentes corrientes filosóficas de la ciencia desde los puntos de vista ontológico, epistemológico, axiológico y metodológico y relacionar la filosofía de la ciencia con las visiones de la ciencia de enfermería y su transferencia a la práctica disciplinar.
+Esta es una asignatura teórica para el doctorado en Enfermería de la Universidad de La Sabana que pretende relacionar las diferentes corrientes de la filosofía de la ciencia con el desarrollo científico de enfermería y su importancia en la fundamentación de la investigación y la práctica de la disciplina. Al finalizar el seminario, el doctorando deberá estar en capacidad de analizar el alcance de la ciencia y del conocimiento científico, contrastar los enfoques de las diferentes corrientes filosóficas de la ciencia desde los puntos de vista ontológico, epistemológico, axiológico y metodológico y relacionar la filosofía de la ciencia con las visiones de la ciencia de enfermería y su transferencia a la práctica disciplinar.
 
 
 Por medio del estudio de la filosofía de la ciencia se busca fortalecer la capacidad del estudiante para ofrecer las herramientas para la integración epistemológica necesaria para desarrollar proyectos y programas de investigación en enfermería que promuevan el avance del conocimiento de la disciplina y contribuyan a mejorar las condiciones de salud de las personas, las familias y la comunidad, en los diferentes escenarios del ejercicio profesional, con alta calidad científica, ética y humanística, estableciendo redes y alianzas estratégicas
@@ -55,7 +55,7 @@ Todos los asistentes deberán subir unos apuntes de lectura por tarde el lunes a
 
 **Durante la sesión**
 
-Todos deben atender con cuidado a la presentación del profesor y formular preguntas al respecto. Los controles de lectura transforman la clase en la medida en que las presentaciones se irán ajustando a lo que ustedes reflejen en los controles de lectura.
+Todos deben atender con cuidado a la presentación del profesor y formular preguntas al respecto. Los apuntes de lectura transforman la clase en la medida en que las presentaciones se irán ajustando a lo que ustedes reflejen en los apuntes de lectura.
 
 Revisen si entienden la exposición y si están de acuerdo; pregunten por las relaciones con los temas anteriormente expuestos.
 
@@ -109,7 +109,7 @@ Un ensayo académico en donde presenten una posición argumentada y que siga una
 
 ### **Incumplimiento**
 
-{{< hl >}}**La vida nos da sorpresas; sorpresas nos da la vida.**  Por eso, todos tienen un control de lectura "de gracia". Es decir, pueden dejar de entregar uno sin problema; el primer control de lectura que les falte no cuenta. Por ejemplo, si no entregan un control de lectura y entregan todos los demás, su nota igual queda en 5.0{{< /hl >}}.
+{{< hl >}}**La vida nos da sorpresas; sorpresas nos da la vida.**  Por eso, todos tienen una entrega de apuntes de lectura "de gracia". Es decir, pueden dejar de entregar uno sin problema; la primera entregaque les falte no cuenta. Por ejemplo, si no entregan unos apuntes de lectura y entregan todos los demás, su nota igual queda en 5.0{{< /hl >}}.
 
 Para todo lo demás, es importante avisar al profesor. Hablemos. No me tienen que contar sus problemas personales pero es importante que si se encuentran en una situación en la que ven que no pueden cumplir con los requerimientos de clase me avisen con la mayor anticipación posible y encontremos un plan para solventar el problema en lo que respecta a la clase. Insisto: hablemos, no se pierdan :).
 
