@@ -24,6 +24,11 @@ weight: 1
 
 ## La lectura de Wasserman
 
+‘Ciencia hegemónica’ y ‘justicia epistémica’
+
+https://www.eltiempo.com/opinion/columnistas/moises-wasserman/ciencia-hegemonica-y-justicia-epistemica-moises-wasserman-687343
+
+
 #### ¿Cuál es la idea principal?
 #### ¿Cuáles son las razones principales?
 #### ¿Qué dudas les quedan?
@@ -90,14 +95,12 @@ que va pensando sobre el texto. Desarrolle un sistema de símbolos para denotar 
 Rayar y anotar es crucial para la lectura cuidadosa y por eso hay una sección entera dedicada a ello 
 
 
-## Leer con ojos y dedos delicados
+### Leer con ojos y dedos delicados
 
-### Leer para mapear
+#### Leer para mapear
 La idea de un mapeo del terreno es hacerse una idea inicial del texto. Si uno tiene una buena idea de lo que se trata
 el texto, se puede entender mejor las oraciones particulares que lo componen.
 
-
-#### Prelectura
 Mire el título, los encabezados de las secciones, algunos pies de página y la bibliografía. Busque en google al autor
 y ojee una o dos entradas. Lea el primer y el último párrafo del texto. Si el texto tiene un resumen y una conclusión
 claramente señaladas (por ejemplo, hay secciones tituladas “resumen” y “conclusión”), lea primero estas partes del texto
@@ -128,6 +131,7 @@ elaborar un punto que ud ya ha entendido (o al menos cree eso) puede saltárselo
 
 
 #### Leer para comprender
+
 El objetivo principal de esta forma de leer un texto es obtener un entendimiento sofisticado de las ideas y razones
 presentadas. Después de realizar este tipo de lectura, debe estar en capacidad de explicarle a un amigo cómo el autor
 presenta sus puntos y qué razones ofrece en favor de ellos en detalle.
@@ -173,5 +177,8 @@ defiende? ¿Podría fortalecer el argumento?
 
 ## Para la próxima semana
 
-### Interdisciplinariedad: ¿Qué espacios interdisciplinarios se ha encontrado en su ejercicio profesional? ¿Qué retos han encontrado?
+### Interdisciplinariedad
+- ¿Qué espacios interdisciplinarios se ha encontrado en su ejercicio profesional o formativo? 
+- ¿Qué retos han encontrado?
+- ¿Qué ventajas tienen?
 
