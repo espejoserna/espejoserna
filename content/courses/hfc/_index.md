@@ -3,7 +3,7 @@ title: Historia y filosofía de la ciencia
 author: R package build
 date: '2022-01-04'
 linktitle: Historia y filosofía de la ciencia
-summary: De la ciencia como un 'cálculo axiomático aplicado' a la ciencia como una práctica humana más. (¡Y una adición de recreaciones sencillas de experimentos clave en la historia de la ciencia!)
+summary: Curso de pregrado para filosofía. De la ciencia como un 'cálculo axiomático aplicado' a la ciencia como una práctica humana más. (¡Y una adición de recreaciones sencillas de experimentos clave en la historia de la ciencia!)
 weight: 1
 lastmod: '2022-01-04'
 draft: no
