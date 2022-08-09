@@ -36,7 +36,7 @@ Quedamos la sesión pasada de discutir las siguientes preguntas:
 2.  Los valores en una disciplina
 3.  Aspectos prácticos y aspectos teóricos de una disciplina
 4.  Investigación cuantitativa y cualitativa
-5.  Investigación transdisciplinar, interdisiplinar, multidisciplinar
+5.  Investigación transdisciplinar, interdisciplinar, multidisciplinar
 
 ![](/courses/hfc/_index_files/borde.jpg)
 
