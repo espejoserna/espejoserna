@@ -45,3 +45,5 @@ Quedamos la sesión pasada de discutir las siguientes preguntas:
 El siguiente cuestionario servirá como un diagnóstico de lo que uds consideran una investigación exitosa, más generalmente, de lo que se valora en la investigación y cómo afecta la manera en que se realiza la investigación.
 
 https://forms.office.com/r/DS9T84rKRa
+
+Respuestas: https://forms.office.com/Pages/AnalysisPage.aspx?AnalyzerToken=IYp583joV8Gq3D1eGGyLvHVxwAFPjOEY&id=MRalrP4ADUmRqxY--HJg7lFWTy-_8_9JroE956aVo65UM05BWUI3RE1CRkdMTzRISDM2WVdCOVhQTi4u
