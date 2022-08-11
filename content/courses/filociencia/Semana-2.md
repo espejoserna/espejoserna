@@ -86,7 +86,8 @@ Usualmente si se determina qué tipo de decisión es entonces se le pregunta a l
 
 Carpeta de archivos: https://unisabanaedu-my.sharepoint.com/:f:/g/personal/juanesse_unisabana_edu_co/El7_mzgJt19OuSCgCwdujP8BYnKl4YzALgYWg9CG3ww3dA?e=A8lxyU
 
-Preparar una presentación corta en donde se expliquen dos de estos conceptos. (Usen el diccionario de Ferrater Mora o https://plato.stanford.edu)
+Preparar una presentación corta para el jueves en donde expliquen dos de estos conceptos. (Usen el diccionario de Ferrater Mora o https://plato.stanford.edu)
+
 - Axiología
 - Positivismo
 - Empirismo
@@ -105,6 +106,6 @@ Preparar una presentación corta en donde se expliquen dos de estos conceptos. (
 
  
 ### Lectura para la próxima clase 
-#### Losee, J. (1976). _Introducción histórica a la filosofía de la ciencia._  España: Alianza Editorial. Páginas 11-14
+#### Cap 2 - Knowledge. En Philosophy of Science for Scientists
 
 
