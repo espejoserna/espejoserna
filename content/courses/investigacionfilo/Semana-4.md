@@ -31,10 +31,3 @@ weight: 1
 1. Tarea: Reseña de un texto de la bolsa de textos.    
 1. Tarea: Reseña de un texto de la bolsa de textos.
 
-Resumen de la tesis de otros
-  
-Comentarios línea a línea
-  
-Tarea 1: Reseña de un texto.
-  
-Tarea 2: Reseña de un texto.
