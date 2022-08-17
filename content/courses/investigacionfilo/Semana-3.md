@@ -23,12 +23,13 @@ weight: 1
 
 - Las enseñanzas de los estudiantes pasados: 
 - Hablen con sus compañeros que ya empezaron a hacer la tesis. 
-
   - ¿Qué retos han tenido que afrontar? 
   - ¿Qué es lo más difícil de hacer la tesis? 
   - ¿Qué pensaron que sería fácil pero ha probado ser más complicado de lo inicialmnete pensado? 
   - ¿Han mantenido su cronograma? 
   - ¿Cómo es su relación con su director o directora?
+- Las enseñanzas de otros profesores:
+  - hablen con otros profesores sobre sus posibles temas. ¿qué retos y oportunidades ven?  
   
 - Comentarios línea a línea 
   
