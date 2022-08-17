@@ -34,6 +34,6 @@ weight: 1
   
 ## Tareas
 
-1. Busquen una tesis de pregrado en filosofía (En biblioteca, de alguno de sus compañeros que ya terminaron, en repositorios el línea, etc. Pregúntenle a la directora del programa si pueden ver las tesis que ella tiene en físico). Lean la introducción y la tabla de contenidos y analicen la estructura que presenta. Escriban una página sobre el tema de la tesis que leyeron y cómo parece que es discutido. Hablen en las partes, la extensión, la bibliografía, los autores y otros aspectos que llamen su interés.
+1. Busquen una tesis de pregrado en filosofía (En biblioteca, de alguno de sus compañeros que ya terminaron, en repositorios el línea, etc. Pregúntenle a la directora del programa si pueden ver las tesis que ella tiene en físico). Lean la introducción y la tabla de contenidos y analicen la estructura que presenta. Escriban una página sobre el tema de la tesis que leyeron y cómo parece que es discutido. Hablen de las partes, la extensión, la bibliografía, los autores y otros aspectos que llamen su interés.
     
 1. Tarea: Reseña de un texto de la bolsa de textos.
