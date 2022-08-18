@@ -58,27 +58,7 @@ Lo que se considera cononocimiento vs. lo que es conocimiento
 
 ![](/courses/hfc/_index_files/borde.jpg)
 
-## Glosario
 
-Carpeta de archivos: https://unisabanaedu-my.sharepoint.com/:f:/g/personal/juanesse_unisabana_edu_co/El7_mzgJt19OuSCgCwdujP8BYnKl4YzALgYWg9CG3ww3dA?e=A8lxyU
-
-Preparar una presentación corta para el jueves en donde expliquen dos de estos conceptos. (Usen el diccionario de Ferrater Mora o https://plato.stanford.edu)
-
-- Axiología
-- Positivismo
-- Empirismo
-- Pragmatismo
-- Metafísica
-- Epistemología
-- Antirealismo
-- Valor
-- Hecho
-- Conocimiento
-- Verdad
-- Justificación
-- Idealismo
-- Realismo
-- Instrumentalismo
-
-
-
+ 
+### Lectura para la próxima clase 
+#### Cap 1 - The evolution of science. En Philosophy of Science for Scientists
