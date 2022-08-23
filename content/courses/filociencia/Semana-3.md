@@ -1,6 +1,6 @@
 ---
 title: Semana 3
-linktitle: Semana 32 
+linktitle: Semana 3
 toc: true
 type: docs
 date: "2019-05-05T00:00:00+01:00"

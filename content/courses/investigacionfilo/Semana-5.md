@@ -28,7 +28,7 @@ weight: 1
 
  Tarea 1: Reseña de un texto.
 
- Tarea 2:  Determine 3 posibles preguntas sobre las que les gustaría trabajar en el trabajo de grado.
+ Tarea 2:  Determine 3 posibles preguntas sobre las que les gustaría desarrollar en el trabajo de grado.
 
  Tarea 3: Hablen con alguien que ya esté haciendo la tesis con quienes dijeron en la tarea 2 y pregúntenles sobre 1) los retos que han tenido que afrontar y 2) la forma en que están trabajando con sus directores. En particular, quiero que les pregunten cómo pasaron de definir un tema general a una pregunta específica. 
 
