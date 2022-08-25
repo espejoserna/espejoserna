@@ -190,3 +190,7 @@ Pero la evidencia de Galileo junto con las mejoras de Kepler al modelo copernica
 
  
 ### Lectura para la próxima clase 
+
+#### El espíritu positive - A. Compte - Filosofía de las ciencias humanas y sociales (Mardonès, editor)
+#### Introducción del compilador - Secciones 1-3 - A. J. Ayer - El positivismo lógico (Ayer, editor)
+#### El viraje de la filosofía - M. Schlick - El positivismo lógico  (Ayer, editor)
