@@ -1,14 +1,14 @@
 ---
-title: Semana 7
-linktitle: Semana 7
+title: Semana 6
+linktitle: Semana 6
 toc: true
 type: docs
 date: "Sun Feb  6 17:36:27 2022"
 draft: false
 menu:
   investigacionfilo:
-    name: Semana 7
-    weight: 7
+    name: Semana 6
+    weight: 6
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 1
@@ -18,7 +18,7 @@ weight: 1
 
 ¿Cuál es su tema? Van a hablar 3 minutos sobre su tema de tesis o sobre los avances que han hecho esta semana. Luego, 3 minutos de preguntas. Cada semana vamos a empezar con una revisión del trabajo hecho o las dificultades enfrentadas durante la semana.
 
- ## Comentarios línea a línea
+## Comentarios línea a línea
 
  Primer texto  
 
