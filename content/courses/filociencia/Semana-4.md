@@ -189,8 +189,15 @@ La aproximación de Copérnico y la de Galileo: el rol de la ciencia frente al c
 - ¿La ciencia describe la realidad? 
 - ¿La ciencia se ocupa de mejorar una práctica instrumental? 
 - ¿Cuál es la relación entre la ciencia, la aplicación instrumental (en técnicas, tecnologías, prácticas o instrumentos?
+  - La pregunta de la traducción de la ciencia a la práctica. 
+  - La pregunta de la aplicación práctica insignificante o infrecuente.
+- ¿La ciencia debe ser el fundamento teórico de las prácticas y técnincas de una disciplina?
+  - Conocimiento y ciencia
+  - el progreso cientìfico, las ciencias pasadas, y la definición de la ciencia
 
-## El método
+
+## El método científico
+
 
 > One important question that we shall here discuss
 is whether there is a generally valid scientific method, and whether it was this
