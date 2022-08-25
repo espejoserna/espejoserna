@@ -186,6 +186,42 @@ Pero la evidencia de Galileo junto con las mejoras de Kepler al modelo copernica
 
 La aproximación de Copérnico y la de Galileo: el rol de la ciencia frente al conocimiento de la realidad. 
 
+- ¿La ciencia describe la realidad? 
+- ¿La ciencia se ocupa de mejorar una práctica instrumental? 
+- ¿Cuál es la relación entre la ciencia, la aplicación instrumental (en técnicas, tecnologías, prácticas o instrumentos?
+
+## El método
+
+> One important question that we shall here discuss
+is whether there is a generally valid scientific method, and whether it was this
+method that began to be applied during the scientific revolution. My answer to this
+question is, reservedly, yes. There is a generally valid scientific method, the
+hypothetico-deductive method. (...) The application of this method was an important factor,
+perhaps the most important, in the creation of the modern sense of scientific
+enterprise. (15)
+
+- La pregunta por cómo nace la ciencia se vuelve una pregunta por cómo nace el método científico de interrogar a la naturaleza. Hay ciencia en la medida en que hay método. Y la ciencia, entonces, debe ser una en la medida en que el método es uno. 
+
+>  Like all philosophy, philosophy of science begins with wonder
+and bringing into question ‘common knowledge’. One often speaks of science as
+something familiar, something that is easily identified. But, is this really the case?
+Does there exist a universally accepted definition of scientific practice? No, there does
+not; and even if it did, one could still ask how one might justify such a definition.
+
+- ¿Qué es la ciencia?
+- ¿Cuál es la diferencia entre una ciencia y una pseudo-ciencia?
+- ¿Qué es una explicación científica?
+- ¿Qué es una causa?
+
+Quien hace parte de la empresa científica debe pensar en estas preguntas en donde la filosofía ayuda a distinguir la respuesta "fácil".
+
+
+> Different questions within philosophy of science are relevant for different types
+of scientists. For example, the following questions are relevant for medical scien-
+tists: (1) What is a cause, in medical contexts? (2) What is the relation between the
+body and the mind? (3) What criteria should be used to distinguish between the
+practices of a charlatan and accepted scientific methods? 
+
 
 
 ![](/courses/hfc/_index_files/borde.jpg)
@@ -194,6 +230,6 @@ La aproximación de Copérnico y la de Galileo: el rol de la ciencia frente al c
  
 ### Lectura para la próxima clase 
 
-#### El espíritu positive - A. Compte - Filosofía de las ciencias humanas y sociales (Mardonès, editor)
+#### El espíritu positive - A. Compte - Filosofía de las ciencias humanas y sociales (Mardonés, editor)
 #### Introducción del compilador - Secciones 1-3 - A. J. Ayer - El positivismo lógico (Ayer, editor)
 #### El viraje de la filosofía - M. Schlick - El positivismo lógico  (Ayer, editor)

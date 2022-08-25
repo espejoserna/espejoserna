@@ -79,8 +79,6 @@ Hit: semejanzas de tríangulos
 Teoría de números básica  
 Hit: números primos
 
-#### _Los Elementos de Euclides_
-
 #### Libro VIII
 
 Progresiones geométricas en teoría de números  

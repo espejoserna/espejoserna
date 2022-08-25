@@ -58,14 +58,14 @@ formales.
 
 | Actividad                              | Valor porcentual | Corte |
 |----------------------------------------|------------------|-------|
-| Glosario                               | 10%              | 1     |
-| Juego de mesa                          | 10%              | 1     |
-| Argumentos "12 angry men"              | 10%              | 1     |
+| Glosario                               | 15%              | 1     |
+| Argumentos "12 angry men"              | 15%              | 1     |
 | Explicación de proposición geométrica  | 15%              | 2     |
 | Taller silogística aristotélica        | 15%              | 2     |
 | Tablas de verdad                       | 5%               | 3     |
 | Demostración formal                    | 5%               | 3     |
-| Demostración en lógica proposicional   | 30%              | 3     |
+| Demostración en lógica proposicional   | 20%              | 3     |
+| Juego de mesa                          | 10%              | 3     |
 
 
 
