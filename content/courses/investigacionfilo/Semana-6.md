@@ -4,7 +4,7 @@ linktitle: Semana 7
 toc: true
 type: docs
 date: "Sun Feb  6 17:36:27 2022"
-draft: true
+draft: false
 menu:
   investigacionfilo:
     name: Semana 7

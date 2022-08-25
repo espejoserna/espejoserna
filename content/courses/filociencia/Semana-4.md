@@ -184,6 +184,9 @@ Pero la evidencia de Galileo junto con las mejoras de Kepler al modelo copernica
 
 ## Realismo y antirealismo
 
+La aproximación de Copérnico y la de Galileo: el rol de la ciencia frente al conocimiento de la realidad. 
+
+
 
 ![](/courses/hfc/_index_files/borde.jpg)
 
