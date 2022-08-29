@@ -1,14 +1,14 @@
 ---
-title: Week 05 - Time and responsibility
-linktitle: Week 05 
+title: Week 07 - Time and responsibility
+linktitle: Week 07
 toc: true
 type: docs
 date: "Sun Feb 20 19:19:56 2022"
-draft: true
+draft: false
 menu:
   philandfilm:
-    name: Week 05
-    weight: 6
+    name: Week 07
+    weight: 7
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 5
