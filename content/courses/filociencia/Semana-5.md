@@ -225,7 +225,7 @@ Explicar es mostrar cómo aquello que se busca explicar (el *explanandum*) se de
 
 ## Algunas citas clave:
 
-“Nagel’s3 analysis of the cognitive status of theories indicates that all three components can usually be identified in a theory, namely, ‘an abstract set of postulates which implicitly define the basic terms of the theory, a model or interpretation for the postulates, and rules of correspondence for terms in the postulates or in the theorems derived from them.’” (King, I.M. (1971) Toward a Theory for Nursing: General Concepts of Human Behavior. John Wiley
+“Nagel’s analysis of the cognitive status of theories indicates that all three components can usually be identified in a theory, namely, ‘an abstract set of postulates which implicitly define the basic terms of the theory, a model or interpretation for the postulates, and rules of correspondence for terms in the postulates or in the theorems derived from them.’” (King, I.M. (1971) Toward a Theory for Nursing: General Concepts of Human Behavior. John Wiley
 and Sons, New York. p. 13)
 
 
