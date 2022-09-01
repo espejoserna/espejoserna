@@ -223,8 +223,49 @@ Explicar es mostrar cómo aquello que se busca explicar (el *explanandum*) se de
 ![](/courses/hfc/_index_files/borde.jpg)
 
 
+## Algunas citas clave:
 
-##Variaciones: Compte, Ayer y Schlick
+“Nagel’s3 analysis of the cognitive status of theories indicates that all three components can usually be identified in a theory, namely, ‘an abstract set of postulates which implicitly define the basic terms of the theory, a model or interpretation for the postulates, and rules of correspondence for terms in the postulates or in the theorems derived from them.’” (King, I.M. (1971) Toward a Theory for Nursing: General Concepts of Human Behavior. John Wiley
+and Sons, New York. p. 13)
+
+
+“Part of the definition of a theory is that it is a systematically related set of statements
+of propositions. This means that the propositions are deductively arranged—some basic
+propositions are assumed to be true. This assumption is based on what the theorist considers to be adequate empirical evidence to support the assertions made by the propositions. These basic propositions are called ‘axioms.’ From them, other propositions called
+‘theorems’ are deduced.” (Jacox, A. (1974) Theory construction in nursing: an overview. Nursing Research, 23 (1) p. 412)
+
+“From a philosophic point of view, a theory is a set of sentences whose purpose is to
+explain. The specific vocabulary of these sentences includes primitive terms. Hempel
+(p. 183),4 in his discussion of scientific concepts and theories, points out that ‘many of
+the sentences of a theory are derivable from others by means of the principles of deductive logic (and the definitions of the defined terms); but on pain of a vicious circle or an
+infinite regress in the deduction, not all of the theoretical sentences can be thus established. Hence, the set of sentences asserted by theory falls into two subsets: primitive
+sentences, or postulates (also called axioms), and derivative sentences, or theorems.’”
+(Riehl, J.P. & Roy, S.C. (eds) (1974) Conceptual Models for Nursing Practice. Appleton Century
+Crofts, New York. p. 3)
+
+“The central core of a theory consists of its postulates. These are statements of general
+truth that serve as essential premises for whatever is being investigated. Postulates are
+usually stated as generalizations which are consistent with scientific evidence related to
+one’s research problem. They form the essential presuppositions from which hypotheses
+are deduced and tested. Rogers (1970, pp. 46–47), for example, in developing her theoretical basis of nursing, identified four essential postulates about man.” (Silva, M.C. (1977) Philosophy, science, and theory: interrelationships and implications for
+nursing research. Image—The Journal of Nursing Scholarship, 9 (3), 59–63., p. 61)
+
+“Concepts are connected in a theory by verbal or mathematical statements called propositions. Propositions describe the theoretical linkages between concepts. Two types of
+propositions are generally found in a theory. Axioms, or initial propositions, are the
+starting points for derivations; they are not to be tested, but rather taken as givens in the
+theory. In contrast, postulates, also called deduced propositions or theorems, are statements of supposition regarding the type of relation between the concepts of the theory.
+A theory’s explanatory power is found in its postulates.” (Fawcett, J. (1978) The relationship between theory and research: a double helix. ANS: Advances in Nursing Science, 1 (1), 36–39. p. 51)
+
+## Variaciones: Compte y Schlick
+
+Compte: 
+
+Explicación mítica -> Explicación filosófico-metafísica -> Explicación científica
+
+
+Schlick:
+La visión de lo que queda de la filosofía después del positivismo
+
 
 
 ![](/courses/hfc/_index_files/borde.jpg)
