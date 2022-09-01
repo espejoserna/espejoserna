@@ -4,7 +4,7 @@ linktitle: Semana 6
 toc: true
 type: docs
 date: "Sun Feb  6 17:36:27 2022"
-draft: true
+draft: false
 menu:
   investigacionfilo:
     name: Semana 6
@@ -30,7 +30,8 @@ weight: 1
 
 Tarea 1: Reseña de un texto.
   
-Tarea 2: Escribir 1000 palabras sobre una pregunta de investigación filosófica relacionada con su tema de tesis. Preséntele al lector la pregunta, señale qué la hace problemática. Suponga que es un estudiante de primer semestre y explique el vocabulario técnico que utilice y por qué hay una cuestión filosófica ahí.  Aquí el ejercicio principal consiste en ejercitarse en presentar y explicar un problema—independientemente del hecho de que al final sí resulten haciendo la tesis sobre eso.
+Tarea 2: Escribir 1000 palabras sobre una pregunta de investigación filosófica relacionada con su tema de tesis. Preséntele al lector la pregunta, señale qué la hace problemática. Suponga que es un estudiante de primer semestre y explique el vocabulario técnico que utilice y por qué hay una cuestión filosófica ahí.  Aquí el ejercicio principal consiste en ejercitarse en presentar y explicar la pregunta problema de su investigación.
 
+Tarea 3: Una segunda versión de una sección del ante proyecto (una página).
  
 
