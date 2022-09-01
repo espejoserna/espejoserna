@@ -110,6 +110,42 @@ Dos problemas> términos disposicionales y términos con más de una definición
 
 **¿Cuál es la diferencia entre algo que no es frágil y algo frágil que nunca ha sido golpeado?**
 
+
+
+### Solución tentativa: enunciados de reducción
+
+**∀x ∀t \[ G(x,t) → (R(x,t) ≡ F(x)) \]**
+
+Enunciados de reducción definen parcialmente a los términos teóricos
+
+En este caso, sólo se define la fragilidad cuando se le da un golpe seco, no con respecto a otras posibles formas de observarlo
+
+- ∀x ∀t \[ G(x,t) → (R(x,t) ≡ F(x)) \]
+
+- ∀x ∀t \[ V(x,t) → (R(x,t) ≡ F(x)) \]
+
+- ∀x ∀t \[ S(x,t) → (R(x,t) ≡ F(x)) \]
+
+De acuerdo con la siguiente interpretación de los predicados:
+  <small> 
+
+  * F(x) = x es frágil
+  * G(x,t) = x recibe un golpe seco en t
+  * R(x,t) = x se rompe en t
+  * V(x,t) = x gira rápidamente en t
+  * S(x,t) = x se somete a sonidos de alta frecuencia en t
+
+  </small>
+
+Esto implica un cambio en el criterio de significablidad cognitiva.
+
+
+Hay un cambio en la formulación:
+1. 5\. Las reglas de corresponencia **C** constituyen una _definición explícita_ de los términos teóricos
+1. 5'. Las reglas de corresponencia **C** constituyen una _definición parcial_ de los términos teóricos
+1. 5''. Las reglas de corresponencia **C** constituyen un _sistema interpretativo_ de la teoría como un todo
+
+
 ### El problema de la multiplicidad de procedimientos
 
 Un término teórico es sinónimo de una seria de operaciones correspondientes
@@ -124,6 +160,46 @@ Ya que hay muchos procedimientos para determinar la masa
 ![](/courses/hfc/_index_files/borde.jpg)
 
 
+
+
+
+### Realismo y antirealismo
+
+Si todas las predicciones de una teoría son correctas,  
+¿es la teoría verdadera?
+
+Depende de la interpretación, esto es, si es realista o no.
+
+¿Qué hace a una interpretación _realista?_
+
+¿Qué hace a una interpretación _anti-realista?_
+
+* _Interpretación realista_: No, no es suficiente con que haga predicciones correctas; los postulados teóricos también tienen que ser verdaderos.
+* _Interpretación instrumentalista (anti-realista)_: ¿por qué se hace esa pregunta?
+
+El realismo o anti-realismo en filosofía de la ciencia típicamente se define con respecto a la posición que adoptan frente a la pregunta por la verdad de la teoría.
+
+Los realistas buscan la verdad de las teorías
+
+Los antirealistas buscan la utilidad práctica de las teorías —por eso también se les llama instrumentalistas.
+
+### Un problema para la interpretación instrumentalista
+
+¿Por qué son necesarios los términos teóricos?
+
+_El dilema del teórico_: a) Si los términos teóricos cumplen su función, no son necesarios. b) Y si no cumplen su función, son ociosos.
+
+¿por qué A ?
+
+¿por qué B ?
+
+### Un problema para la interpretación realista
+
+¿Cómo se determina la referencia de los términos teóricos?
+
+Si las reglas de correspondencia sólo son sistemas interpretativos de la teoría como un todo, ya no tenemos una relación uno-a-uno entre términos teóricos y términos observacionales.
+
+Entonces ¿cómo pueden ser verdaderos o falsos los enunciados de T?
 
 ## La noción de explicación
 

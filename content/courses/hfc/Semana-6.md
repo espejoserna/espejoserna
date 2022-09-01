@@ -44,7 +44,7 @@ Vamos a estudiar lo que por un tiempo fue considerado LA forma de entender cómo
 
 ### La esencia de la concepción heredada
 {{% alert note %}}
-Las teorías científicas son cálculos axiomáticos con una interpretación observacional parcial en términos de reglas de correspondencia que permiten predecir otras observaciones.
+Las teorías científicas se deben poder entender como cálculos axiomáticos con una interpretación observacional parcial en términos de reglas de correspondencia que permiten predecir otras observaciones.
 {{% /alert %}}
 
 
