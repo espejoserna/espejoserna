@@ -95,6 +95,11 @@ Dos problemas> términos disposicionales y términos con más de una definición
 
 ¿cómo caracterizar la fragilidad, la solubilidad o la flamabilidad si lo único que podemos ver es que algo se rompe, se disuelve o se enciende en llamas?
 
+
+![](/courses/hfc/_index_files/borde.jpg)
+##  Retos específicos: términos disposicionales y multiplicidad de procedimientos
+
+
 ### El problema de la definición de términos disposicionales
 
 **∀x ∃t \[ F(x) ≡ (G(x,t) → R(x,t)) \]**
@@ -116,18 +121,37 @@ Ya que hay muchos procedimientos para determinar la masa
 
 ¿lo que mide una balanza y lo que mide una báscula es lo mismo?
 
+![](/courses/hfc/_index_files/borde.jpg)
+
+
+
+## La noción de explicación
+
+Una teoría científica explica. ¿Cómo?
+
+El positivismo ofrece un modelo de la explicación científica acorde con su modelo de teoría científica:
+explicar un fenómeno es presentarlo como una consecuencia de leyes de la naturaleza generales.
+
+¿Qué es explicar el movimiento de las olas?
+
+Deducir el movimiento de las olas de las leyes universiales del movimiento de Newton es explicar el movimiento de las olas.
+
+Una explicación científica, de acuerdo con Carl Hempel, tiene los siguientes elementos:
+
+1. Una serie de eventos con cierta regularidad del que se busca una explicación. (*explanandum*)
+2. Una serie de leyes o principios generales 
+1. Una serie de condiciones iniciales.
+
+Explicar es mostrar cómo aquello que se busca explicar (el *explanandum*) se deduce de las leyes o principios generales dadas una condiciones iniciales específicas.
 
 ![](/courses/hfc/_index_files/borde.jpg)
 
 
 
-![](/courses/hfc/_index_files/borde.jpg)
-##  Retos específicos: términos disposicionales y multiplicidad de procedimientos
-
-![](/courses/hfc/_index_files/borde.jpg)
-## Variaciones: Compte, Ayer y Schlick
+##Variaciones: Compte, Ayer y Schlick
 
 
 ![](/courses/hfc/_index_files/borde.jpg)
  
 ### Lectura para la próxima clase 
+### Dos Dogmas del empirismo : W. V. O. Quine
