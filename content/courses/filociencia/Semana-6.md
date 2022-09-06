@@ -1,14 +1,14 @@
 ---
-title: Semana 5
-linktitle: Semana 5
+title: Semana 6
+linktitle: Semana 6
 toc: true
 type: docs
 date: "2019-05-05T00:00:00+01:00"
 draft: false
 menu:
   filociencia:
-    name: Semana 5
-    weight: 5
+    name: Semana 6
+    weight: 6
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 2
