@@ -13,6 +13,9 @@ menu:
 
 ![](/courses/hfc/_index_files/borde.jpg)
 
+[Presentacion](https://jcunisabana.github.io/logica1/6.html#/)
+
+
 ## Plan semanal
 
 
