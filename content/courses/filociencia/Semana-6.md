@@ -31,12 +31,10 @@ weight: 2
 ### Base firme
 
 <div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/ODhIEyA4vySYm0aRes" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/heyduggee-hey-duggee-building-block-badge-ODhIEyA4vySYm0aRes">via GIPHY</a></p>
-### Regreso al infinito
 
 ### Circularidad
 
-https://youtube.com/clip/Ugkx05StVE9aBjvlFsfPi-oNgk8JufwhwfVi
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VV4bPR37r3A?start=110" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 #### Circularidad parcial
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NleVn6Aru7I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -46,7 +44,6 @@ https://youtube.com/clip/Ugkx05StVE9aBjvlFsfPi-oNgk8JufwhwfVi
 
 <div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/qoJ9sZu2Xui9a" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/fractal-qoJ9sZu2Xui9a">via GIPHY</a></p>
 
-### piedra angular
 
 
 
