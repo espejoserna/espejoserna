@@ -35,6 +35,7 @@ weight: 2
 ### Circularidad
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VV4bPR37r3A?start=110" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 #### Circularidad parcial
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NleVn6Aru7I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
