@@ -22,6 +22,7 @@ weight: 2
 1. El primer dogma: analiticidad
 1. El segundo dogma: reduccionismo
 1. Más allá de los dogmas
+1. Implicaciones
 ![](/courses/hfc/_index_files/borde.jpg)
 
 
@@ -99,6 +100,7 @@ sino 'analítico'.
 
 Quine considera que todo enunciado está siempre sujeto a evaluación por aspecto fácticos y de significado. No hay juicios cuyo componente fáctico sea nulo y por tanto no hay juicios analíticos.
 
+----
 Un desafío para Quine de parte de Gillian Russell (2008)
 
 > "Yo estoy aquí ahora"
@@ -110,12 +112,12 @@ Un desafío para Quine de parte de Gillian Russell (2008)
 
 ¿En qué consiste la diferencia entre una verdad a priori, una verdad necesaria y una verdad analítica?
 
+---
 
 ![](/courses/hfc/_index_files/borde.jpg)
 
 ## Reductivismo
 
-### _Dos dogmas del empirismo_
 
 En su discusión sobre la analiticidad, Quine no examina desde el principio qué es el significado porque deja esto para las consideraciones sobre el reductivismo. Volvamos ahora a ella.
 
@@ -162,5 +164,40 @@ Estas consideraciones llevan a Quine a una forma de pragmatismo respecto a la ci
 
 
 ![](/courses/hfc/_index_files/borde.jpg)
- 
+
+## Implicaciones 
+
+De acuerdo con Quine, no es posible examinar una afirmación por sí sola. Se examina la totalidad dependiendo de su utilidad. ¿Cómo se refleja esto respecto a, por ejemplo, la validez de un meta-paradigma, de una 'grand theory', o de la selección de una teoría pertinente?
+
+
+"In essence, then, evaluation of the testability of a grand theory involves determining
+the middle-range theory-generating capacity of a grand theory. The criterion of testabil-
+ity is met when the grand theory has led to the generation of one or more middle-range
+theories.” (Fawcett, 2005b, p. 133)
+
+"The major determinant in the selection of knowledge from the basic and applied sci-
+ences pertinent to nursing is nursing’s specific and unique professional goal. It is pro-
+posed here that the body of knowledge called the science of nursing consists of a syn-
+thesis, reorganization, or extension of concepts drawn from the basic and other applied
+sciences which in their reformulation tend to become ‘new’ concepts. It is further pro-
+posed that these ‘new’ concepts will be concerned largely but not exclusively with the
+causation, character, and process of the tension growing out of stress and disturbing
+internal or interpersonal equilibrium, or both. They will lead to the development of the-
+ories of nursing intervention which will yield predictable (and desirable) responses in
+patients when implemented in nursing care.”(Johnson, 1959, The Nature of a Science of Nursing, p. 292)
+
+- ¿Qué es teórico y qué es práctico?
+- ¿Qué es aplicado y qué es básico?
+- ¿Qué fundamenta y qué es fundamentado?
+- ¿Cómo se verifica una afirmación?
+- ¿Cómo se marca la diferencia entre diferentes niveles de teoría?
+- ¿Qué teoría se acepta y cómo se determina que se acepta?
+- ¿Cuál es el lugar de los valores dentro de la ciencia? ¿De ciertos conceptos?
+
+
+
+![](/courses/hfc/_index_files/borde.jpg)
+
+
 ### Lectura para la próxima clase 
+Popper - Conjeturas y refutaciones - Cap 1
