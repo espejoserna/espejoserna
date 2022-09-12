@@ -1,14 +1,14 @@
 ---
-title: Semana 8 - Dos dogmas del empirismo
-linktitle: Semana 8
+title: Semana 9 - Dos dogmas del empirismo
+linktitle: Semana 9
 toc: true
 type: docs
 date: "Sun Feb  6 17:35:41 2022"
-draft: true
+draft: false
 menu: 
   hfc:
-    name: Semana 8
-    weight: 9
+    name: Semana 9
+    weight: 10
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 7
