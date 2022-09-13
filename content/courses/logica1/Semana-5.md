@@ -1,13 +1,13 @@
 ---
-title: Semana 05 - Geometría euclideana
-linktitle: Semana 05
+title: Geometría 
+linktitle: Geometría
 toc: true
 type: docs
 date: "2019-05-05T00:00:00+01:00"
 draft: false
 menu:
   logica1:
-    name: Semana 05
+    name: Geometría
     weight: 5
 ---
 

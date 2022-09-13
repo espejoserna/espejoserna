@@ -237,6 +237,6 @@ practices of a charlatan and accepted scientific methods?
  
 ### Lectura para la próxima clase 
 
-#### El espíritu positive - A. Compte - Filosofía de las ciencias humanas y sociales (Mardonés, editor)
+#### El espíritu positivo - A. Compte - Filosofía de las ciencias humanas y sociales (Mardonés, editor)
 #### Introducción del compilador - Secciones 1-3 - A. J. Ayer - El positivismo lógico (Ayer, editor)
 #### El viraje de la filosofía - M. Schlick - El positivismo lógico  (Ayer, editor)

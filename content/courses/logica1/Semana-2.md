@@ -1,13 +1,13 @@
 ---
-title: Semana 02 
-linktitle: Semana 02
+title: Lógica del ser, del pensar y del lenguaje
+linktitle: Lógica del ser, del pensar y del lenguaje
 toc: true
 type: docs
 date: "2019-05-05T00:00:00+01:00"
 draft: false
 menu:
   logica1:
-    name: Semana 02
+    name: Ser, pensar, lenguaje
     weight: 3
 ---
 
