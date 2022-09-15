@@ -18,10 +18,11 @@ weight: 2
 
 ## Plan
 
-2.  La idea de la falsación
-3.  Falsación y verificación: Popper y Wittgenstein
-4.  Inducción: Popper y Hume
-5.  El proceder de la ciencia: Popper y CH
+1.  La idea de la falsación
+1.  Falsación y verificación: Popper y Wittgenstein
+1.  Inducción: Popper y Hume
+1.  El proceder de la ciencia: Popper y CH
+1. Las limitaciones del falsacionismo
 
 ![](/courses/hfc/_index_files/borde.jpg)
 
@@ -50,6 +51,7 @@ weight: 2
 2. Fraude en psicología: Diederik Stapel
 3. Sokal affair
 
+![](/courses/hfc/_index_files/borde.jpg)
 
 ## Falsación y verificación:  
 Popper y Wittgenstein
@@ -90,7 +92,8 @@ No puede haber ningún argumento lógico válido que nos permita establecer "
 No hay sustento racional de la inducción: ✔  
 Explicación inducción en función del hábito y costumbre:✘
 
-  
+  ![](/courses/hfc/_index_files/borde.jpg)
+
   
 ## El proceder de la ciencia:  
 Popper y el positivismo lógico
@@ -137,3 +140,10 @@ No hay forma de confirmar definitivamente una teoría. La mejor teoría es la te
 Según Popper, la ciencia *busca* la verdad pero nunca llega a ella.
 
 Sube una montaña y pero nunca llega a la cima.
+
+![](/courses/hfc/_index_files/borde.jpg)
+
+## Las limitaciones del falsacionismo
+
+1. Si verificación es lo que se encuentra si eso es lo que se busca, ¿cómo es posible la falsación?
+2. La idea de la falsación asume que hay experimentos cruciales que permiten evaluar una teoría. ¿Qué pasa cuando no lo hay? 
