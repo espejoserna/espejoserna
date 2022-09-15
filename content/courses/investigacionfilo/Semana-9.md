@@ -1,14 +1,14 @@
 ---
-title: Semana 9
-linktitle: Semana 9
+title: Semana 8
+linktitle: Semana 8
 toc: true
 type: docs
 date: "Sun Feb  6 17:36:27 2022"
 draft: false
 menu:
   investigacionfilo:
-    name: Semana 9
-    weight: 9
+    name: Semana 8
+    weight: 8
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 1
@@ -28,6 +28,6 @@ weight: 1
 
 Tarea 1: Reseña de un texto.
   
-Tarea 2: Segunda versión *completa* del anteproyecto, al menos dos párrafos por sección.
+Tarea 2: Primera versión *completa* del anteproyecto, al menos un párrafo por sección.
  
 
