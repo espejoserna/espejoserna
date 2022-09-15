@@ -222,6 +222,8 @@ El punto en de X representa las proposiciones categóricas de  forma O
 
 ### El cuadrado de los opuestos
 
+![](/courses/logica1/cuadrado.png)
+
 
 El cuadrado de los opuestos, en la interpretación aristotélica, establece ciertas relaciones entre proposiciones.
 
@@ -330,6 +332,7 @@ Presente un ejemplo que ilustre su respuesta
 Silogismos, en su forma más sencilla, son representaciones de argumentos con dos premisas y una conclusión. Ya vismo las posibles formas que pueden tomar las premisas (A, E, I y O) ahora vamos a ver las posibles formas que pueden tomar los silogismos.
 
 #### Figuras
+![](/courses/logica1/figuras.png)
 
 #### Primera figura
 
