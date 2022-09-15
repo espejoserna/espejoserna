@@ -206,4 +206,5 @@ ous. Truth is achieved when we have exhausted all attempts at falsifying a propo
 5. El rechazo de la inducción
 
 ### Lectura para la próxima clase 
-Que es esa cosa que se llama ciencia - Cap. 8-9
+- Que es esa cosa que se llama ciencia - Cap. 8
+- Kuhn - La estructura de la revoluciones científicas - 1-10
