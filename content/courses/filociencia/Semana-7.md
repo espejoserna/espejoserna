@@ -184,7 +184,7 @@ ically adequate or inadequate in another study. As Barry (1997) explained, “Sc
 empirical research] . . . does not compromise. Instead, science forces ideas to compete in a
 dynamic process. This competition refines or replaces old hypotheses, gradually approaching
 a more perfect representation of the truth, although one can reach truth no more than one can
-reach infinity” (p. 90). (Jacqueline Fawcett, Joan Garity - Evaluating Research for Evidence-Based Nursing Practice (2008))
+reach infinity” (p. 90). (Jacqueline Fawcett, Joan Garity - Evaluating Research for Evidence-Based Nursing Practice (2008)) p. 251
 
 > The positivists assert that correspondence truth is achieved through corroboration by verifica-
 tion. Popper (1959) modified the positivist view and developed the argument for falsification. He
@@ -194,7 +194,7 @@ tion of the opposite statement occurs with multiple incidents of falsification o
 through experience. Once a single falsifying instance counters a proposition, the proposition
 should be rejected. On the other hand, a proposition is not scientific if it does not have the poten-
 tial for falsification. Continuous attempts to falsify statements make the scientific process rigor-
-ous. Truth is achieved when we have exhausted all attempts at falsifying a proposition. (Meleis,  Theoretical Nursing: Development and Progress, 2011)
+ous. Truth is achieved when we have exhausted all attempts at falsifying a proposition. (Meleis,  Theoretical Nursing: Development and Progress, 2011) p. 151
 
 
 ## Las limitaciones del falsacionismo
