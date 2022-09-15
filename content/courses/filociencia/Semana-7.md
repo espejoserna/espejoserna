@@ -171,7 +171,7 @@ The hypothesis cannot be falsified because it does not eliminate any logically o
 possible results. In contrast, the hypothesis that all mothers and fathers have medium scores
 on the Personal Health Questionnaire (PHQ) and low scores on the IFSCCBC can be falsified because it asserts that the moth-
 ers and fathers will not have high or low scores on the PHQ and will not have high or medium
-scores on the IFSCCBC.
+scores on the IFSCCBC. (Jacqueline Fawcett, Joan Garity - Evaluating Research for Evidence-Based Nursing Practice (2008))
 
 >A middle-range theory that is not empirically adequate is not necessarily useless and may be
 just as informative as one that is empirically adequate. It is equally important to learn “what
@@ -184,10 +184,23 @@ ically adequate or inadequate in another study. As Barry (1997) explained, “Sc
 empirical research] . . . does not compromise. Instead, science forces ideas to compete in a
 dynamic process. This competition refines or replaces old hypotheses, gradually approaching
 a more perfect representation of the truth, although one can reach truth no more than one can
-reach infinity” (p. 90).
+reach infinity” (p. 90). (Jacqueline Fawcett, Joan Garity - Evaluating Research for Evidence-Based Nursing Practice (2008))
+
+> The positivists assert that correspondence truth is achieved through corroboration by verifica-
+tion. Popper (1959) modified the positivist view and developed the argument for falsification. He
+asserted that the central concept in scientific discovery is “marcation.” Demarcation criteria
+require that we consider a proposition scientific only if it has the potential to be falsified. Verifica-
+tion of the opposite statement occurs with multiple incidents of falsification of the statement
+through experience. Once a single falsifying instance counters a proposition, the proposition
+should be rejected. On the other hand, a proposition is not scientific if it does not have the poten-
+tial for falsification. Continuous attempts to falsify statements make the scientific process rigor-
+ous. Truth is achieved when we have exhausted all attempts at falsifying a proposition. (Meleis,  Theoretical Nursing: Development and Progress, 2011)
 
 
 ## Las limitaciones del falsacionismo
 
 1. Si verificación es lo que se encuentra si eso es lo que se busca, ¿cómo es posible la falsación?
 2. La idea de la falsación asume que hay experimentos cruciales que permiten evaluar una teoría. ¿Qué pasa cuando no lo hay? 
+3. La historia de la ciencia parece contradecir el falsacionismo. ¿Qué pasa cuando la teoría filosñofica de la ciencia va en contra de la práctica científica?
+4. La falseabilidad a veces es muy fácil. ¿Todo lo que es falseable es científico?
+5. El rechazo de la inducción
