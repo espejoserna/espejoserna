@@ -201,6 +201,9 @@ ous. Truth is achieved when we have exhausted all attempts at falsifying a propo
 
 1. Si verificación es lo que se encuentra si eso es lo que se busca, ¿cómo es posible la falsación?
 2. La idea de la falsación asume que hay experimentos cruciales que permiten evaluar una teoría. ¿Qué pasa cuando no lo hay? 
-3. La historia de la ciencia parece contradecir el falsacionismo. ¿Qué pasa cuando la teoría filosñofica de la ciencia va en contra de la práctica científica?
+3. La historia de la ciencia parece contradecir el falsacionismo. ¿Qué pasa cuando la teoría filosófica de la ciencia va en contra de la práctica científica?
 4. La falseabilidad a veces es muy fácil. ¿Todo lo que es falseable es científico?
 5. El rechazo de la inducción
+
+### Lectura para la próxima clase 
+Que es esa cosa que se llama ciencia - Cap. 8-9
