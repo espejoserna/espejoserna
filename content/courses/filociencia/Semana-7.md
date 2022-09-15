@@ -143,6 +143,50 @@ Sube una montaña y pero nunca llega a la cima.
 
 ![](/courses/hfc/_index_files/borde.jpg)
 
+## Algunas citas
+
+> Theories can be thought of as evidence (see Box 1–1), which is something that serves as
+proof (OED, 2005). When theories are used as evidence, the “proof ” should be considered
+tentative or uncertain, because no theory is absolutely true and actually may be false
+(Popper, 1965). In other words, a theory can never be proved to be true, so it should never
+be considered final or absolute. It is always possible that additional tests of the theory will
+yield findings that would contradict it or that other theories will provide a better fit with
+the data (Hoyle, Harris, & Judd, 2002). In nursing, evidence in the form of theory is used
+to guide practice. (Jacqueline Fawcett, Joan Garity - Evaluating Research for Evidence-Based Nursing Practice (2008))
+
+> Although the conceptual model that guided the research is not always mentioned in
+the report of the research, some frame of reference always guides researchers to select a
+particular topic, to review certain literature, and to conduct theory-generating research or
+theory-testing research in a certain way. Popper (1965), a philosopher of science, stated that
+in as much as researchers always conduct studies within the context of a preconceived “hori-
+zon of expectations” (p. 47), the belief held by some researchers that theories are developed
+without guidance from a conceptual model is “absurd” (p. 46).  (Jacqueline Fawcett, Joan Garity - Evaluating Research for Evidence-Based Nursing Practice (2008))
+
+>  Hypotheses should be falsifiable (Popper, 1965; Schumacher & Gortner, 1992). That
+means that the way in which the hypothesis is stated should allow the researcher to conclude
+that the hypothesis was rejected if the data do not support the assertion made in the hypoth-
+esis. For example, suppose that a researcher hypothesized that all mothers and fathers have
+high, medium, or low scores on the Inventory of Functional Status–Caregiver of a Child in a Body Cast (IFSCCBC) and high, medium, or low scores on the PHQ.
+The hypothesis cannot be falsified because it does not eliminate any logically or practically
+possible results. In contrast, the hypothesis that all mothers and fathers have medium scores
+on the Personal Health Questionnaire (PHQ) and low scores on the IFSCCBC can be falsified because it asserts that the moth-
+ers and fathers will not have high or low scores on the PHQ and will not have high or medium
+scores on the IFSCCBC.
+
+>A middle-range theory that is not empirically adequate is not necessarily useless and may be
+just as informative as one that is empirically adequate. It is equally important to learn “what
+is” and “what is not” for as Glanz (2002) pointed out, “There is as much to learn from failure
+as there is to learn from success” (p. 546). Knowing “what is not” advances theory develop-
+ment by eliminating a false line of reasoning before much time and effort are invested. We
+agree with Popper (1965) that the results of testing a middle-range theory should be used to
+refine the theory so that each remaining concept and proposition can be judged to be empir-
+ically adequate or inadequate in another study. As Barry (1997) explained, “Science [that is,
+empirical research] . . . does not compromise. Instead, science forces ideas to compete in a
+dynamic process. This competition refines or replaces old hypotheses, gradually approaching
+a more perfect representation of the truth, although one can reach truth no more than one can
+reach infinity” (p. 90).
+
+
 ## Las limitaciones del falsacionismo
 
 1. Si verificación es lo que se encuentra si eso es lo que se busca, ¿cómo es posible la falsación?
