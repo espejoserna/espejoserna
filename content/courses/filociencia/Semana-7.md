@@ -22,6 +22,7 @@ weight: 2
 1.  Falsación y verificación: Popper y Wittgenstein
 1.  Inducción: Popper y Hume
 1.  El proceder de la ciencia: Popper y CH
+1. Algunas citas sobre el rol de Popper en Enfermería
 1. Las limitaciones del falsacionismo
 
 ![](/courses/hfc/_index_files/borde.jpg)
@@ -143,9 +144,9 @@ Sube una montaña y pero nunca llega a la cima.
 
 ![](/courses/hfc/_index_files/borde.jpg)
 
-## Algunas citas
+## Algunas citas sobre el rol de Popper en Enfermería
 
-
+#### Jacqueline Fawcett, Joan Garity - Evaluating Research for Evidence-Based Nursing Practice (2008)
 > Theories can be thought of as evidence (see Box 1–1), which is something that serves as
 proof (OED, 2005). When theories are used as evidence, the “proof ” should be considered
 tentative or uncertain, because no theory is absolutely true and actually may be false
@@ -184,6 +185,8 @@ empirical research] . . . does not compromise. Instead, science forces ideas to 
 dynamic process. This competition refines or replaces old hypotheses, gradually approaching
 a more perfect representation of the truth, although one can reach truth no more than one can
 reach infinity” (p. 90). (Jacqueline Fawcett, Joan Garity - Evaluating Research for Evidence-Based Nursing Practice (2008), p. 251)
+
+#### Meleis,  Theoretical Nursing: Development and Progress
 
 > The positivists assert that correspondence truth is achieved through corroboration by verifica-
 tion. Popper (1959) modified the positivist view and developed the argument for falsification. He
