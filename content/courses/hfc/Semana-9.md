@@ -1,17 +1,17 @@
 ---
-title: Semana 9 - La empresa científica - conjeturas y refutaciones
-linktitle: Semana 9
+title: Semana 10 - La empresa científica - conjeturas y refutaciones
+linktitle: Semana 10
 toc: true
 type: docs
 date: "Sun Feb  6 17:35:41 2022"
-draft: true 
+draft: false 
 menu:
   hfc:
-    name: Semana 9
-    weight: 10
+    name: Semana 10
+    weight: 11
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
-weight: 9
+weight: 10
 ---
 
 <a href="{{< relref "/slides/hfc/9" >}}" target="_blank">Click aquí para ver la presentación en una nueva pestaña.</a>
