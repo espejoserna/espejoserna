@@ -22,6 +22,7 @@ weight: 2
 1.  Falsación y verificación: Popper y Wittgenstein
 1.  Inducción: Popper y Hume
 1.  El proceder de la ciencia: Popper y CH
+1. Algunas citas sobre el rol de Popper en Enfermería
 1. Las limitaciones del falsacionismo
 
 ![](/courses/hfc/_index_files/borde.jpg)
@@ -143,8 +144,9 @@ Sube una montaña y pero nunca llega a la cima.
 
 ![](/courses/hfc/_index_files/borde.jpg)
 
-## Algunas citas
+## Algunas citas sobre el rol de Popper en Enfermería
 
+#### Jacqueline Fawcett, Joan Garity - Evaluating Research for Evidence-Based Nursing Practice (2008)
 > Theories can be thought of as evidence (see Box 1–1), which is something that serves as
 proof (OED, 2005). When theories are used as evidence, the “proof ” should be considered
 tentative or uncertain, because no theory is absolutely true and actually may be false
@@ -152,7 +154,7 @@ tentative or uncertain, because no theory is absolutely true and actually may be
 be considered final or absolute. It is always possible that additional tests of the theory will
 yield findings that would contradict it or that other theories will provide a better fit with
 the data (Hoyle, Harris, & Judd, 2002). In nursing, evidence in the form of theory is used
-to guide practice. (Jacqueline Fawcett, Joan Garity - Evaluating Research for Evidence-Based Nursing Practice (2008))
+to guide practice. (Jacqueline Fawcett, Joan Garity - Evaluating Research for Evidence-Based Nursing Practice (2008), p. 6)
 
 > Although the conceptual model that guided the research is not always mentioned in
 the report of the research, some frame of reference always guides researchers to select a
@@ -160,7 +162,7 @@ particular topic, to review certain literature, and to conduct theory-generating
 theory-testing research in a certain way. Popper (1965), a philosopher of science, stated that
 in as much as researchers always conduct studies within the context of a preconceived “hori-
 zon of expectations” (p. 47), the belief held by some researchers that theories are developed
-without guidance from a conceptual model is “absurd” (p. 46).  (Jacqueline Fawcett, Joan Garity - Evaluating Research for Evidence-Based Nursing Practice (2008))
+without guidance from a conceptual model is “absurd” (p. 46).  (Jacqueline Fawcett, Joan Garity - Evaluating Research for Evidence-Based Nursing Practice (2008), p 58)
 
 >  Hypotheses should be falsifiable (Popper, 1965; Schumacher & Gortner, 1992). That
 means that the way in which the hypothesis is stated should allow the researcher to conclude
@@ -169,9 +171,7 @@ esis. For example, suppose that a researcher hypothesized that all mothers and f
 high, medium, or low scores on the Inventory of Functional Status–Caregiver of a Child in a Body Cast (IFSCCBC) and high, medium, or low scores on the PHQ.
 The hypothesis cannot be falsified because it does not eliminate any logically or practically
 possible results. In contrast, the hypothesis that all mothers and fathers have medium scores
-on the Personal Health Questionnaire (PHQ) and low scores on the IFSCCBC can be falsified because it asserts that the moth-
-ers and fathers will not have high or low scores on the PHQ and will not have high or medium
-scores on the IFSCCBC. (Jacqueline Fawcett, Joan Garity - Evaluating Research for Evidence-Based Nursing Practice (2008))
+on the Personal Health Questionnaire (PHQ) and low scores on the IFSCCBC can be falsified because it asserts that the mothers and fathers will not have high or low scores on the PHQ and will not have high or medium scores on the IFSCCBC. (Jacqueline Fawcett, Joan Garity - Evaluating Research for Evidence-Based Nursing Practice (2008), p.87)
 
 >A middle-range theory that is not empirically adequate is not necessarily useless and may be
 just as informative as one that is empirically adequate. It is equally important to learn “what
@@ -184,7 +184,9 @@ ically adequate or inadequate in another study. As Barry (1997) explained, “Sc
 empirical research] . . . does not compromise. Instead, science forces ideas to compete in a
 dynamic process. This competition refines or replaces old hypotheses, gradually approaching
 a more perfect representation of the truth, although one can reach truth no more than one can
-reach infinity” (p. 90). (Jacqueline Fawcett, Joan Garity - Evaluating Research for Evidence-Based Nursing Practice (2008)) p. 251
+reach infinity” (p. 90). (Jacqueline Fawcett, Joan Garity - Evaluating Research for Evidence-Based Nursing Practice (2008), p. 251)
+
+#### Meleis,  Theoretical Nursing: Development and Progress
 
 > The positivists assert that correspondence truth is achieved through corroboration by verifica-
 tion. Popper (1959) modified the positivist view and developed the argument for falsification. He
@@ -194,7 +196,7 @@ tion of the opposite statement occurs with multiple incidents of falsification o
 through experience. Once a single falsifying instance counters a proposition, the proposition
 should be rejected. On the other hand, a proposition is not scientific if it does not have the poten-
 tial for falsification. Continuous attempts to falsify statements make the scientific process rigor-
-ous. Truth is achieved when we have exhausted all attempts at falsifying a proposition. (Meleis,  Theoretical Nursing: Development and Progress, 2011) p. 151
+ous. Truth is achieved when we have exhausted all attempts at falsifying a proposition. (Meleis,  Theoretical Nursing: Development and Progress, 2011, p. 151)
 
 
 ## Las limitaciones del falsacionismo
@@ -206,5 +208,5 @@ ous. Truth is achieved when we have exhausted all attempts at falsifying a propo
 5. El rechazo de la inducción
 
 ### Lectura para la próxima clase 
-- Que es esa cosa que se llama ciencia - Cap. 8
-- Kuhn - La estructura de la revoluciones científicas - 1-10
+- Chalmers - Qué es esa cosa que se llama ciencia - Cap. 8
+- Kuhn - La estructura de la revoluciones científicas - 1-10 
