@@ -34,6 +34,9 @@ Por favor, en silecio, cada uno haga el test. Elija la opción que más se acerc
 
 Responda honéstamente.
 
+http://tiny.cc/hfctest
+
+
 
 
 ## La idea de la falsación
