@@ -13,9 +13,13 @@ menu:
 weight: 8
 ---
 
----
+--
 
 ![](/courses/hfc/_index_files/borde.jpg)
+
+[Presentación en pantalla completa](https://jcunisabana.github.io/logica1/9.html#/)
+
+
 
 
 ## Plan
