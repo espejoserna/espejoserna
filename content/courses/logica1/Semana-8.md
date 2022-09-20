@@ -301,17 +301,16 @@ Con base en la noción de complemento, podemos formular ahora otras relaciones e
 
 Si es verdad que, "Ningún científico es filósofo", ¿qué se puede inferir acerca de la verdad o falsedad de las siguientes proposiciones? Es decir, ¿cuál puede saberse que es verdadera?, ¿cuál puede saberse que es falsa? Y ¿cuál sería indeterminada?(Ejercicio E, p. 237)
 
-*1\. Ningún no filósofo es científico.  
+*1\. Ningún no filósofo es científico. * 
 2\. Algún no filósofo no es no científico.  
-3\. Todos ios no científicos son no filósofos.  
+3\. Todos s no científicos son no filósofos.  
 4\. Ningún científico es no filósofo.  
-*5\. Ningún no científico es no filósofo.  
+*5\. Ningún no científico es no filósofo. * 
 6\. Todos los filósofos son científicos.  
 7\. Algunos no filósofos son científicos.  
 8\. Todos los no filósofos son no científicos.  
 9- Algunos científicos no son filósofos.  
-*10\. Ningún filósofo es no científico.
-
+*10\. Ningún filósofo es no científico.*
 
 ## Existencia y el problema de las clases vacías
 
