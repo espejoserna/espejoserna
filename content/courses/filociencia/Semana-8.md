@@ -102,8 +102,6 @@ Los paradigmas nos cautivan de maneras que hacen más fácil ciertas tareas y ca
 
 ¿Qué es una anomalía?
 
-## Anomalías
-
 * "La ciencia normal, la actividad en que, inevitablemente, la mayoría de los científicos consumen casi todo su tiempo, se predica suponiendo que la comunidad científica sabe cómo es el mundo. "
 * "la ciencia normal suprime frecuentemente innovaciones fundamentales, debido a que resultan necesariamente subversivas para sus compromisos básicos."
 * Investigación consiste en forzar a la naturaleza dentro de las clasificaciones aprendidas como estudiante
@@ -121,7 +119,7 @@ Invención: nuevo elemento teórico
 
 ## Crisis
 
-## ¿Qué es un paradigma?
+### ¿Qué es un paradigma?
 
 * Un paradigma no es una teoría más
 * Dentro de una misma área, puede haber dos teorías compitiendo por el lugar del paradigma pero no puede haber dos paradgimas compitiendo entre sí.
@@ -163,6 +161,13 @@ Comparar la revolución científica con la revolución política. Piensen en el 
 ¿cuál es el rey de la democracia? ¿qué el el voto en la monarquía?
 
 Kuhn compara el cambio de paradgima con un cambio Gestalt. Se cambia lo que se ve. (Pero aunque se parecen pero son diferentes.)
+
+### Ejemplos de cambios de Gestalt
+
+https://www.illusionsindex.org/i/young-woman-or-old-woman
+
+
+### Diferencias con los cambios de Gestalt
 
 Pero la diferencia fundamental es que los cambio de Gestalt se pueden revertir y los científicos pueden decir que ven las líneas en ocasiones como un hombre viejo y en ocasiones como un joven.
 
