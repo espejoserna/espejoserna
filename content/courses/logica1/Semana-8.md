@@ -19,9 +19,6 @@ weight: 8
 
 [Presentación en pantalla completa](https://jcunisabana.github.io/logica1/9.html#/)
 
-
-
-
 ## Plan
 
 
@@ -303,6 +300,8 @@ Con base en la noción de complemento, podemos formular ahora otras relaciones e
     * Ningún S es P → Algún no-P no es no-S
     * Algún S no es P → Algún no-P no es no-S
 
+
+### Ejercicios
 Si es verdad que, "Ningún científico es filósofo", ¿qué se puede inferir acerca de la verdad o falsedad de las siguientes proposiciones? Es decir, ¿cuál puede saberse que es verdadera?, ¿cuál puede saberse que es falsa? Y ¿cuál sería indeterminada?(Ejercicio E, p. 237)
 
 *1\. Ningún no filósofo es científico.  
