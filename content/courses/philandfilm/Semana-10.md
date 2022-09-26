@@ -1,10 +1,10 @@
 ---
-title: Week 10 - Moral thoughtlessness
-linktitle: Week 10 
+title: Week 11 - Moral thoughtlessness
+linktitle: Week 11 
 toc: true
 type: docs
 date: "Sat Mar 26 12:21:59 2022"
-draft: true
+draft: false
 menu:
   philandfilm:
     name: Week 10
