@@ -309,7 +309,7 @@ Can you give me an example of a thoughtful wrongdoing and thoughless one?
 </section>
 <section>
 
-Example:  "Thoughtful" sexual harassment vs Thoughtless sexual harassment
+Example:  "Thoughtful" harassment vs Thoughtless harassment
 </section>
 <section>
 

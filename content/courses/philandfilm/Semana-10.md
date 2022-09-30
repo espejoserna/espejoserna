@@ -159,7 +159,7 @@ Thoughtful wrongdoing vs Thoughtless wrongdoing
 Can you give me an example of a thoughtful wrongdoing and thoughless one?
 
 Example:  
-"Thoughtful" sexual harassment vs Thoughtless sexual harassment
+"Thoughtful" harassment vs Thoughtless harassment
 
 Lenny is not blameless. He is fully responsible of killing Teddy because he put himself in a position where he knew that would be what he would do. Though he never decides his moral failure consists in his going along, not minding the situation and eventually killing someone out of spite.
 
