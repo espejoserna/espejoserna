@@ -4,7 +4,7 @@ linktitle: Week 11
 toc: true
 type: docs
 date: "Sat Mar 26 12:21:59 2022"
-draft: true
+draft: false
 menu:
   philandfilm:
     name: Week 11
@@ -30,7 +30,7 @@ weight: 10
 
 ## Individual plan
 
-Today is your turn to do it your self
+Today is your turn to do it yourselves.
 
 ### Individual Tasks
 
@@ -44,7 +44,6 @@ Today is your turn to do it your self
     4.  I reply that \[respond to the objection\].
 
 ## Group task
-
 
 In turns: each will present their four sentences and receive comments from the group on how to improve.
 
