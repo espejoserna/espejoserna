@@ -40,7 +40,7 @@ slides:
 <section>
 
 
-Today is your turn to do it your self
+Today is your turn to do it yourselves.
 </section>
 <section>
 
