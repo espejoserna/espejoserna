@@ -207,7 +207,7 @@ Por fuera de la ciencia normal: ¿?
 
 ## La noción de metaparadigma
 
-#### Kuhn no da una definición del término "paradigma" y no lo usa consistentemente. En ocasiones parece anclado a teorías específicas y a veces parece algo mucho más general. Margaret Masterman (1970) ha identificado 21 sentidos en que se usa la palabra y acuña la palabra "metaparadigma" para hablar de algunos de los sentidos de la palabra 'paradigma' en que se enfatizan los aspectos metafísicos de la ciencia. Hablar de metaparadigma, para Masterman, es hablar de un paradigma que determina el mundo ciéntífico.
+##### Kuhn no da una definición del término "paradigma" y no lo usa consistentemente. En ocasiones parece anclado a teorías específicas y a veces parece algo mucho más general. Margaret Masterman (1970) ha identificado 21 sentidos en que se usa la palabra y acuña la palabra "metaparadigma" para hablar de algunos de los sentidos de la palabra 'paradigma' en que se enfatizan los aspectos metafísicos de la ciencia. Hablar de metaparadigma, para Masterman, es hablar de un paradigma que determina el mundo ciéntífico.
 
 - Fawcett no parece estar usando el mismo sentido de la palabra 'metaparadigma'; es una noción más general, abstract. Parece que cuando Fawcett habla de 'metaparadigma' estamos hablando del conjunto de conceptos y temas más abstractos de la disciplina y que determinan su dominio propio. (<- Evaluar y discutir: metodología para determinar los conceptos? función de esa determinación de conceptos?)
 
@@ -216,4 +216,21 @@ Por fuera de la ciencia normal: ¿?
 
 ## El problema de la noción de paradigma
 
-5 elem
+La noción de paradigma integra varios aspectos.
+
+1. teorías cercanas 
+1. ontología: el mundo de la ciencia
+1. metodología
+1. la ciencia de "libro de texto"
+1. los valores epistémicos (y éticos) de la ciencia
+
+De acuerdo con Kuhn, cambia la paradigma y cambia todo. Pero en ocasiones puede haber cambios de algunos de estos aspectos de un paradgima, ¿cambia todo el paradigma?
+
+
+> The notion that good research required exclusive adherence to a paradigm was an
+important change in nurses’ thinking about qualitative and quantitative research.
+Following the lead of scholars in education, sociology, and anthropology, early writers on qualitative research regarded qualitative and quantitative research as compatible. But by the late 1980s, nursing had largely abandoned the idea that the two kinds of method could be fit into a single methodology. This distinctive methodological stance was the result of the way in which qualitative methodology and arguments against logical positivism intersected with the goals of the nursing discipline and the features of nursing practice. Once qualitative research was associated
+with a paradigm, and the qualitative paradigm was contrasted with logical positivism, the issue took on disciplinary significance. Choice between qualitative and quantitative paradigms came to be treated as a major choice of direction for the entire discipline of nursing (Haase & Myers, 1988; Moccia, 1988; Porter, 1989). (Risjford, p 192)
+
+- ¿qué implica la idea de un paradigma cualitativo y un paradigma cuantitativo?
+- ¿qué implica ofrecer una caracterización de enfermería en términos de paradigmas? ¿Qué se pierde y qué se gana?
