@@ -27,7 +27,8 @@ weight: 2
 1.  Revolución: el cambio de mundo
 1.  La noción de metaparadigma
 1. El problema de la noción de paradigma
-
+1. Alternativa: anarquismo metodológico
+1. Ensayo
 
 
 ![](/courses/hfc/_index_files/borde.jpg)
@@ -234,3 +235,41 @@ with a paradigm, and the qualitative paradigm was contrasted with logical positi
 
 - ¿qué implica la idea de un paradigma cualitativo y un paradigma cuantitativo?
 - ¿qué implica ofrecer una caracterización de enfermería en términos de paradigmas? ¿Qué se pierde y qué se gana?
+
+
+![](/courses/hfc/_index_files/borde.jpg)
+
+## Alternativa: anarquismo metodológico
+
+
+Feyerabend está de acuerdo con la estrategia general de mirar la historia de la ciencia pero rechaza las conclusiones de Kuhn. 
+
+- La historia de la ciencia no es como Kuhn la describe; no hay ciencia normal.
+
+- La noción de paradigma cierra el conocimiento (no hay razón para avanzar) y limita la libertad humana. "Estudipez profesional
+- No hay un método científico; "everything goes".
+
+
+
+
+## Preguntas para orientar la selección de tema del ensayo
+
+
+### RPAs 
+- Comprender el lenguaje propio de la discusión filosófica sobre la ciencia para aportar en las discusiones sobre la naturaleza de la ciencia en general y en particular de la enfermería, del progreso científico y su lugar en la sociedad.
+
+- Distinguir, relacionar y sistematizar conocimientos aportados por la enfermería y la filosofía para dar cuenta de la naturaleza de la ciencia, del progreso científico y su lugar en la sociedad.
+
+- Plantear autónoma y críticamente relaciones entre distintos fenómenos científicos para interpretarlos y establecer vínculos entre el conocimiento teórico y la práctica profesional.
+
+
+- ¿Cuál es el foco del ensayo?
+- ¿Por qué es relevante?
+- ¿Qué necesitan averiguar para responder? ¿Qué saben ya?
+- ¿Cuál es la pregunta apremiante?
+- ¿Cómo se resuelve la pregunta? 
+- ¿Qué se espera hacer?
+- ¿Qué se espera encontrar?
+- ¿Qué significan esos resultados?
+- ¿Cómo contribuye a la discusion?
+- ¿Por qué importa esta discusiñon?
