@@ -246,10 +246,11 @@ Feyerabend está de acuerdo con la estrategia general de mirar la historia de la
 
 - La historia de la ciencia no es como Kuhn la describe; no hay ciencia normal.
 
-- La noción de paradigma cierra el conocimiento (no hay razón para avanzar) y limita la libertad humana. "Estudipez profesional
+- La noción de paradigma cierra el conocimiento (no hay razón para avanzar) y limita la libertad humana. "Estudipez profesional.
+
 - No hay un método científico; "everything goes".
 
-
+- 
 
 
 ## Preguntas para orientar la selección de tema del ensayo
