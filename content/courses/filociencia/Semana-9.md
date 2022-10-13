@@ -204,21 +204,20 @@ Nightingale y el rol de la mujer victoriana (institutriz y madre) y el rol de la
 > “to cultivate in things pertaining to health observation and experience in women who|
 are mothers, governesses or nurses, is just the way to do away with amateur physicking,
 and if the doctors did not know it, to make the nurses obedient to them,—helps to them
-instead of hindrances.” (Nightingale, [1860] 1969, p. 130)
+instead of hindrances.” (Nightingale, Notes on Nursing, [1860] 1969, p. 130)
 
-Parece que ya aquí hay una asimetría en el rol. 
+¿Enfermería como un punto de vista privilegiado?
 
 ¿Hay fuentes de conocimiento privilegiadas en la labor de enfermería? (Coombs 2004, Power and Conflict between Doctors and Nurses)
 
 - relación con la familia del paciente
 - horas de contacto con el paciente
 - conocimiento del ambiente (manejo del equipo, por ejemplo)
+- ¿algunas más?
 
 
 > The slogan of feminist standpoint epistemology is that research should  start “from the perspectives of women’s lives” (Harding, 1991, p. 249). The slogan of a nursing standpoint would be that research should start from the perspectives of nurses’ lives.. This means that the problems and questions of nursing research must,
 in the first instance, be problems and questions that arise from nursing practice. In their daily work, nurses in hospitals, clinics, schools, homes, and public health institutions encounter and solve problems. All of these require knowledge, and the nurses’ expertise lies in their ability to handle all of the problems that are thrown
 at them. (...) The enterprise of nursing science is to develop, refine, and expand the intellectual expertise of professional nurses. (Risjord, Nursing Knowledge, p. 74)
 
-- Contraste de unificación de la ciencia de la ciencia de enfermería por un meta-paradigma o un punto de vista.
-
-- El objetivo de la ciencia de enfermería: ¿alrededor de un metaparadgima y teorías grandes o alrededor de hacer visible el conocimiento invisible que ya está situado en la práctica?
+- Contraste de unificación de la ciencia de enfermería por un meta-paradigma o un punto de vista: el objetivo de la ciencia de enfermería: ¿alrededor de un metaparadgima y teorías grandes o alrededor de hacer visible el conocimiento invisible que ya está situado en la práctica?
