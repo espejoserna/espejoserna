@@ -236,3 +236,4 @@ Es decir, que no hay razón para adoptar una filosofía feminista como la presen
 ## Próxima semana
 
 ### La responsabilidad de la ciencia
+THE MORAL RESPONSIBILITIES OF SCIENTISTS(TENSIONS BETWEEN AUTONOMY AND RESPONSIBILITY)
