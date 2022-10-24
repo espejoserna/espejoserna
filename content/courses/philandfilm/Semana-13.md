@@ -4,7 +4,7 @@ linktitle: Week 13
 toc: true
 type: docs
 date: "Sat Mar 26 12:21:59 2022"
-draft: true
+draft: false
 menu:
   philandfilm:
     name: Week 13
@@ -30,12 +30,6 @@ Plan
 3.  Ratings, news and entertainment
 4.  Grades, learning and entertainment
 
-<<<<<<< Updated upstream
-=======
-  
-
----
->>>>>>> Stashed changes
 
 ## Film overview
 
@@ -118,7 +112,7 @@ The problem with proxies is that they can foster perverse incentives. One can ma
 
 Example: change of values in a football match: recognition instead of goals
 
-The film show the change of values in the news.
+The film shows the change of values in the news.
 
 Instead of news, the aim is ratings.
 
