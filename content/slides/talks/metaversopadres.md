@@ -95,7 +95,7 @@ Occulus
 
 <section data-background-image="https://upload.wikimedia.org/wikipedia/commons/8/8d/An_Illustration_of_The_Allegory_of_the_Cave%2C_from_Plato%E2%80%99s_Republic.jpg" data-background-size="contain">
 
-  <h1>Mito de la caverna</h1>
+  <h1>Alegoría de la caverna</h1>
 </section>
 
 
