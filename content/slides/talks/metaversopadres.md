@@ -90,7 +90,7 @@ Occulus
 
 
 <section>
-<h1>REALIDAD</h1>
+<h1>La pregunta filosófica por la REALIDAD</h1>
 </section>
 
 <section data-background-image="https://upload.wikimedia.org/wikipedia/commons/8/8d/An_Illustration_of_The_Allegory_of_the_Cave%2C_from_Plato%E2%80%99s_Republic.jpg" data-background-size="contain">
@@ -108,7 +108,7 @@ Occulus
 
 
 <section>
-La filosofía, desde Platón, se ha hecho preguntas al respecto. Robert Nozick nos preseta el siguiente escenario para pensar 
+La filosofía, desde Platón, se ha hecho preguntas al respecto. Robert Nozick nos presenta el siguiente escenario para pensar 
 </section>
 
 <section>
@@ -121,16 +121,12 @@ Supongamos que existiera una máquina de experiencias que proporcionara cualquie
 
 </section>
 <section>
-Una vez transcurridos estos dos años, usted tendría diez minutos o diez horas fuera del tanque para seleccionar las experiencias de sus próximos dos años. Por supuesto, una vez en el tanque, usted no sabría que se encontraba allí; usted pensaría que todo eso era lo que estaba efectivamente ocurriendo. Otros también pueden encadenarse y tener las experiencias que quieran, de modo que no hay necesidad de mantenerse fuera para servirlos. 
-
-</section>
-<section>
-(Olvídese de problemas tales como ¿quién daría mantenimiento a las máquinas si todo mundo estuviera encadenado a ella?). ¿Se encadenaría usted? ¿Qué más puede importarnos a nosotros además de cómo se sienten nuestras vidas desde adentro? 
+(Olvídese de problemas tales como ¿quién daría mantenimiento a las máquinas si todo mundo estuviera encadenado a ella?). ¿Se encadenaría usted? ¿Qué más puede importarnos a nosotros además de cómo se sienten nuestras vidas desde adentro? ¿Qué más hay que señales eléctroquímicas en el cerebro?
 
 </section>
 <section>
 
-Muchas personas decidirían no conectarse porque hay algo que va **más** que "señales eléctricas interpretadas por tu cerebro". <br> <span class="fragment"> *Eso* es, al menos en parte, lo real.
+Muchas personas decidirían no conectarse porque hay algo que va **más** que "señales interpretadas por tu cerebro". <br> <span class="fragment"> *Eso* es, al menos en parte, lo real.
 </span>
 
 
@@ -156,7 +152,6 @@ Podemos apreciar que Truman no vive en la realidad, pero eso no tiene nada que v
 </section>
 <section> 
 Que sea físico no lo hace real; <br>que sea digital (virtual) no lo hace irreal.
-
 </section>
 
 
