@@ -1,14 +1,14 @@
 ---
-title: Week 12 - The art and the artist
-linktitle: Week 12  
+title: Week 14 - The art and the artist
+linktitle: Week 14
 toc: true
 type: docs
 date: "Sat Mar 26 12:21:59 2022"
 draft: false
 menu:
   philandfilm:
-    name: Week 12
-    weight: 12
+    name: Week 14
+    weight: 14
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 11

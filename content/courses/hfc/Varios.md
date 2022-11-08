@@ -4,7 +4,7 @@ linktitle: Varios
 toc: true
 type: docs
 date: "Sun Apr  3 21:08:31 2022"
-draft: true  
+draft: false  
 menu:
   hfc:
     name: Varios
