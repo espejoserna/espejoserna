@@ -1,6 +1,6 @@
 ---
 title: Semana 14 - Filosofías feministas de la ciencia
-linktitle: Semana 10
+linktitle: Semana 14
 toc: true
 type: docs
 date: "Sun Apr  3 21:08:31 2022"
