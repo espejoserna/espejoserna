@@ -196,7 +196,6 @@ Es decir, que no hay razón para adoptar una filosofía feminista como la presen
 
 ## Epistemología situada
 
-
 Nightingale y el rol de la mujer victoriana (institutriz y madre) y el rol de la enfermería
 
 ¿Enfermería como medicina amateur?

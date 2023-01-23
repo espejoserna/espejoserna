@@ -8,7 +8,7 @@ draft: false
 menu:
   logica1:
     name: Ser, pensar, hablar
-    weight: 3
+    weight: 2
 ---
 
 ## Plan
