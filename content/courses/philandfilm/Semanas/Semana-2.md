@@ -62,7 +62,7 @@ The question about the knowledge of reality is one dating back to the very origi
 ---
 
 
-If there can be such a distinction between how reality is seems and how it is, is knowledge of reality possible?
+If there can be such a distinction between how reality seems and how it is, is knowledge of reality possible?
 
 The history of philosophy is packed with answers to this question, raising issues, offering compromises and setting up philosophical theories that address this concern.
 
