@@ -1,5 +1,5 @@
 ---
-title: Week 08 - Determination and merit
+title: Week 06 - Determination and merit
 linktitle: Week 06 
 toc: true
 type: docs
@@ -7,8 +7,8 @@ date: "Sun Feb 20 19:19:56 2022"
 draft: false
 menu:
   philandfilm:
-    name: Week 08
-    weight: 8
+    name: Week 06
+    weight: 7
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 6
