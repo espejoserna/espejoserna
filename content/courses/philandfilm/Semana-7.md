@@ -1,13 +1,13 @@
 ---
-title: Week 09 - Artificial minds?
-linktitle: Week 09
+title: Week 07 - Artificial minds?
+linktitle: Week 07
 toc: true
 type: docs
 date: "Sun Feb 20 19:19:56 2022"
 draft: false
 menu:
   philandfilm:
-    name: Week 09
+    name: Week 07
     weight: 9
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
@@ -25,7 +25,7 @@ weight: 7
 
 
 
-Check out the idea behind: [Philosopher AI](https://philosopherai.com)
+Check out the idea behind: [Philosopher AI](https://philosopherai.com) or ChatGPT.
 
 
 ## Plan
