@@ -8,7 +8,7 @@ draft: false
 menu:
   logica1:
     name: Geometría
-    weight: 5
+    weight: 4
 ---
 
 ![](/courses/hfc/_index_files/borde.jpg)

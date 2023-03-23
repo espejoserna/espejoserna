@@ -8,7 +8,7 @@ draft: false
 menu:
   logica1:
     name: Ser, pensar, hablar
-    weight: 3
+    weight: 2
 ---
 
 ## Plan
@@ -160,7 +160,7 @@ No se debe proceder al margen de las reglas
 
 ¿Hay contextos en los que se deba proceder por fuera de las reglas?
 
-![](http://adolescentesymas.com/wp-content/uploads/2017/03/Sistema-MIU-352017.jpg)
+
 
 (Tomado del libro de Hofstadter *Gödel, Escher, Bach: Un eterno y grácil bucle*)
 

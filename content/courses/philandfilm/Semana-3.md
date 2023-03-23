@@ -115,7 +115,7 @@ Think about the difference of a piece of paper with a list of items where it is 
 - Belief has mind<-world direction of fit: belief answers to how the world is. 
 - Desire has a world<-mind direction of fit: the world (is expected to) answer to how the mind is. 
 
-To believe is to the mental attitude of taking up something as true.
+To believe is to be in the mental attitude of taking up something as true.
 
 ### True belief
 
@@ -241,4 +241,4 @@ We have been talking about knowledge without giving any characterization of it. 
 ### **Film: The Truman Show (1998)**
 * Why is reality important?
 * Podcast: [Roger Crisp on Utilitarianism](http://philosophybites.com/2007/07/roger-crisp-on-.html)
-* Reading: [The Experience Machine](https://unisabanaedu.sharepoint.com/:b:/s/Section_37006707123147/EQl9YbsxS8lIj7BZ2wOZWCABugppoqKMjyzpqbwAXeSRlQ?e=uHIm1n)
+* Reading: [The Experience Machine](https://unisabanaedu.sharepoint.com/:b:/r/sites/Section_37306707123289/Shared%20Documents/General/Nozick%20-%20the%20Experience%20Machine.pdf?csf=1&web=1&e=TR54N3)

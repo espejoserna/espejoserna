@@ -60,7 +60,7 @@ They are not quite the same, though one depends on the other.
 <section>
 Much like many in the history of philosophy, skepticism, in THE MATRIX, is not an end in itself but a means to further philosophical claims. (Compare to the use of skepticism as a springboard for their own interests.)
 
-The question about the knowledge of reality is one dating back to the very origins of philosophy. Consider the following version of the question:
+The question about our knowledge of reality is one dating back to the very origins of philosophy. Consider the following version of the question:
 </section> 
 <section>
 
@@ -72,7 +72,7 @@ The question about the knowledge of reality is one dating back to the very origi
 <section>
 
 
-If there can be such a distinction between how reality is seems and how it is, is knowledge of reality possible?
+If there can be such a distinction between how reality seems and how it is, is knowledge of reality possible?
 </section> 
 <section>
 The history of philosophy is packed with answers to this question, raising issues, offering compromises and setting up philosophical theories that address this concern.
@@ -82,12 +82,15 @@ One distinctive aproximation to the issues has the form of the question about ap
 <section>
 
 >*What is the relation between how things appear to be and how they really are?*
+
 </section> 
+
 <section>
 One possible answer considered in THE MATRIX is the following:
 
 >"The Matrix is everywhere. It is all around us, even now in this very room. You can see it when you look out your window or when you turn on your television. You can feel it when you go to work, when you go to church, when you pay your taxes. It is the world that has been pulled over your eyes to blind you from the truth."
-</section> 
+</section>
+
 <section>
 Knowledge of reality might not be possible because there are obstables (the Matrix) that "blind us from the truth".
 </section> 
@@ -109,6 +112,7 @@ Shift gears and turn towards destiny.
 <section>
 
 > Is freedom compatible with destiny?
+
 </section> 
 <section>
 The question about free will and autonomy is another central question in philosophy.

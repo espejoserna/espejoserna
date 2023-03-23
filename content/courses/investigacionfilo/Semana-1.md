@@ -15,12 +15,12 @@ weight: 1
 ---
  ## Presentación del curso
 
-Este no es un curso común y corriente. No hay lecturas fijas; no hay parciales, talleres o exámenes. Esta es una clase para pulir las capacidades que han adquirido durante el pregrado. 
+Este no es un curso común y corriente. No hay lecturas fijas; no hay parciales, talleres o exámenes. Esta es una clase para pulir las capacidades que han adquirido en lo que han cursado del pregrado. 
 
 Para eso vamos a necesitar.
 
-1. Computador en clase siempre. 
-2. Flip
+1. Computador en clase **siempre**. 
+2. Usar Flip (anteriormente, Flipgrid)
 
 ¡y nada más! (Casi)
 
@@ -38,7 +38,7 @@ Ninguno de estos determina ya su tesis, pero sí ofrecen una manera para empezar
 
 ## Enlaces importantes
 
-- En ocasiones me gusta exagerar y decir que nadie sabe usar el español 100% bien. *Nadie*. Pero sobre todo, nadie *necesita* saberlo porque hay recursos en línea.
+En ocasiones me gusta exagerar y decir que nadie sabe usar el español 100% bien. *Nadie*. Pero sobre todo, nadie *puede* saberlo todo porque hay cambios constantes y nadie *necesita* saberlo todo porque puede suplementar su conocimiento con la colaboración de los linguistas y filólogos. Por ejemplo, consideren los siguientes recursos en línea.
 
 1. Panhispánico de dudas:  https://www.rae.es/dpd/
 2. Fundación de español urgente *Fundeu*: https://www.fundeu.es/
@@ -63,7 +63,7 @@ Fuentes:
 
 - Bibliotecas (Octavio Arismendi, Andes, nacional, javeriana, BLAA)
 
-- Scribd, facebook (philosophical underclass) y los amigos de los piratas rusos. 
+- Scribd, facebook (philosophical underclass) y enlaces en páginas de dudosa reputación. 
 
  
 
@@ -72,5 +72,5 @@ Fuentes:
 
 2. Leer al menos 20 páginas (de la bolsa de textos). Hacer una reseña.
 
-3. Participar en Flip antes del viernes a media noche
+3. Participar en Flip antes del lunes a media noche
 
