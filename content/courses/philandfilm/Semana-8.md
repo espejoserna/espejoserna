@@ -1,13 +1,13 @@
 ---
-title: Week 8 - Humanity and humaneness
-linktitle: Week 8
+title: Week 08 - Humanity and humaneness
+linktitle: Week 08
 toc: true
 type: docs
 date: "Sun Feb 20 19:19:56 2022"
 draft: false
 menu:
   philandfilm:
-    name: Week 8
+    name: Week 08
     weight: 10
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
