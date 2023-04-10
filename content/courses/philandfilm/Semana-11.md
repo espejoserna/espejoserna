@@ -1,13 +1,13 @@
 ---
-title: Week 13 - Do it yourself
-linktitle: Week 13
+title: Week 11 - Do it yourself
+linktitle: Week 11
 toc: true
 type: docs
 date: "Sat Mar 26 12:21:59 2022"
 draft: false
 menu:
   philandfilm:
-    name: Week 13
+    name: Week 11
     weight: 13
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
@@ -23,7 +23,6 @@ weight: 10
 
 
 ## Plan
-
 
 1.  Individual plan
 2.  Group tasks
