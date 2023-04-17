@@ -8,7 +8,7 @@ draft: false
 menu:
   philandfilm:
     name: Week 12
-    weight: 16
+    weight: 12
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 11
