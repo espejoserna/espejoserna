@@ -46,7 +46,7 @@ slides:
 <section>
 
 
-Write in chat a one-line summary of the plot of NETWORK.
+Write a one-line summary of the plot of NETWORK.
 
 (A good one).
 
@@ -71,16 +71,13 @@ it shows us the change in values in the news.
 
 <section>
 
-It is a worry about truth
-</section>
-
-<section>
-
+It is a worry about truth.
+<p class= fragment> 
 
 But this worry is not that they change truth for lies; rather it is that whether true or false does not matter. The _scale_ changes.
 
 Let me explain.
-  
+ </p> 
 </section>
 
 <section data-background-image="https://cdn.cnn.com/cnnnext/dam/assets/140326200452-network---howard-beale-horizontal-large-gallery.jpg" data-background-size="cover" data-background-position="right">
@@ -102,19 +99,22 @@ Does the film present a conspiracy _against_ the news?
 <section>
 
 
-Conspiracy theories are sometimes true (Watergate). And thus they are sometimes reasonable to accept. But when?
+Conspiracy theories are sometimes true (Watergate). 
+
+"Watergate scandal, interlocking political scandals of the administration of U.S. Pres. Richard M. Nixon that were revealed following the arrest of five burglars at Democratic National Committee (DNC) headquarters in the Watergate office-apartment-hotel complex in Washington, D.C., on June 17, 1972."
+
 
 </section>
 
 <section>
 
-There is no recipe. There is no single way to determine when not to believe. But we can be wary of how they are meant to work.
+Conspiracy theories are sometimes reasonable to accept. But when? There is no recipe. There is no single way to determine when not to believe. But we can be wary of how they are meant to work.
 
 </section>
 
 <section>
 
-Cassam suggests that conspiracy theories work because of vice of the mind.
+Cassam suggests that conspiracy theories work because of vices of the mind.
 
 </section>
 
@@ -153,7 +153,7 @@ The film does not show a conspiracy to destroy the news or change it from the ro
 
 <section>
 
-The attack is a slow change in values
+The attack is a slow change in values.
 
 </section>
 
@@ -185,7 +185,7 @@ We value what gets us closer to achieving that aim.
 <section>
 
 
-It seems the question wears the answer on its sleeves: the main function of a newscast is to *communicate* the news.
+It seems the question wears the answer on its sleeves: the main function of a newscast is to cast the new, to *communicate* them.
 
 </section>
 

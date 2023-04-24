@@ -34,7 +34,7 @@ Plan
 ## Film overview
 
 
-Write in chat a one-line summary of the plot of NETWORK.
+Write a one-line summary of the plot of NETWORK.
 
 (A good one).
 
