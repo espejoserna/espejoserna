@@ -23,7 +23,7 @@ menu:
 Esta es una asignatura teórica para el doctorado en Enfermería de la Universidad de La Sabana que pretende relacionar las diferentes corrientes de la filosofía de la ciencia con el desarrollo científico de enfermería y su importancia en la fundamentación de la investigación y la práctica de la disciplina. Al finalizar el seminario, el doctorando deberá estar en capacidad de analizar el alcance de la ciencia y del conocimiento científico, contrastar los enfoques de las diferentes corrientes filosóficas de la ciencia desde los puntos de vista ontológico, epistemológico, axiológico y metodológico y relacionar la filosofía de la ciencia con las visiones de la ciencia de enfermería y su transferencia a la práctica disciplinar.
 
 
-Por medio del estudio de la filosofía de la ciencia se busca fortalecer la capacidad del estudiante para ofrecer las herramientas para la integración epistemológica necesaria para desarrollar proyectos y programas de investigación en enfermería que promuevan el avance del conocimiento de la disciplina y contribuyan a mejorar las condiciones de salud de las personas, las familias y la comunidad en los diferentes escenarios del ejercicio profesional, siempre con alta calidad científica, ética y humanística.
+Por medio del estudio de la filosofía de la ciencia se busca fortalecer la capacidad del estudiante para ofrecer las herramientas para la integración epistemológica necesaria para desarrollar proyectos y programas de investigación en enfermería que promuevan el avance del conocimiento de la disciplina y contribuyan a mejorar las condiciones de salud de las personas, las familias y la comunidad, en los diferentes escenarios del ejercicio profesional, con alta calidad científica, ética y humanística, estableciendo redes y alianzas estratégicas
 
 
 
@@ -70,18 +70,24 @@ Revisen si entienden la exposición y si están de acuerdo; pregunten por las re
 1. Algunos conceptos filosóficos clave   
 
 ### Filosofía de la ciencia: fundamentos
+
 1. Los inicios de la ciencia moderna
 1. Positivismo lógico
 1. Quine, la naturalización de la epistemología y el pragmatismo
 1. Popper y el falsacionismo
 1. Kuhn, paradigmas y revoluciones científicas
+1. Feyerabend: dejar de lado la pregunta
 1. Filosofía feminista de la ciencia
 1. Fraude y ciencia
 
 ### Filosofía de la ciencia de enfermería
-1. Visiones de enfermería: Particular determinística
-1. Visiones de enfermería: Integrativa interactiva
-1. Visiones de enfermería: Unitaria transformativa
+
+1. La filosofía de la ciencia vista por enfermería: la influencia del positivismo
+1. La filosofía de la ciencia vista por enfermería: la influencia del post-positivismo
+2. Otras corrientes de la filosofía de la ciencia que han influido en la conformación de la disciplina de enfermería.
+4. Conceptos del metaparadigma y análisis de cada uno de ellos. Ubicación de éstos de acuerdo con los lineamientos filosóficos propios de cada uno.
+3. Visiones de enfermería: significado de cada una y presupuestos que las diferencian.
+
 
 
 ![](/courses/hfc/_index_files/borde.jpg)
@@ -121,25 +127,25 @@ Para todo lo demás, es importante avisar al profesor. Hablemos. No me tienen qu
 
 ### Introducción a la filosofía
 
-https://www.eltiempo.com/opinion/columnistas/moises-wasserman/ciencia-hegemonica-y-justicia-epistemica-moises-wasserman-687343
+<!--- https://www.eltiempo.com/opinion/columnistas/moises-wasserman/ciencia-hegemonica-y-justicia-epistemica-moises-wasserman-687343 --->
 
-Sánchez-Migallón, S; Nubiola, J. (2018) Introducción a la filosofía. Eunsa.
+- Sánchez-Migallón, S; Nubiola, J. (2018) Introducción a la filosofía. Eunsa.
 
 ### Filosofía de la ciencia
 
-- Ayer, A. J. (ed.) (1981). El positivismo lógico. México: Fondo de Cultura Económica. 
+- Ayer, A. J. (ed.) (1981). El positivismo lógico. Fondo de Cultura Económica. 
 
 - Bright, L. K. (2017). On fraud. Philosophical Studies 174 (2):291-310.
 
-- Frodeman, R. (2013). Sustainable Knowledge: A Theory of Interdisciplinarity. Sustainable Knowledge: A Theory of Interdisciplinarity.
+- Frodeman, R. (2013). Sustainable Knowledge: A Theory of Interdisciplinarity. Palgrave Macmillan.
 
 - Harding, S. (1997). Ciencia y feminismo. Ediciones Morata.
 
-- Hubbs,  O’Rourke, and Orzack, (2020). The Toolbox Dialogue Initiative. The Toolbox Dialogue Initiative. https://doi.org/10.1201/9780429440014.
+- Hubbs,  O’Rourke, and Orzack, (2020). The Toolbox Dialogue Initiative. https://doi.org/10.1201/9780429440014.
 
 - Kuhn, T. S. (2019). La estructura de las revoluciones científicas. Fondo de cultura económica.
 
-- Losee, J., & Montesinos, A. (1976). Introducción histórica a la filosofía de la ciencia.
+- Losee, J., & Montesinos, A. (1976). Introducción histórica a la filosofía de la ciencia. Alianza.
 
 - Mardones, J. M., & Ursúa, N. (1991). Filosofía de las ciencias humanas y sociales. Materiales para una fundamentación científica. Anthropos Editorial.
 
@@ -147,17 +153,18 @@ Sánchez-Migallón, S; Nubiola, J. (2018) Introducción a la filosofía. Eunsa.
 
 - Quine, W.V.O. (1953). Two dogmas of Empiricism. W.V.O. Quine, From a Logical Point of View (pp. 20-46). Harvard: Harvard University Press.     
 
-- Suppe, F. (1974). La estructura de las teorías científicas.
+- Suppe, F. (1974). La estructura de las teorías científicas. 
 
 
-### Filosofía de la ciencia y enfermería
+### Filosofía de la ciencia de enfermería
 
 - Dahnke, M. D; H. M Dreher. (2016) Philosophy of science for nursing practice: Concepts an applications. Second Edition. New York: Springer Publishing Company.
 
 - Fawcett, J & DeSanto-Madeya, S (2013) CONTEMPORARY NURSING KNOWLEDGE: ANALYSIS AND EVALUATION OF NURSINg MODELS AND THEORIES. 3rd. Edition. Philadelphia: F.A. Davis Company. Cap.1 
 
 - Meleis, AI (2012) THEORETICAL NURSING: DEVELOPMENT AND PROGRESS. 5TH EDITION.PHILADELPHIA: Wolters Kluver/Lippincott Williams and Wilkins. 
-Polifroni, EC. (2011) Philosophy of science: An introduction. En Butts, JB y Rich KL. Editors. PHILOSOPHIES AND THEORIES FOR ADVANCED NURSING PRACTICE. Salsburry, Mass: Jones and Bartlett - Learning.
+
+- Polifroni, EC. (2011) Philosophy of science: An introduction. En Butts, JB y Rich KL. Editors. PHILOSOPHIES AND THEORIES FOR ADVANCED NURSING PRACTICE. Salsburry, Mass: Jones and Bartlett - Learning.
 
 - Risjord, M. (2010) Nursing knowledge: Science, practice and philosophy. London: Wiley-Blakwell.
 
