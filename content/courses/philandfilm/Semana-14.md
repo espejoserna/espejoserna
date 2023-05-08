@@ -1,14 +1,14 @@
 ---
-title: Week 14 - The problem of social media
-linktitle: Week 14  
+title: Week 15 - The problem of social media
+linktitle: Week 15 
 toc: true
 type: docs
 date: "Sat Mar 26 12:21:59 2022"
 draft: false
 menu:
   philandfilm:
-    name: Week 14
-    weight: 14
+    name: Week 15
+    weight: 16
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 13
@@ -35,7 +35,7 @@ Plan
 ## Film overview
 
 
-Write in chat a one-line summary of the plot of THE SOCIAL DILEMMA.
+Write a one-line summary of the plot of THE SOCIAL DILEMMA.
 
 (A good one).
 
