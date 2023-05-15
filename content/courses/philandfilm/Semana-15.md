@@ -1,5 +1,5 @@
 ---
-title: Week 16 - The problem of social media
+title: Week 16 - The act of killing
 linktitle: Week 16 
 toc: true
 type: docs
@@ -25,8 +25,8 @@ weight: 14
 
 Plan
 
-1.  [Film overview](#/uno)
-2.  [The Moral Problem](#/dos)
+1.  Film overview
+2.  The Moral Problem
 3.  Discussion
 
   
