@@ -31,19 +31,17 @@ Plan
 
   
 
-===
-
-1. Film overview
+##  1. Film overview
 -------------
 
 Write a one-line summary of the plot of THE ACT OF KILLING.
 
 (An appropriate one).
 
-What is the act of killing about?
-=================================
+### What is the act of killing about?
 
-What did you think about the film?
+
+### What did you think about the film?
 
   
 
@@ -75,20 +73,20 @@ Why?
 
 Michael Smith> The variety is explained by the tension between two distinctive features of morality.
 
-1\. The objectivity of moral judgement
-======================================
+### 1\. The objectivity of moral judgement
+
 
 We seem to think moral questions have correct answers; that the correct answers are made correct by objective moral facts; that moral facts are wholly determined by circumstances; and that, by engaging in moral conversation and argument, we can discover what these objective moral facts determined by the circumstances are.
 
 The term 'objective' here simply signifies the possibility of a convergence in moral views of the kind just mentioned. Let's call this the 'objectivity of moral judgement'.
 
-2\. The practicality of moral judgement
-=======================================
+### 2\. The practicality of moral judgement
+
 
 We can summarize this second feature of morality as follows: moral judgements seem to be, or imply, opinions about the reasons we have for behaving in certain ways, and, other things being equal, having such opinions is a matter of finding ourselves with a corresponding motivation to act Let's call this the 'practicality of moral judgement'.
 
-The consequences of the objectivity of moral judgement
-======================================================
+### The consequences of the objectivity of moral judgement
+
 
 We seem to think moral questions have correct answers; that the correct answers are made correct by objective moral facts; that moral facts are wholly determined by circumstances; and that, by engaging in moral conversation and argument, we can discover what these objective moral facts determined by the circumstances are. The term 'objective' here simply signifies the possibility of a convergence in moral views of the kind just mentioned. Let's call this the 'objectivity of moral judgement'.
 
@@ -98,8 +96,7 @@ And, psychologically, the implication is thus cognitivism: the view that when we
 
 Given the standard picture of human psychology, there is a further psychological implication. For whether or not people who have a certain moral belief desire to act accordingly must now be seen as a further and entirely separate question.
 
-The consequences of the practicality of moral judgement
-=======================================================
+### The consequences of the practicality of moral judgement
 
 Psychologically, since making a moral judgement requires our having a certain desire, and no recognition of a fact about the world could rationally compel us to have one desire rather than another, our judgement must really simply be an expression of that desire, or perhaps a complicated disposition to have that desire. This is non-cognitivism.
 
@@ -117,9 +114,9 @@ The moral problem?
 
   
 
-===
+---
 
-3. Discussion
+## 3. Discussion
 ----------
 
 Put yourself in the shoes of the director, would you do such a film?
