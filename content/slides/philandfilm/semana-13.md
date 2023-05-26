@@ -234,7 +234,7 @@ Example: change of values in a football match: recognition instead of goals
 <section>
 
 
-The film show the change of values in the news.
+The film shows the change of values in the news.
 
 </section>
 
@@ -262,7 +262,7 @@ Instead of news, the aim becomes ratings. The means (ratings) become the ends.
   
 
 
-I want to further explain the problems of changes in values in an example that is closer to us: Grades, learning and entertainment
+I want to further explain the problems of changes in values in an example that is closer to us: Grades, learning and entertainment.
 
 
 </section>

@@ -46,7 +46,7 @@ Plan
 
 
 <section>
-Write in chat a one-line summary of the plot of THE SOCIAL DILEMMA.
+Write a one-line summary of the plot of THE SOCIAL DILEMMA.
 
 (A good one).
 
@@ -133,7 +133,7 @@ There are cases in which this is meant either as truth, lies or bullshit
 
 <section>
 
-A teacher has the power to change your mind. Think about the difference between such power and that of social media.
+A lecturer has the power to change your mind. Social media can also change your mind. Think about the difference between a lecturer's power and that of social media.
 
 </section>
 
@@ -202,7 +202,7 @@ The end of truth will not come as a bang but as a whimper in the form of pervasi
 
 <section>
 
-What is at risk is a shared understanding of reality
+What is at risk is a shared understanding of reality.
 
 </section>
 
@@ -215,7 +215,7 @@ What is at risk is a shared understanding of reality
 
 
 <section>
-Social networks aim, at best, at virality. At worst, they aim purely and only at profit, regardless of the means.
+Social networks aim, at best, at virality. At worst, they aim purely and only at power and profit, regardless of the means.
 
 
 
