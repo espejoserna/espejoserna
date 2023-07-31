@@ -19,10 +19,11 @@ weight: 1
 ¿Cuál es su tema? Van a hablar 3 minutos sobre su tema de tesis o sobre los avances que han hecho esta semana. Luego, 3 minutos de preguntas. Cada semana vamos a empezar con una revisión del trabajo hecho o las dificultades enfrentadas durante la semana.
   
 ### Discusión 
+- Reconocer fortalezas y debilidades. Trabajar en ellas. 
 - Los retos de la autonomía y la importancia de un sistema de trabajo
-	- ¿Cómo toman notas?
-	- Trabajar autónomamente no es trabajar en solitario.
-	- Las materias que han visto y planean ver
+- ¿Cómo toman notas?
+- Trabajar autónomamente no es trabajar en solitario.
+- Las materias que han visto y planean ver
 - Los posibles directores y la relación con ellos.
   
 ### Retroalimentación
