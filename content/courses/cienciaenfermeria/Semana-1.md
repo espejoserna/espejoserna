@@ -60,7 +60,7 @@ Tenemos la práctica y el conocimiento que la fundamenta
 
 > The unique function of the nurse is to assist the individual, sick or well, in the performance of those activities contributing to health or its recovery or to peaceful death, that he would perform unaided if he had the necessary strength, will or knowledge” (Virginia Henderson, La naturaleza de la enfermería).
 
-> Caring Science is an evolving philosophical-ethical-epistemic field of study, grounded in the discipline of nursing and informed by related fields. Caring is considered as one central feature within the meta- paradigm of nursing knowledge and practice. Caring Science is informed by an ethical-moral-spiritual stance that encompasses a humanitarian, human science orientation to human caring processes, phenomena, and experiences. It is located within a worldview that is non-dualistic, relational, and unified, wherein there is a connectedness to All: the universal field of Infinity: Cosmic love." (Watson, 2011, Nursing: The Philosophy and Science of Caring (2008))
+> Caring Science is an evolving philosophical-ethical-epistemic field of study, grounded in the discipline of nursing and informed by related fields. Caring is considered as one central feature within the meta- paradigm of nursing knowledge and practice. Caring Science is informed by an ethical-moral-spiritual stance that encompasses a humanitarian, human science orientation to human caring processes, phenomena, and experiences. It is located within a worldview that is non-dualistic, relational, and unified, wherein there is a connectedness to All: the universal field of Infinity: Cosmic love." (Watson, Nursing: The Philosophy and Science of Caring (2008))
 
 ¿Cómo caracterizan ustedes la Enfermería?
 
