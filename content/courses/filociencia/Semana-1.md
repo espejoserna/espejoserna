@@ -3,10 +3,10 @@ title: Semana 1
 linktitle: Semana 1 
 toc: true
 type: docs
-date: "2019-05-05T00:00:00+01:00"
+date: "2023-08-01"
 draft: false
 menu:
-  filosofiadelacienciadeenfermeria:
+  filociencia:
     name: Semana 1
     weight: 2
 

@@ -1,11 +1,11 @@
 ---
 title: Filosofía de la ciencia
 author: R package build
-date: '2022-01-04'
+date: '2023-07-01'
 linktitle: Filosofía de la ciencia
 summary: Curso para el doctorado en Enfermería que pretende relacionar las diferentes corrientes de la filosofía de la ciencia con el desarrollo científico de enfermería y su importancia en la fundamentación de la investigación y la práctica de esta disciplina. 
 weight: 1
-lastmod: '2022-01-04'
+lastmod: '2023-08-01'
 draft: false
 toc: yes
 type: docs

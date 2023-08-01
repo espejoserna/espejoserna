@@ -1,9 +1,9 @@
 ---
-title: Metodología de la investigación filosófica 
+title: Wittgenstein 
 author: R package build
 date: '2022-01-04'
-linktitle: Metodología de la investigación filosófica
-summary: La tesis se hace sola, una vez se forma el hábito. Esta clase busca ofrecer las herramientas para formarlo. 
+linktitle: Seminario de Filosofía Contemporánea - Wittgenstein
+summary: Curso para el pregrado en Filosofía. La tesis se hace sola, una vez se forma el hábito. Esta clase busca ofrecer las herramientas para formarlo. 
 weight: 1
 lastmod: '2022-01-21'
 draft: no
