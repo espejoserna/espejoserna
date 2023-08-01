@@ -65,7 +65,7 @@ Revisen si entienden la exposición y si están de acuerdo; pregunten por las re
 
 ### Introducción a la filosofía
 
-1. La naturaleza de la ciencia y la política de Ciencia, Tecnología e Innovación
+1. La naturaleza de la ciencia y de Enfermería
 1. La posibilidad de la interdisciplinariedad
 1. Algunos conceptos filosóficos clave   
 
