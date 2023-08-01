@@ -3,15 +3,14 @@ title: Wittgenstein
 author: R package build
 date: '2022-01-04'
 linktitle: Seminario de Filosofía Contemporánea - Wittgenstein
-summary: Seminario para el pregrado en Filosofía. Los escritos filosóficos de Wittgenstein ejercen una fascinaciónespecial en quien los lee con paciencia y cuidado. En este seminario, estudiaremos el *Tractatus Logico-Philosophicus* y *Investigaciones Filosóficas*. 
+summary: Seminario para el pregrado en Filosofía. Los escritos filosóficos de Wittgenstein ejercen una fascinación especial en quien los lee con paciencia y cuidado. En este seminario, estudiaremos el *Tractatus Logico-Philosophicus* y *Investigaciones Filosóficas*. 
 weight: 1
 lastmod: '2022-01-21'
 draft: no
 toc: yes
 type: docs
-tags: ["curso", "Another Tag"]
 menu:
-  Witt:
+  witt:
     name: Syllabus
     weight: 1
 ---

@@ -6,7 +6,7 @@ type: docs
 date: "2023-08-01"
 draft: false
 menu:
-  filociencia:
+  CienciaEnfermeria:
     name: Semana 1
     weight: 2
 

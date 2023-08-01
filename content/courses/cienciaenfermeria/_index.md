@@ -10,7 +10,7 @@ draft: false
 toc: yes
 type: docs
 menu:
-  filociencia:
+  CienciaEnfermeria:
     name: Syllabus
     weight: 1
 ---
