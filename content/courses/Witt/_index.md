@@ -33,34 +33,32 @@ El estudio de estas dos obras nos ofrece la oportunidad de ver el cambio en la c
 
 ## Resultados previstos de aprendizaje
 
+- Leer críticamente, analizar e interpretar la propuesta filosófica temprana de Ludwig Wittgenstein.
+- Leer críticamente, analizar e interpretar la propuesta filosófica tardía de Ludwig Wittgenstein.
+- Planear y elaborar textos interpretativos y argumentativos con base en las teorías de Ludwig Wittgenstein.
+- Utilizar TIC para apoyar el estudio filosófico de la obra de Ludwig Wittgenstein
 
--  Identificar un tema de tesis apropiado para el proyecto de investigación.
-
--  Escribir una primera síntesis del problema filosófico a tratar.
-
--  Escribir una primera presentación del estado del arte en el tema.
-
--  Formular una hipótesis de investigación preliminar.
-
--  Identificar y caracterizar los objetivos de la investigación.
-
--  Elaborar un primer cronograma de trabajo para terminar la  monografía.
-
-- Realizar una selección de bibliografía relevante para el trabajo de grado.
-
--  Estar en posición de ofrecer una justificación de la pertinencia de la investigación desde sus antecedentes.
-
-- Usar adecuadamente el vocabulario y registro propio de la escritura académica.
-
-- Emplear la gramática, la puntuación y la ortografía adecuada para construir un texto coherente.
-
-- Utilizar apropiadamente uno de los diferentes estilos de citación reconocidos en la comunidad académica (APA, Chicago, MLA, etc.).
 
 ![](/courses/hfc/_index_files/borde.jpg)
 
-## Contenido
 
-*Módulo 1: Identificación de un tema*
+
+##  Metodología
+
+
+### Antes de la sesión
+
+- Quienes estén a cargo de la presentación oral deberán preparar una exposición de 20-25 minutos de duración.
+- Todos los estudiantes deberán subir un control de lectura por tarde 75 horas antes de la sesión.
+
+### Durante la sesión
+
+- Quienes esten a cargo de la presentación oral deberán realizar su exposición. Pueden, por ejemplo, escribir un texto para ser leído, o preparar diapositivas para guiar su exposición o utilizar el tablero como apoyo. Es su decisión pero deben tener en cuenta que el objetivo es lograr presentar y explicar el texto correspondiente.
+- Todos deben atender con cuidado a la exposición y formular preguntas al respecto. Revisen si entienden la exposición y si están de acuerdo; pregunten por las relaciones con los temas anteriormente expuestos.
+
+
+*Módulo 
+1: Identificación de un tema*
 
 Delimitación de un tema. Creación de una primera bibliografía. Lectura estructurada. Retroalimentación entre pares.
 
@@ -83,49 +81,11 @@ Lectura estructurada. Primeras reuniones con los de directores de tesis. Segunda
 
 ## Evaluación
 
-**Entrega semanal**
-
-Para cada (casi) todas las semanas, los estudiantes deben leer dos artículos o un capítulo
-de un libro relevante y producir las reseñas correspondientes según las
-indicaciones del profesor. La entrega deberá ser subida a la plataforma
-virtual a más tardar el *24 horas antes de la sesión*. Todos los
-estudiantes empiezan con 5.0 en esta nota; por cada vez que no se
-participe dentro del rango de tiempo especificado, la nota será
-disminuida de acuerdo con los siguientes parámetros: primera vez: -0.5;
-segunda vez: -1.0; tercera vez: -1.5; cuarta vez: -2.0.
-
-**Participación**  
-
-Cada (casi) todas las semanas, se deberá comentar al menos una entrega de sus compañeros.
-Hagan una pregunta, sugieran bibliografía, propongan un cambio, etc.. Es
-importante que los comentarios sean articulados y busquen mejorar el
-texto de sus compañeros. Los comentarios deben ser realizados en las *24
-horas siguientes a la clase*. Todos los estudiantes empiezan con 5.0 en
-esta nota; por cada vez que no se participe dentro del rango de tiempo
-especificado, la nota será disminuida de acuerdo con los siguientes
-parámetros: primera vez: -0.5; segunda vez: -1.0; tercera vez: -1.5;
-cuarta vez: -2.0.(Vean la política sobre incumplimiento de fechas más abajo.)
-
-**Borrador anteproyecto**
-
-Presentación de una versión del anteproyecto siguiendo el formato dado por el
-profesor.
-
 **Incumplimiento**
 
-{{< hl >}}**La vida nos da sorpresas; sorpresas nos da la vida.**  Por eso, todos tienen un control de lectura "de gracia". Es decir, pueden dejar de entregar uno sin problema; el primer control de lectura que les falte no cuenta. Por ejemplo, si no entregan un control de lectura y entregan todos los demás, su nota igual queda en 5.0{{< /hl >}}.
-
-Para todo lo demás, es importante avisar al profesor. Hablemos. No me tienen que contar sus problemas personales pero es importante que si se encuentran en una situación en la que ven que no pueden cumplir con los requerimientos de clase me avisen con la mayor anticipación posible y encontremos un plan para solventar el problema en lo que respecta a la clase. Insisto: hablemos, no se pierdan :).
+**La vida nos da sorpresas; sorpresas nos da la vida.**  Es importante avisar al profesor. Hablemos. No me tienen que contar sus problemas personales pero es importante que si se encuentran en una situación en la que ven que no pueden cumplir con los requerimientos de clase me avisen con la mayor anticipación posible y encontremos un plan para solventar el problema en lo que respecta a la clase. Insisto: hablemos, no se pierdan :).
 
 
 ![](/courses/hfc/_index_files/borde.jpg)
 
 ## Calificación
-
-| **Actividad**       | **Valor porcentual** | **Corte** |
-|-----------------|------------------|-------|
-| Entrega semanal | 15%              | 1     |
-| Participación   | 15%              | 1     |
-| Entrega semanal | 15%              | 2     |
-| Participación   | 15%              | 2     |
-| Anteproyecto    | 40%              | 3     |
