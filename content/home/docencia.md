@@ -7,7 +7,7 @@ subtitle:
 weight: 65  # section position on page
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns: '2'
+  columns: '1'
 ---
 
 ## 2023-2
@@ -15,3 +15,4 @@ design:
 
 
 [Lista actual de asignaturas](/courses/)
+
