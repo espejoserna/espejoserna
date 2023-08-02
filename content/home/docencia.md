@@ -13,6 +13,5 @@ design:
 ## 2023-2
 
 
-
 [Lista actual de asignaturas](/courses/)
 
