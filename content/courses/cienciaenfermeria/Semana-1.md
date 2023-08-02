@@ -29,7 +29,7 @@ weight: 1
 - ¿Sólo una ciencia?
 
 
-### El lugar de la filosofía de la ciencia de Enfermería: pasado, presente y futuro
+### El lugar de la filosofía de la ciencia de Enfermería
 
 
 ¿Filosofía de la ciencia de Enfermería?
@@ -67,7 +67,7 @@ Tenemos la práctica y el conocimiento que la fundamenta
 Énfasis en el ciudado, acerca la Enfermería a las humanidades y las dificultades de entender a lo humano de acuerdo con un método científico.  
 Énfasis en la ciencia, enfatiza el lado objetivo, general y, quizá, reductivista.
 
-### Relación entre la práctica de enfermería y la disciplina académica de enfermería
+### Práctica y disciplina de enfermería
 
 - ¿Es posible una ciencia de la práctica de enfermería independiente de una disciplina académica de enfermería?
 
@@ -77,7 +77,7 @@ El positivismo lógico ofrece una respuesta. Es una respuesta incompleta y probl
 
 
 
-### Sobre las palabras para hablar de conocimiento
+### Las palabras para hablar de conocimiento
 
 - Wissenschaft y ciencia
 - Saber hacer, saber ser, saber teórico.
@@ -91,7 +91,7 @@ El positivismo lógico ofrece una respuesta. Es una respuesta incompleta y probl
 #### Un camino 
 
 
-Dorothy Johnson “A philosophy of nursing” (1959a) y Rozella Schlotfeld’s “Reflections on nursing research” (1960): enfermería debe desarrollar un conocimiento científico para poder indetificar y defender el lugar y alcance de la enfermería ante presiones externas a la disciplina. Afirman que se debe ir más allá del conocimiento biomédico aplicado a la práctica para alcanzar un conocimiento propio de Enfermería.
+Dorothy Johnson “A philosophy of nursing” (1959a) y Rozella Schlotfeld’s “Reflections on nursing research” (1960) nos dicen que enfermería debe desarrollar un conocimiento científico para poder identificar y defender el lugar y alcance de la enfermería ante presiones externas a la disciplina. Afirman que se debe ir más allá del conocimiento biomédico aplicado a la práctica para alcanzar un conocimiento propio de Enfermería.
 
 Los objetivos de enfermería determinan el alcance del conocimiento de enfermería y los temas propios de su investigación.
 
@@ -99,11 +99,13 @@ Esto es desarrollado independientemente, aunque no de espaldas a, la práctica c
 
 #### Otro camino
 
-La escuela de enfemería de Yale (e.g., Wald & Leonard, 1964; Conant, 1967a; Dickoff & James, 1968; Ellis, 1969) en contraposición afirma que la ciencia de enfermería debe responder directamente a la práctica de enfermería.
+En contraposición,  la escuela de enfemería de Yale (e.g., Wald & Leonard, 1964; Conant, 1967a; Dickoff & James, 1968; Ellis, 1969) afirma que la ciencia de enfermería debe responder directamente a la práctica de enfermería.
 
 El conocimiento de enfermería en la práctica ya está; la ciencia de enfermería lo ha de hacer explícito. Biología, psicología y sociología, entre otras, se han de usar para expandir ese conocimiento y sometido a ensayos.
 
-Ciencia para la resolución de problemas vs. ciencia para el conocimiento por el conocimiento.
+#### ¿Conclusión?
+
+Ciencia de enfermería para la resolución de problemas vs. ciencia de enfermería para el conocimiento por el conocimiento.
 
 En un ensayo escrito para la conmemoración de los 10 años de la prestigiosa "Nursing Research", Loretta Heiderken afirma que: “Research in nursing is not yet scientific. Problem-solving and research are not synonymous; to be scientific problem-solving in research must proceed from a body of theory (at least a simple conceptual model) and feed back into that theory.” (Heiderken, 1962, p. 141)
 
@@ -129,6 +131,8 @@ realizar en este curso, deberán seguir estas instrucciones detenidamente.
 El objetivo central de este texto es ofrecer una base sobre la cual cada uno de ustedes pueda reflexionar sobre su
 manera de acercarse a leer un texto filosófico. Esta reflexión tiene como fin aprender a leer ‘despacio, profundo, mirando
 atrás y adelante, de puertas abiertas, con ojos y dedos delicados’. ¡Adelante!
+
+
 
 
 ###  Elementos básicos
@@ -253,6 +257,6 @@ defiende? ¿Podría fortalecer el argumento?
 
 ### Interdisciplinariedad
 - ¿Qué espacios interdisciplinarios se ha encontrado en su ejercicio profesional o formativo? 
-- ¿Qué retos han encontrado?
-- ¿Qué ventajas tienen?
+- ¿Qué retos han encontrado en esos espacios?
+- ¿Qué ventajas tienen los espacios interdisciplinarios?
 
