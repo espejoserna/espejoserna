@@ -10,17 +10,8 @@ design:
   columns: '2'
 ---
 
-## 2022-2
+## 2023-2
 
-### Pregrado
 
-- [Lógica 1](/courses/logica1) 
-- [Historia y filosofía de la ciencia](/courses/hfc)
-- [Metodología de la investigación filosófica](/courses/investigacionfilo)
-- [Philosophy and Film ](/courses/philandfilm)
 
-### Posgrado
-- Investigación e interdisciplinariedad
-- Filosofía de la ciencia
-
-[(Años pasados)](/courses/)
+[Para ir a la list ](/courses/)
