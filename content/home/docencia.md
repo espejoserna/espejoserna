@@ -14,4 +14,4 @@ design:
 
 
 
-[Para ir a la list ](/courses/)
+[Lista actual de asignaturas](/courses/)
