@@ -30,8 +30,8 @@ weight: 2
 La palabra 'know' en inglés se utiliza para hablar un grupo de estados cognitivo privilegiado que en otros idiomas se suele disitnguir por medio de diferentes palabras:
 
 1. Saber y conocer (*kennen* y *wissen*, *connaître* y *savoir*)
-1. Saber hacer (saber cómo) y saber proposicional (saber cómo)
-
+1. Saber hacer (saber cómo) y saber proposicional (saber que)
+1. Saber implícito y saber explícito
 
 ![](/courses/hfc/_index_files/borde.jpg)
 
