@@ -11,7 +11,7 @@ menu:
     weight: 5
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
-weight: 2
+weight: 4
 ---
 
 ![](/courses/hfc/_index_files/borde.jpg)
