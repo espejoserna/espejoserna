@@ -272,5 +272,5 @@ Feyerabend está de acuerdo con la estrategia general de mirar la historia de la
 - ¿Qué se espera hacer?
 - ¿Qué se espera encontrar?
 - ¿Qué significan esos resultados?
-- ¿Cómo contribuye a la discusion?
-- ¿Por qué importa esta discusiñon?
+- ¿Cómo contribuye a la discusión?
+- ¿Por qué importa esta discusión?
