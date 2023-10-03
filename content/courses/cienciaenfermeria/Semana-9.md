@@ -23,7 +23,7 @@ Es necesario ir más allá de los memes para hablar, en general, de feminismo y,
 
 Al feminismo se lo ha caricaturizado desde sus inicios. Ya la primera ola del feminismo, que principalmente buscaba el derecho al voto, se le veía como algo poco razonable.
 
-[Algunos ejemplos:](https://www.google.com/imgres?imgurl=https%3A%2F%2Fstatic.boredpanda.com%2Fblog%2Fwp-content%2Fuploads%2F2019%2F11%2Fanti-suffrage-propaganda-voting-rights-postcards-fb45-png__700.jpg&imgrefurl=https%3A%2F%2Fwww.boredpanda.com%2Fanti-suffrage-propaganda-voting-rights-postcards%2F&tbnid=eWCdDzts0oIMgM&vet=12ahUKEwjLwqGWjNnzAhV1wikDHWb0C1wQMygBegUIARDQAQ..i&docid=uLkTL8I608u7ZM&w=700&h=368&q=anti%20suffragette%20posters&client=firefox-b-d&ved=2ahUKEwjLwqGWjNnzAhV1wikDHWb0C1wQMygBegUIARDQAQ)
+### [Algunos ejemplos:](https://www.google.com/imgres?imgurl=https%3A%2F%2Fstatic.boredpanda.com%2Fblog%2Fwp-content%2Fuploads%2F2019%2F11%2Fanti-suffrage-propaganda-voting-rights-postcards-fb45-png__700.jpg&imgrefurl=https%3A%2F%2Fwww.boredpanda.com%2Fanti-suffrage-propaganda-voting-rights-postcards%2F&tbnid=eWCdDzts0oIMgM&vet=12ahUKEwjLwqGWjNnzAhV1wikDHWb0C1wQMygBegUIARDQAQ..i&docid=uLkTL8I608u7ZM&w=700&h=368&q=anti%20suffragette%20posters&client=firefox-b-d&ved=2ahUKEwjLwqGWjNnzAhV1wikDHWb0C1wQMygBegUIARDQAQ)
 
 Esto no quiere decir que debemos aceptar toda versión del feminismo.
 
@@ -48,6 +48,7 @@ Pinnick citando a los Nelson:
 
 > We also take there to be substantive issues that divide feminists and their mainstream colleagues \[in traditional philosophy of science\], not including interest in the notions just listed \[objectivity, truth, etc.\] ... questions concerning the explanatory principles that should figure in the philosophy of science are among the more pervasive and contested issues.
 
+### Harding 
 Harding: El feminismo propone que ningún ser humano contemporáneo escapa de la generízación, en contra de la creencia tradicional, los hombres tampoco.
 
 Sostiene que la masculinidad —lejos de ser el ideal de los miembros de nuestra especie—, se aleja, al menos, tanto de lo paradigmáticamente admirable como ha sostenido que se alejaba la feminidad.
@@ -66,11 +67,11 @@ Si la ciencia es una práctica humana, entonces debemos utilizar las categorías
 
 Dificultades de hablar de la influencia del género en la ciencia
 
-1\. no es fácil hablar de género.
+### 1\. no es fácil hablar de género.
 
-2\. dogmas respecto a la ciencia
+### 2\. dogmas respecto a la ciencia
 
-3\. resistencia al enfoque
+### 3\. resistencia al enfoque
 
 La explicación alternativa de Kuhn sobre la historia de la ciencia ha generado una auténtica nueva industria de estudios sociales de la ciencia, estudios que han empezado a demostrar la mistificación perpetrada por las llamadas "reconstrucciones racionales".
 
