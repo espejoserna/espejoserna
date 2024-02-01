@@ -42,8 +42,7 @@ El curso Historia y Filosofía de la IA se ofrece a los estudiantes de Filosofí
 
 *Módulo 1: Historia de la filosofía de la IA*
 
-1. Orígenes I. Lectura: The Quest for Artificial Intelligence, Dreams and dreamers
-1. Orígenes II. El Golem, Frankenstein, Yo Robot, Odisea 2001, Terminator, etc 
+1. Orígenes I. Lecturas: The Quest for Artificial Intelligence, Dreams and dreamers, El Golem, Frankenstein, Yo Robot, Odisea 2001, Terminator, etc 
 1. "Pensar es calcular". T. Hobbes. Parte 1, Cap 1-5
 1. Ada Lovelace, Caps 8,9,12,13
 1. Turing, A. M. (1950). Computing Machinery and Intelligence. Mind, 59(236), 433-460. 
