@@ -10,7 +10,7 @@ draft: no
 toc: yes
 type: docs
 menu:
-  witt:
+  tecyeco:
     name: Syllabus
     weight: 1
 ---
