@@ -12,12 +12,12 @@ draft: no
 toc: yes
 type: docs
 menu:
-  witt:
+  tecyeco:
     name: Syllabus
     weight: 1
 ---
 
-![](banner.jpg)
+![](banner.png)
 
 ##  Descripción de la asignatura
 
@@ -107,6 +107,13 @@ Un ensayo académico en donde presenten una posición argumentada y que siga una
 **La vida nos da sorpresas; sorpresas nos da la vida.**  Es importante avisar al profesor. Hablemos. No me tienen que contar sus problemas personales pero es importante que si se encuentran en una situación en la que ven que no pueden cumplir con los requerimientos de clase me avisen con la mayor anticipación posible y encontremos un plan para solventar el problema en lo que respecta a la clase. Insisto: hablemos, no se pierdan :).
 
 ## Bibliografía
+
+- Bellomo, S. (2023) Educación aumentada desafíos de la educación en la era de la inteligencia artificial. Globethics Publications.
+- Coeckelbergh, M. (2021). Ética de la inteligencia artificial. Ediciones Cátedra. 
+- Coeckelbergh, M. (2023) Filosofía Política De La Inteligencia Artificial: Una Introducción. Ediciones Cátedra. 
+- O'Neil, C. (2016). Weapons of Math Destruction. Crown Publishers. 
+- Véliz, C. (2020). Privacy is Power: Why and How You Should Take Back Control of Your Data. Transworld Digital. 
+- Zuboff, S. (2020). La era del capitalismo de la vigilancia. Paidós. 
 
 
 ![](/courses/hfc/_index_files/borde.jpg)
