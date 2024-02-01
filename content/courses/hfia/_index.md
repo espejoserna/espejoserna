@@ -43,9 +43,9 @@ El curso Historia y Filosofía de la IA se ofrece a los estudiantes de Filosofí
 *Módulo 1: Historia de la filosofía de la IA*
 
 1. Orígenes I. Lectura: The Quest for Artificial Intelligence, Dreams and dreamers
-1. Orígenes II. El Golem, Frankenstein y Assimov 
+1. Orígenes II. El Golem, Frankenstein, Yo Robot, Odisea 2001, Terminator, etc 
 1. "Pensar es calcular". T. Hobbes. Parte 1, Cap 1-5
-1. Lovelace, 8,9,12,13
+1. Ada Lovelace, Caps 8,9,12,13
 1. Turing, A. M. (1950). Computing Machinery and Intelligence. Mind, 59(236), 433-460. 
 1. Claude Shannon, "Programming a Computer for Playing Chess
 1. R.A. Brooks "Elephants don’t play chess" Robotics and Autonomous Systems. (1990)
@@ -53,7 +53,8 @@ El curso Historia y Filosofía de la IA se ofrece a los estudiantes de Filosofí
 
 *Módulo 2 - Filosofía de la IA en el siglo XX*
 
-La visión de la mente por medio de la IA
+La imagen de la mente por medio de la IA
+
 - Haugeland, J. (1985). Artificial Intelligence: The Very Idea. MIT Press.
 - Searle, J. R. (1980). Minds, Brains, and Programs. Behavioral and Brain Sciences, 3(3), 417-457. doi:10.1017/S0140525X00005756.
 - Bellomo, S. T. (2023). _Educación aumentada: Desafíos de la educación en la era de la inteligencia artificial_. Globethics Publications. [https://doi.org/10.58863/20.500.12424/4293074](https://doi.org/10.58863/20.500.12424/4293074)
@@ -63,7 +64,7 @@ La visión de la mente por medio de la IA
 *(6 semanas)*
 
 *Módulo 3 - Filosofía de la IA en el siglo XXI*
-Un giro ético y político a la IA causado por el origen de la tecnología.
+El giro ético y político a la IA causado por el origen de la tecnología.
 
 - Contra la tecnología I: Platón, Fedro. 
 - Coeckelbergh, M. (2021). Ética de la inteligencia artificial. Ediciones Cátedra.
