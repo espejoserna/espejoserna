@@ -3,7 +3,7 @@ title: Tecnología y ecología humana
 author: R package build
 date: '2024-02-02'
 linktitle: Curso de 
-summary: Asignatura para la Maestría en Gerencia y Desarrollo de Personas acerca de laa relación humano-tecnología (IA, en particular). Sin tener una respuesta a la pregunta de si tenemos todavía una genuina inteligencia artificial, hay ya muchas pregustas sobre las maneras en que la IA impacta en la sociedad y las personas. Estas interrogantes, junto con las herramientas conceptuales necesarias para abordarlas y ofrecer una respuesta, constituyen el núcleo central de este curso.
+summary: Asignatura para la Maestría en Gerencia y Desarrollo de Personas acerca de la relación humano-tecnología (IA, en particular). Sin tener una respuesta a la pregunta de si tenemos todavía una genuina inteligencia artificial, hay ya muchas pregustas sobre las maneras en que la IA impacta en la sociedad y las personas. Estas interrogantes, junto con las herramientas conceptuales necesarias para abordarlas y ofrecer una respuesta, constituyen el núcleo central de este curso.
 weight: 1
 lastmod: '2022-01-21'
 draft: no
