@@ -26,7 +26,16 @@ weight: 1
 
 ### ¿Qué es la IA?
 
-La expresión "inteligencia artificial" suele traer a la mente imágenes de ciencia ficción. ¿Qué se les viene a la mente?
+La expresión "inteligencia artificial" suele traer a la mente imágenes de ciencia ficción. 
+
+![](/courses/tecyeco/img/1.jpg)
+
+¿Qué se les viene a la mente?
+
+![](/courses/tecyeco/img/7.jpg)
+
+![](/courses/tecyeco/img/8.jpg)
+![](/courses/tecyeco/img/5.png)
 
 ¿Pueden las máquinas _pensar_?
 
@@ -41,6 +50,15 @@ Alan Turing ofreció las bases teóricas de lo que hoy son los computadores digi
 También se pregunto si sería posible que una máquina puede pensar.
 
 Todavía no tenemos una respuesta unívoca, a pesar de los avances. 
+
+![](/courses/tecyeco/img/6.jpg)
+
+![](/courses/tecyeco/img/9.jpg)
+![](/courses/tecyeco/img/11.jpg)
+
+También aparece en modos en que usualmente no tenemos tan presetnes.
+
+![](/courses/tecyeco/img/10.jpg)
 
 La dificultad de la pregunta radica, en parte, en que no sabemos en qué consiste pensar en el caso de los humanos. Nuestro entendimiento de la mente humana todavía necesita mayor desarrollo.
 
@@ -57,11 +75,26 @@ A pesar de no tener una forma sistemática de determinar si una máquina es inte
 
 ¿Qué ejemplos conocen?
 
-Sin la respuesta la pregunta, por si hay inteligencia o no hay preguntas que igual quedan en el aire. 
+<iframe src="https://giphy.com/embed/U86wHVI53I3TPgLaIt" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
-Por ejemplo: ¿Debemos proteger las "obras" de estas "inteligencias"?
 
-Sin tener una respuesta a la pregunta de si se trata genuinamente de un agente artificial, no es claro cómo contestar a la pregunta por la propiedad de ese agente. Si no es claro si hay un agente, ¿Hay un sujeto de derechos? ¿Puede juzgar, como un juez o un profesore, el trabajo de ciudadanos y estudiantes? 
+![](/courses/tecyeco/img/12.jpg)
+
+
+![](/courses/tecyeco/img/13.jpg)
+
+Sin la respuesta la pregunta, por si hay inteligencia o no, hay preguntas que igual quedan en el aire. 
+
+- ¿Debemos proteger las "obras" de estas "inteligencias"?
+
+- ¿Podemos utilizar IA como un soldado?
+
+- ¿Podemos utilizar IA para controlar el crimen y regular a las personas?
+
+
+Sin tener una respuesta a la pregunta de si se trata genuinamente de un agente artificial, no es claro cómo contestar a la pregunta por la propiedad de ese agente. Si no es claro si hay un agente, ¿Hay un sujeto de derechos? ¿Puede juzgar, como un juez o un profesor, el trabajo de ciudadanos y estudiantes? ¿Podría matar a otro soldado en un contexto de guerra? ¿Puede ayudar a combatir el crimen?
+
+
 
 En esta asignatura, examinaremos la IA en el siglo XXI, con debates éticos y políticos como estos. La pregunta central entonces no será tanto en la naturaleza de la IA, sino en el impacto que tiene en la persona.
 
