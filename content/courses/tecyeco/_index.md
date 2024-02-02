@@ -37,7 +37,7 @@ La existencia de esta dualidad plantea una serie de interrogantes que guiarán n
 
 ![](/courses/hfc/_index_files/borde.jpg)
 
-## Resultados previstos de aprendizaje
+### Resultados previstos de aprendizaje
 
 - El estudiante entiende que la inter-dependencia que hay entre los conceptos: conocimiento, tecnología y sujeto-persona en la edad moderna: desde el siglo XVII al siglo XXI. 
 - El estudiante entiende y distingue las preguntas técnicas, epistemológicas y éticas acerca de la IA y la relación con los procesos de decisión. 
@@ -52,7 +52,7 @@ La existencia de esta dualidad plantea una serie de interrogantes que guiarán n
 
 
 
-##  Metodología
+###  Metodología
 
 
 **Antes de la sesión**
@@ -70,11 +70,11 @@ Todos deben atender con cuidado a la presentación del profesor y formular pregu
 Revisen si entienden la exposición y si están de acuerdo; pregunten por las relaciones con los temas anteriormente expuestos.
 
 
-## Contenido 
+### Contenido 
 
 1. Introducción al curso. Presentación del tema general. Instrucciones para leer e instrucciones para escribir. Lectura Coeckelbergh, M. (2021). Ética de la inteligencia artificial. Ediciones Cátedra. Caps 1 y 2 
 1. Fundamentos de IA: el cambio del siglo XX al siglo XXI. Lectura Coeckelbergh, M. (2021). Ética de la inteligencia artificial. Ediciones Cátedra. Caps 5 y 6 
-1. EL descubrimiento del excedente conductual.  Shoshana, Z. (2020). La era del capitalismo de la vigilancia. La lucha de un futuro humano frente a las nuevas fronteras del poder. Barcelona: Paidós.  Cap 3 
+1. El descubrimiento del excedente conductual.  Shoshana, Z. (2020). La era del capitalismo de la vigilancia. La lucha de un futuro humano frente a las nuevas fronteras del poder. Barcelona: Paidós.  Cap 3 
 1. Armas de destrucción matemática. O'Neil, C. (2017). Armas de Destrucción Matemática: Cómo el Big Data aumenta la desigualdad y amenaza la democracia. Madrid: Capitán Swing. Cap. *a convenir según intereses*
 1. Privacidad y Poder.Cap 3.  
 1. Tema por definir con base en los intereses de los participantes. 
@@ -105,6 +105,9 @@ Un ensayo académico en donde presenten una posición argumentada y que siga una
 **Incumplimiento**
 
 **La vida nos da sorpresas; sorpresas nos da la vida.**  Es importante avisar al profesor. Hablemos. No me tienen que contar sus problemas personales pero es importante que si se encuentran en una situación en la que ven que no pueden cumplir con los requerimientos de clase me avisen con la mayor anticipación posible y encontremos un plan para solventar el problema en lo que respecta a la clase. Insisto: hablemos, no se pierdan :).
+
+![](/courses/hfc/_index_files/borde.jpg)
+
 
 ## Bibliografía
 
