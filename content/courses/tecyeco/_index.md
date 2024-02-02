@@ -1,11 +1,9 @@
 ---
 title: Tecnología y ecología humana 
 author: R package build
-date: '2022-01-04'
+date: '2024-02-02'
 linktitle: Curso de 
-summary: Asignatura para la Maestría en Gerencia y Desarrollo de Personas. La relación humano-tecnología (IA, en particular) tiene una evaluación desde dos perspectivas contradictorias y tensas entre sí. Por un lado, hay una evaluación positiva en cuanto que se dice que la tecnología aumenta las capacidades humanas (nos hace más inteligentes o capacidad de predecir/controlar el ambiente social y natural). Y, por otro lado, hay una evaluación negativa en tanto que la presencia de la tecnología nos quita libertad y responsabilidad al buscar reemplazar decisiones propiamente humanas por decisiones automatizadas. La tensión entre estas dos posiciones abre algunas preguntas que orientarán las reflexiones de este curso. ¿Hay alguna manera de resolver la tensión? ¿Hay algo mal en nuestra conceptualización del problema? ¿La evaluación de nuestra relación con la tecnología siempre es así de pesimista o tensa? ¿Hay alguna manera en la que podemos evaluar nuestra relación con la tecnología positivamente? ¿es así en todos los contextos? ¿Estamos entendiendo bien los conceptos involucrados en la formulación de esta tensión, es decir, entendemos qué es una persona, un humano, qué es la tecnología, qué es la IA? Si la evaluación de nuestra relación con la tecnología es pesimista ¿estamos llamados a hacer algo para cambiarla, al menos de nuestro contexto más cercano? Estas preguntas y las herramientas conceptuales para abordarlas y ofrecer una respuesta son el corazón de este curso.
-
-
+summary: Asignatura para la Maestría en Gerencia y Desarrollo de Personas acerca de laa relación humano-tecnología (IA, en particular). Sin tener una respuesta a la pregunta de si tenemos todavía una genuina inteligencia artificial, hay ya muchas pregustas sobre las maneras en que la IA impacta en la sociedad y las personas. Estas interrogantes, junto con las herramientas conceptuales necesarias para abordarlas y ofrecer una respuesta, constituyen el núcleo central de este curso.
 weight: 1
 lastmod: '2022-01-21'
 draft: no
