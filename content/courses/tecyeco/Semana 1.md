@@ -14,6 +14,7 @@ menu:
 weight: 1
 ---
 
+
 ![](/courses/hfc/_index_files/borde.jpg)
 
 ## Plan
@@ -52,11 +53,10 @@ También se pregunto si sería posible que una máquina puede pensar.
 Todavía no tenemos una respuesta unívoca, a pesar de los avances. 
 
 ![](/courses/tecyeco/img/6.jpg)
-
 ![](/courses/tecyeco/img/9.jpg)
 ![](/courses/tecyeco/img/11.jpg)
 
-También aparece en modos en que usualmente no tenemos tan presetnes.
+También aparece en modos en que usualmente no tenemos tan presentes.
 
 ![](/courses/tecyeco/img/10.jpg)
 
