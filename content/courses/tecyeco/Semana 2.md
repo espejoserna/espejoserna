@@ -159,6 +159,7 @@ nes.
 ![](/courses/tecyeco/img/14.png)
 
 
+![](/courses/tecyeco/img/17.png)
 
 > Los científicos solían crear teorías para explicar datos y hacer prediccio‐
 nes; en el aprendizaje automático, los ordenadores crean sus propios mode‐
@@ -195,6 +196,8 @@ Aplicaciones de la ciencia de datos:
 
 
 ![](/courses/tecyeco/img/10.jpg)
+
+
 
 ## Preguntas
 
