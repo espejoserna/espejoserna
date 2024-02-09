@@ -146,12 +146,9 @@ la integran en entornos sociotécnicos más amplios.
 Varias de las cuestiones que revisaremos tienen que ver con la manera en que se entienden y usan los macrodatos (bigdata).
 
 
-> El aprendizaje automático está basa‐
-do en la estadística: es un proceso estadístico. Puede usarse para varias ta‐
-reas, pero la tarea subyacente es a menudo el reconocimiento de patrones.
+> El aprendizaje automático está basado en la estadística: es un proceso estadístico. Puede usarse para varias tareas, pero la tarea subyacente es a menudo el reconocimiento de patrones.
 Los algoritmos pueden identificar patrones o reglas observando conjuntos
-de datos y utilizar estos patrones o reglas para explicarlos y hacer prediccio‐
-nes.
+de datos y utilizar estos patrones o reglas para explicarlos y hacer predicciones.
 
 ![](/courses/tecyeco/img/14.png)
 
