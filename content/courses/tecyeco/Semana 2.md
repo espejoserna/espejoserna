@@ -155,11 +155,7 @@ de datos y utilizar estos patrones o reglas para explicarlos y hacer prediccione
 
 ![](/courses/tecyeco/img/17.png)
 
-> Los científicos solían crear teorías para explicar datos y hacer prediccio‐
-nes; en el aprendizaje automático, los ordenadores crean sus propios mode‐
-los que encajan con los datos. El punto de partida son los datos, no las teo‐
-rías. En este sentido, los datos dejan de ser «pasivos» y pasan a ser «acti‐
-vos»: son los «datos mismos los que definen lo que hacer a continuación»
+> Los científicos solían crear teorías para explicar datos y hacer predicciones; en el aprendizaje automático, los ordenadores crean sus propios modelos que encajan con los datos. El punto de partida son los datos, no las teorías. En este sentido, los datos dejan de ser «pasivos» y pasan a ser «activos»: son los «datos mismos los que definen lo que hacer a continuación»
 (Alpaydin 2016, 11)
 
 
