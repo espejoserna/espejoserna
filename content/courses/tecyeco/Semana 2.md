@@ -132,11 +132,8 @@ como robots, coches, o en aplicaciones del «internet de las cosas» . Ejemplos?
 
 > a veces, la IA
 no es visible. Esto ocurre, en primer lugar, porque se ha convertido en una
-parte que ya está engranada en nuestra vida cotidiana. La IA se usa a menu‐
-do en aplicaciones nuevas y llamativas como AlphaGo. Pero no debemos
-olvidar que la IA ya impulsa plataformas de redes sociales, motores de bús‐
-queda y otros medios y tecnologías que se han convertido en parte de nues‐
-tra experiencia de la vida cotidiana. 
+parte que ya está engranada en nuestra vida cotidiana. La IA se usa a menudo en aplicaciones nuevas y llamativas como AlphaGo. Pero no debemos
+olvidar que la IA ya impulsa plataformas de redes sociales, motores de búsqueda y otros medios y tecnologías que se han convertido en parte de nuestra experiencia de la vida cotidiana. 
 
 > la IA no tiene
 que ver solamente con la tecnología, sino también de lo que los humanos
