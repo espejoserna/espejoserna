@@ -7,7 +7,7 @@ date: '2024-02-02'
 draft: false
 menu:
   tecyeco:
-    name: Semana 2
+    name: Semana 3
     weight: 4
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
