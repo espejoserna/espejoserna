@@ -22,7 +22,7 @@ weight: 3
 1. Vigilancia en la vida cotidiana
 1. El descubrimiento del excedente conductual 
 1. La pregunta por el producto
-1. Respuestas
+1. Retos y respuestas
 
 
 ![](/courses/hfc/_index_files/borde.jpg)
@@ -121,19 +121,26 @@ El punto del capítulo no es que el uso de los datos es siempre malo. Sino que *
 ¿Ejemplos por fuera del mundo digital de este dicho?
 
 ### Modificaciones de los dichos
--  "No hay tal cosa como un almuerzo gratis"
--  "Somos el recurso natural que es explotado por Google"
+- "No hay tal cosa como un almuerzo gratis"
+- "Somos el recurso natural que es explotado por Google"
 - "Somo los restos del recurso natural que es explotado por Google"
 
 
-## Preguntas
+## Retos y Respuestas
 
+Vale la pena diferencia entre algunos de los retos que nos presenta Zuboff.
 
-
+- El reto a la libertad
+- El reto a la democracia
+- El reto a la privacidad 
 
 
 
 ## Para la próxima semana
 
-### El descubrimiento del excedente conductual.  
-Shoshana, Z. (2020). La era del capitalismo de la vigilancia. La lucha de un futuro humano frente a las nuevas fronteras del poder. Barcelona: Paidós.  Cap 3 
+### Armas de destrucción matemática. 
+
+Big Data: velocidad, volumen, variedad
+ADM: Opacidad, Escala, Daño
+
+O'Neil, C. (2017). Armas de Destrucción Matemática: Cómo el Big Data aumenta la desigualdad y amenaza la democracia. Madrid: Capitán Swing. Cap. *A convenir según intereses*
