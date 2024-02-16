@@ -22,7 +22,7 @@ weight: 3
 1. Vigilancia en la vida cotidiana
 1. El descubrimiento del excedente conductual 
 1. La pregunta por el producto
-1. Retos y respuestas
+1. Retos y preguntas
 
 
 ![](/courses/hfc/_index_files/borde.jpg)
@@ -126,15 +126,16 @@ El punto del capítulo no es que el uso de los datos es siempre malo. Sino que *
 - "Somo los restos del recurso natural que es explotado por Google"
 
 
-## Retos y Respuestas
+## Retos y preguntas
 
 Vale la pena diferencia entre algunos de los retos que nos presenta Zuboff.
 
-- El reto a la libertad
-- El reto a la democracia
-- El reto a la privacidad 
+### Retos
+1. A la libertad
+1. A la democracia
+1. A la privacidad 
 
-
+### Preguntas
 
 - ¿Qué innovación permite el capitalismo de la vigilancia? ¿Eficiencia? ¿Comodidad? ¿Servicios gratuitos?
 
