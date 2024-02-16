@@ -136,6 +136,32 @@ Vale la pena diferencia entre algunos de los retos que nos presenta Zuboff.
 
 
 
+- ¿Qué innovación permite el capitalismo de la vigilancia? ¿Eficiencia? ¿Comodidad? ¿Servicios gratuitos?
+
+- Sin el capitalismo de la vigilancia, Google no hubiese podido prosperar. ¿Capitalismo de la vigilancia implica innovación? ¿Debemos detener la innovación en favor de la privacidad*?
+
+- ¿Es posible tener el nivel de innovación de google sin el Capitalismo de la vigilancia?
+
+- ¿Debería haber más restricciones a la tecnología y su uso incluso si eso significa ponerle más trabas a la innovación?
+
+- ¿Puede la innovación cohexistir de manera pacífica sin el capitalismo de la vigilancia?
+
+
+- ¿Qué retos le presenta el capitalismo de la vigilancia a la democracia? ¿Manipulación de la opinión pública? ¿Falta de control? ¿Inequidad?
+
+- ¿Qué beneficios le presenta el capitalismo de la vigilancia a la democracia? ¿Mayor participación? ¿Políticas basadas en evidencia? ¿Crecimiento económico?
+
+- ¿Qué retos le presenta el capitalismo de la vigilancia a la libertad? ¿Manipulación? Discriminación? ¿Inequidad?
+
+- ¿Qué beneficios le presenta el capitalismo de la vigilancia a la libertad? Comodidad? Participación política? ¿Accesso a la información?
+
+
+- ¿Qué retos le presenta el capitalismo de la vigilancia a la privacidad? Falta de consentimiento? Discriminación y perfilamiento? efecto inhibidor/ disuasorio?
+
+- ¿Qué beneficios le presenta el capitalismo de la vigilancia a la privacidad? Personalización? Eficiencia ? ¿mayor seguridad?
+
+
+
 ## Para la próxima semana
 
 ### Armas de destrucción matemática. 
