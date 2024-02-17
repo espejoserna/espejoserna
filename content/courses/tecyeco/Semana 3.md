@@ -89,7 +89,7 @@ La gente atribuye intencionalidad a un agente en relación a un efecto colateral
 - ¿Cómo se sienten acerca de la vigilancia en tu vida diaria?
 - ¿Creen que el capitalismo de la vigilancia es beneficiosa o perjudicial? ¿Por qué?
 
-¿Google intencionalmente cbeneficia o perjudica a los usuarios?
+¿Google intencionalmente beneficia o perjudica a los usuarios?
 
 
 ## El descubrimiento del excedente conductual
@@ -120,8 +120,8 @@ El punto del capítulo no es que el uso de los datos es siempre malo. Sino que *
 
 ¿Ejemplos por fuera del mundo digital de este dicho?
 
-### Modificaciones de los dichos
-- "No hay tal cosa como un almuerzo gratis"
+### Modificaciones
+- "De eso tan bueno no tan tanto"
 - "Somos el recurso natural que es explotado por Google"
 - "Somo los restos del recurso natural que es explotado por Google"
 
@@ -170,4 +170,4 @@ Vale la pena diferencia entre algunos de los retos que nos presenta Zuboff.
 Big Data: velocidad, volumen, variedad
 ADM: Opacidad, Escala, Daño
 
-O'Neil, C. (2017). Armas de Destrucción Matemática: Cómo el Big Data aumenta la desigualdad y amenaza la democracia. Madrid: Capitán Swing. Cap. *A convenir según intereses*
+O'Neil, C. (2017). Armas de Destrucción Matemática: Cómo el Big Data aumenta la desigualdad y amenaza la democracia. Madrid: Capitán Swing. *Cada estudiante seleccionará un capítulo según sus intereses*
