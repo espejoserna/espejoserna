@@ -51,6 +51,9 @@ En "Yo, Robot", un detective del futuro llamado Del Spooner investiga un aparent
 
 En "Blade Runner", un ex policía llamado Rick Deckard es contratado para cazar y "retirar" a unos androides llamados "replicantes" que han escapado a la Tierra, desencadenando una reflexión sobre la humanidad, la identidad y la moralidad en un mundo distópico dominado por la tecnología.
 
+### Inteligencia Artificial 
+
+"Inteligencia Artificial" es una película dirigida por Steven Spielberg que narra la historia de David, un niño robot programado para amar, que busca convertirse en un ser humano real para recuperar el amor de su madre adoptiva en un mundo donde la línea entre humanos y máquinas se desdibuja.
 
 ## Documentales
 
