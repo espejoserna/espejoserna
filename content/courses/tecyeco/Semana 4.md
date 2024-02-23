@@ -42,3 +42,6 @@ KAren cap 6
 Paola: cap 4
 Gloria: ciudadano: Cap 10
 Diana Cap 7. 
+
+
+escenea de minority report con propaganda específica!
