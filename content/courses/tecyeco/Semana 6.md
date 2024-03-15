@@ -28,6 +28,8 @@ weight: 6
 
 ## Rúbrica del trabajo
 
+Exposición oral de 3 conceptos, a 3 personas, en 15 minutos. Es posible hacer una presentación de 45 minutos a 3 personas juntas o 3 presentaciones de 15 minutos a cada una de 3 personas. 
+
 
 | Criterio                     | Descripción                                                                                                                                                                           | Puntuación 1 | Puntuación 2 | Puntuación 3 | Promedio |
 | ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | ------------ | ------------ | -------- |
