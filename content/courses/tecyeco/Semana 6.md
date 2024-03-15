@@ -30,11 +30,12 @@ weight: 6
 
 Exposición oral de 3 conceptos, a 3 personas, en 15 minutos. Es posible hacer una presentación de 45 minutos a 3 personas juntas o 3 presentaciones de 15 minutos a cada una de 3 personas. 
 
+En principio para el primero de abril pero con probabilidad de prorroga. 
 
 | Criterio                     | Descripción                                                                                                                                                                           | Puntuación 1 | Puntuación 2 | Puntuación 3 | Promedio |
 | ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | ------------ | ------------ | -------- |
 | Uso de Material Didáctico    | - Utiliza material visual (infografías, tabla, dibujos, etc) de forma efectiva para apoyar la presentación. <br> - Incorpora ejemplos concretos y relevantes para ilustrar conceptos. | 0-5          | 0-5          | 0-5          |          |
-| Manejo del Tema              | - Demuestra un profundo conocimiento del tema. <br> - Explica de manera clara y coherente los conceptos clave.                                                                        | 0-10         | 0-10         | 0-10         |          |
+| Manejo del Tema              | - Demuestra un conocimiento del tema fundamentado en la literatura. <br> - Explica de manera clara y coherente los conceptos clave.                                                                        | 0-10         | 0-10         | 0-10         |          |
 | Claridad y Precisión         | - Expresa las ideas de forma clara y comprensible. <br> - Utiliza un lenguaje preciso y técnico cuando es necesario.                                                                  | 0-5          | 0-5          | 0-5          |          |
 | Creatividad                  | - Hace uso de estrategias originales y creativas en la exposición. <br> - Propone soluciones innovadoras para los desafíos planteados.                                                | 0-5          | 0-5          | 0-5          |          |
 | Estructura y Organización    | - Presenta una introducción clara y una conclusión que resume los puntos clave. <br> - Organiza la información de manera lógica y coherente.                                          | 0-5          | 0-5          | 0-5          |          |
