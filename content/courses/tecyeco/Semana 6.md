@@ -4,7 +4,7 @@ linktitle: Semana 6
 toc: true
 type: docs
 date: '2024-02-02'
-draft: false
+draft: true
 menu:
   tecyeco:
     name: Semana 6
@@ -47,12 +47,4 @@ weight: 6
 ![](/courses/hfc/_index_files/borde.jpg)
 
 
-## Preguntas orientadoras
-
-- ¿Son las leyes de protección de datos suficientes?
-- ¿Cómo adquirir conciencia de la manera en que se debe cuidar de los datos?
-- ¿Cómo es que la tecnología y sus aliados cambian el vocabulario? ¿Qué retos y oportunidades traen?
-- ¿Serán estos grandes conglomerados los responsables de nuevos tipos de personalidad?
-- ¿quién es responsable?
-
-
+## 
