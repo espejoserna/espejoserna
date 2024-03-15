@@ -4,7 +4,7 @@ linktitle: Semana 6
 toc: true
 type: docs
 date: '2024-02-02'
-draft: true
+draft: false
 menu:
   tecyeco:
     name: Semana 6
@@ -19,7 +19,7 @@ weight: 6
 
 ## Plan
 1. Rúbrica del trabajo
-1. Preguntas orientadoras
+1. Justicia y algortimos
 
 
 ![](/courses/hfc/_index_files/borde.jpg)
@@ -47,4 +47,59 @@ weight: 6
 ![](/courses/hfc/_index_files/borde.jpg)
 
 
-## 
+
+
+## Justicia y algoritmos
+
+### Test de asociación implícita
+
+https://implicit.harvard.edu/implicit/selectatest.html
+
+
+![](/courses/tecyeco/img/bias.png)
+
+
+### Neutralidad, sesgo y justicia
+
+El texto es un texto filosófico expositivo cuya finalidad es ofrecer una aproximación a la cuestión del sesgo desde diferentes visiones de qué es la justicia. 
+
+No hay una sola tesis sobre qué es el sesgo y qué es la justicia. Más bien, se examina el sesgo a la luz de diferentes conceptos desde la filosofía política. No va encontra del capitalismo, ni de posturas marxistas. Más bien, explica cómo es que desde diferentes concepciones de la justicia se puede decir que los algoritmos no son justos, están sesgados, y qué significa en cada caso. 
+
+
+> "mi propósito no es ofrecer una visión general de la filosofia política como tal, sino mostrar qué es lo que implica para la reflexión sobre el sego y la discriminación en, y en virtud de, la LA y la robótica." (p, 58)
+
+
+¿Cuál es el problema de los sesgos?
+
+#### Aproximaciones liberales
+
+- Igualdad de oportunidades: sesgos son problemáticos porque ofrecen menos oportunidades (ej. empleo)
+- Igualdad de resultado: sesgos son problemáticos porque son desiguales en resultados (ej. máquinas para pobres; personas para ricos) 
+- Igualidad de clase (identidad): los sesgos son problemáticos porque crean desigualdad entre clases.
+
+- Justicia distributiva
+- Justicia como equidad (fairness)
+
+*Velo de la ignoracia*
+
+La idea general del "Velo de la Ignorancia", propuesta por John Rawls en "Una Teoría de la Justicia", busca garantizar la imparcialidad y la equidad en la toma de decisiones políticas y sociales por medio de una situación ideal. 
+
+La premisa básica es que al diseñar principios de justicia y distribución de recursos las personas lo hagan hacerlo desde una posición de desconocimiento total sobre su propia situación individual en la sociedad, un velo de ignorancia. Así, las personas no saben cuál será su posición social, económica, política o cultural una vez que se establezcan las reglas y normas de la sociedad. Rawls afirma que eso les lleva a considerar los intereses y necesidades de todos los miembros de la sociedad de manera equitativa, sin favorecer a ningún grupo en particular.
+
+¿el problema es la desigualdad o los desastres que causa?
+
+#### Aproximaciones centradas en grupos
+
+No se imagine cosas. Vea cómo son en la realidad. En lugar de juzgar desde un punto de vista "desinteresado"; mejor juzgar para favorecer a los más necesitados. 
+
+- Capitalismo de la IA (versión más amplia del capitalismo de la vigilancia)
+- Políticas de la identidad (raza, género, etc.)
+
+¿el problema es la desigualdad o los desastres que causa?
+
+
+![](/courses/tecyeco/img/1.png)
+
+![](/courses/tecyeco/img/2.png)
+
+
