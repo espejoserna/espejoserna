@@ -30,7 +30,7 @@ weight: 6
 
 Exposición oral de 3 conceptos, a 3 personas, en 15 minutos. Es posible hacer una presentación de 45 minutos a 3 personas juntas o 3 presentaciones de 15 minutos a cada una de 3 personas. 
 
-En principio para el primero de abril pero con probabilidad de prorroga. 
+En principio para el *cinco de abril* pero con probabilidad de pedir un fin de semana más si lo necesitan urgentemente.
 
 | Criterio                     | Descripción                                                                                                                                                                           | Puntuación 1 | Puntuación 2 | Puntuación 3 | Promedio |
 | ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | ------------ | ------------ | -------- |
