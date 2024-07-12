@@ -91,13 +91,13 @@ Las notas de lectura son esenciales para la sesión de seminario. Deberán segui
 3. Preguntas: tres preguntas que representes inquietudes o críticas respecto al texto.
 
 
-### Plan de trabajo ensayo final
+### Plan de trabajo final
 
 Formulación clara de un objetivo general y unos objetivos específicos junto con la bibliografía que van a utilizar.
 
 ### Ensayo final
 
-Un ensayo académico en donde presenten una posición argumentada y que siga una estructura bien definida y argumentativamente sólida.
+Una propuesta comunicativa en donde presenten una posición argumentada y que siga una estructura bien definida y argumentativamente sólida. (Por definir)
 
 
 **Incumplimiento**
@@ -112,6 +112,8 @@ Un ensayo académico en donde presenten una posición argumentada y que siga una
 - Bellomo, S. (2023) Educación aumentada desafíos de la educación en la era de la inteligencia artificial. Globethics Publications.
 - Coeckelbergh, M. (2021). Ética de la inteligencia artificial. Ediciones Cátedra. 
 - Coeckelbergh, M. (2023) Filosofía Política De La Inteligencia Artificial: Una Introducción. Ediciones Cátedra. 
+- Crawford, K. (2021). Atlas of AI: Power, Politics, and the Planetary Costs of Artificial Intelligence. Yale University Press.
+- Sosa Escudero, W. (2019). Big Data: ¿Qué puede hacer tu país por ti? Siglo XXI Editores.
 - O'Neil, C. (2017). Armas de Destrucción Matemática: Cómo el Big Data aumenta la desigualdad y amenaza la democracia. Madrid: Capitán Swing. 
 - Veliz, C. (2021) Privacidad es poder: datos, vigilancia y libertad en la era digital. Barcelona: Editorial Debate 
 - Zuboff, S. (2020). La era del capitalismo de la vigilancia. Paidós. 

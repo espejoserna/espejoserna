@@ -17,6 +17,14 @@ weight: 0
 
 ![](/courses/hfc/_index_files/borde.jpg)
 
+## Documentales
+
+### Prejuicio cifrado 
+Documental que analiza el descubrimiento hecho por Joy Buolamwini de MIT Media Lab sobre el sesgo racial presente en los algoritmos de tecnología y sus consecuencias.
+
+### El dilema de las redes sociales
+Un híbrido entre documental y drama que ahonda en el negocio de las redes sociales, el poder que ejercen y la adicción que generan en nosotros: su carnada perfecta.
+
 ## Ciencia Ficción
 
 ### 2001: Una odisea del espacio
@@ -68,11 +76,3 @@ La película "Gattaca" narra la historia de Vincent Freeman, un hombre nacido de
 ### Minority report
 
 "Minority Report" es una película de ciencia ficción que se desarrolla en una sociedad futurista donde la policía utiliza un sistema de precrimen para prevenir delitos antes de que ocurran. (Cualquier parecido con COMPAS es pura coincidencia.) Este sistema se basa en las visiones de tres precogs, individuos con habilidades psíquicas que pueden prever los crímenes. El protagonista, John Anderton, es el jefe de la unidad de precrimen, pero se ve obligado a huir cuando es acusado de un crimen que aún no ha cometido. Durante su huida, Anderton descubre una conspiración que pone en duda la infalibilidad del sistema de precrimen y cuestiona la ética de predecir y castigar delitos antes de que se cometan. La película aborda temas como la libertad, la privacidad, la responsabilidad moral y la manipulación de la tecnología en la sociedad.
-
-## Documentales
-
-### Prejuicio cifrado 
-Documental que analiza el descubrimiento hecho por Joy Buolamwini de MIT Media Lab sobre el sesgo racial presente en los algoritmos de tecnología y sus consecuencias.
-
-### El dilema de las redes sociales
-Un híbrido entre documental y drama que ahonda en el negocio de las redes sociales, el poder que ejercen y la adicción que generan en nosotros: su carnada perfecta.
