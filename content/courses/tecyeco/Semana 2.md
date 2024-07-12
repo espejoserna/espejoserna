@@ -28,7 +28,7 @@ weight: 2
 ## La tecnología
 
 ### Definición inicial
-Una manera de entender qué es la inteligencia artificial es la siguiente: es una propiedad de sistemas artitificiales tales que constituyen inteligencia.
+Una manera de entender qué es la inteligencia artificial es la siguiente: es una propiedad de sistemas artificiales tales que constituyen inteligencia.
 
 ¿Qué es la inteligencia?
 
@@ -38,7 +38,7 @@ los estándares de la inteligencia humana» (2018, pág. 5).
 Problemas:
 
 - ¿por qué inteligencia humana?
-- ¿es posible ser considerado inteligente sin ser inteligente?
+- ¿es posible ser considerado inteligente sin ser inteligente? 
 
 Dentro de las ciencias cognitivas, hay un ejemplo muy conocido que es usado para mostrar que es posible considerar que la presencia de una conducta inteligente sin que en realidad la haya.
 
@@ -65,11 +65,9 @@ Conferencia Dartmouth 1956
 
 
 
-IA Fuerte (o general): " capaz de llevar
-a cabo cualquier tarea cognitiva que puedan realizar los humanos"
+IA Fuerte (o general): " capaz de llevar a cabo cualquier tarea cognitiva que puedan realizar los humanos"
 
-IA débil (o estrecha):  " solo puede operar en ámbitos específicos como el
-ajedrez, la clasificación de imágenes, etc. "
+IA débil (o estrecha):  " solo puede operar en ámbitos específicos como el ajedrez, la clasificación de imágenes, etc. "
 
 
 

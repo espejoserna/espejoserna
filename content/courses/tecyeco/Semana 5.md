@@ -42,7 +42,7 @@ Comparar el poder que tienen las compañias de tecnología con las que tiene un 
 1. Vigilancia y monitoreo
 1. Influencia y manipulación
 1. Transparencia
-1. Relación con la ley y eesponsabilidad legal
+1. Relación con la ley y responsabilidad legal
 1. Caracterización ideológica
 
 
