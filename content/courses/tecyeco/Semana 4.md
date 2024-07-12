@@ -4,7 +4,7 @@ linktitle: Semana 4
 toc: true
 type: docs
 date: '2024-02-02'
-draft: false
+draft: true
 menu:
   tecyeco:
     name: Semana 4

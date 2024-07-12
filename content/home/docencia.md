@@ -10,7 +10,7 @@ design:
   columns: '1'
 ---
 
-## 2024-1
+## 2024-2
 
 
 [Lista actual de asignaturas](/courses/)
