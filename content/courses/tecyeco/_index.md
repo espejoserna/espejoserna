@@ -21,7 +21,7 @@ menu:
 
 Asignatura para la Maestría en Gerencia y Desarrollo de Personas, parte del campo de formación en el Desarrollo de personas. 
 
-La relación humano-tecnología, y con la llamada Inteligencia Artificial (IA) en particular, tiene una evaluación desde dos perspectivas contradictorias y tensas entre sí. Nuestro propósito es explorar esta tensión.
+La relación humano-tecnología, y con la llamada Inteligencia Artificial (IA) en particular, tiene una evaluación desde dos perspectivas contradictorias (o cuando menos en tensión). Nuestro propósito es explorar estas perspectivas.
 
 Por un lado, hay una evaluación positiva en cuanto que se dice que la tecnología aumenta las capacidades humanas.
 La tecnología sin duda ha traído consigo una serie de ventajas significativas Los avances tecnológicos como la producción en masa y la maquinaria industrial han mejorado la eficiencia y la productividad en la producción de bienes y servicios. Esto ha impulsado el crecimiento económico, generando un mayor acceso y disponibilidad de bienes y servicios, lo que a su vez ha mejorado el nivel de vida de muchas personas. Además, la tecnología ha estimulado la innovación y el progreso científico, sentando las bases para futuros avances en diversos campos. La tecnología ha contribuido al desarrollo de infraestructuras urbanas y al crecimiento de las ciudades, fomentando la urbanización y el desarrollo de servicios y transporte. 
