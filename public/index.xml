@@ -2,69 +2,68 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>J.C. Espejo-Serna</title>
-    <link>//localhost:1313/</link>
+    <link>/</link>
     <description>Recent content on J.C. Espejo-Serna</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>es</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
-    <lastBuildDate>Fri, 02 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>/talk/</link>
+      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
+      
+      <guid>/talk/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Courses</title>
-      <link>//localhost:1313/courses/</link>
-      <pubDate>Fri, 02 Feb 2024 00:00:00 +0000</pubDate>
+      <link>/courses/</link>
+      <pubDate>Tue, 04 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/courses/</guid>
+      <guid>/courses/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Slides</title>
-      <link>//localhost:1313/slides/</link>
-      <pubDate>Wed, 23 Mar 2022 19:53:02 +0000</pubDate>
+      <title>Projects</title>
+      <link>/project/</link>
+      <pubDate>Wed, 29 Dec 2021 19:55:32 -0700</pubDate>
       
-      <guid>//localhost:1313/slides/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Presentaciones recientes</title>
-      <link>//localhost:1313/talk/</link>
-      <pubDate>Fri, 04 Feb 2022 14:00:00 +0000</pubDate>
-      
-      <guid>//localhost:1313/talk/</guid>
+      <guid>/project/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Publications</title>
-      <link>//localhost:1313/publication/</link>
+      <link>/publication/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/publication/</guid>
+      <guid>/publication/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Posts</title>
-      <link>//localhost:1313/post/</link>
+      <link>/post/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/post/</guid>
+      <guid>/post/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Privacy Policy</title>
-      <link>//localhost:1313/privacy/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      <title>Slides</title>
+      <link>/slides/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/privacy/</guid>
-      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
-</description>
+      <guid>/slides/</guid>
+      <description></description>
     </item>
     
   </channel>

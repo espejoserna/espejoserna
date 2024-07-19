@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors on J.C. Espejo-Serna</title>
-    <link>//localhost:1313/authors/</link>
+    <link>/authors/</link>
     <description>Recent content in Authors on J.C. Espejo-Serna</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>es</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
     <lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="//localhost:1313/authors/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>//localhost:1313/authors/admin/</link>
+      <link>/authors/admin/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/authors/admin/</guid>
+      <guid>/authors/admin/</guid>
       <description>&lt;p&gt;¡Hola! Soy profesor asistente en la Universidad de la Sabana (Colombia), con doctorado en filosofía de la Universidad de Warwick (Inglaterra) y maestría en filosofía de la mente de la misma universidad.&lt;/p&gt;
 &lt;p&gt;En mi investigación doctoral examiné la noción de agencia inteligente y defendí la importancia de la idea de que los ejercicios de agencia inteligentes no son meras manifestaciones no-mentales de lo mental sino parte de los elementos básicos que componen nuestra mente.&lt;/p&gt;
 &lt;p&gt;Actualmente trabajo sobre la relación entre el enactivismo y teorías del sentido común en la filosofía de la percepción respecto a la ontología de lo mental que proponen.&lt;/p&gt;
@@ -26,10 +26,10 @@
     
     <item>
       <title>Robert Ford</title>
-      <link>//localhost:1313/authors/robert-ford/</link>
+      <link>/authors/robert-ford/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/authors/robert-ford/</guid>
+      <guid>/authors/robert-ford/</guid>
       <description></description>
     </item>
     

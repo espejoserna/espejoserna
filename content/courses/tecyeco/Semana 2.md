@@ -193,7 +193,7 @@ Aplicaciones de la ciencia de datos:
 
 ## Preguntas
 
-### Generalidades y comentarios
+### Generalidades y Reflexiones
 
 1. Ambiguedad en la definición de inteligencia.
 3. ¿Cómo mitigar el impacto negativo de la IA?
@@ -201,13 +201,9 @@ Aplicaciones de la ciencia de datos:
 
 ### Impacto Social y Laboral de la IA
 
-![](/courses/tecyeco/img/luditas.jpeg)
-
-
 1. ¿Qué podemos hacer para minimizar el impacto negativo de la automatización en nuestro trabajo? ¿Cómo podemos crear políticas que ayuden a los trabajadores a realizar una transición fluida hacia el uso de IA?
 2. ¿Qué tan conscientes somos de la posible desigualdad social que podría generar el uso de la IA?
 3. A quien esta afectando de manera negativo la IA, si se concibe como una tecnología complementaria y que ayuda al día a día de los seres humanos?
-
 
 ### Privacidad y Protección de Datos
 

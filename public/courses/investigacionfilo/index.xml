@@ -2,206 +2,51 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Metodología de la investigación filosófica on J.C. Espejo-Serna</title>
-    <link>//localhost:1313/courses/investigacionfilo/</link>
+    <link>/courses/investigacionfilo/</link>
     <description>Recent content in Metodología de la investigación filosófica on J.C. Espejo-Serna</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>es</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
     <lastBuildDate>Tue, 04 Jan 2022 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="//localhost:1313/courses/investigacionfilo/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="/courses/investigacionfilo/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Semana 3</title>
-      <link>//localhost:1313/courses/investigacionfilo/semana-3/</link>
-      <pubDate>Sun, 06 Feb 2022 17:36:27 +0000</pubDate>
-      
-      <guid>//localhost:1313/courses/investigacionfilo/semana-3/</guid>
-      <description>&lt;h2 id=&#34;recuento-de-la-semana&#34;&gt;Recuento de la semana:&lt;/h2&gt;
-&lt;p&gt;¿Cuál es su tema? Van a hablar 3 minutos sobre su tema de tesis o sobre los avances que han hecho esta semana. Luego, 3 minutos de preguntas. Cada semana vamos a empezar con una revisión del trabajo hecho o las dificultades enfrentadas durante la semana.&lt;/p&gt;
-&lt;h2 id=&#34;discusión&#34;&gt;Discusión&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;Las enseñanzas de los estudiantes pasados:&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Hablen con sus compañeros que ya empezaron a hacer la tesis.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;¿Qué retos han tenido que afrontar?&lt;/li&gt;
-&lt;li&gt;¿Qué es lo más difícil de hacer la tesis?&lt;/li&gt;
-&lt;li&gt;¿Qué pensaron que sería fácil pero ha probado ser más complicado de lo inicialmnete pensado?&lt;/li&gt;
-&lt;li&gt;¿Han mantenido su cronograma?&lt;/li&gt;
-&lt;li&gt;¿Cómo es su relación con su director o directora?&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Las enseñanzas de otros profesores:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;hablen con otros profesores sobre sus posibles temas. ¿qué retos y oportunidades ven?&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Comentarios línea a línea&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;tareas&#34;&gt;Tareas&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;Busquen una tesis de pregrado en filosofía (En biblioteca, de alguno de sus compañeros que ya terminaron, en repositorios el línea, etc. Pregúntenle a la directora del programa si pueden ver las tesis que ella tiene en físico). Lean la introducción y la tabla de contenidos y analicen la estructura que presenta. Escriban una página sobre el tema de la tesis que leyeron y cómo parece que es discutido. Hablen de las partes, la extensión, la bibliografía, los autores y otros aspectos que llamen su interés.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Tarea: Reseña de un texto de la bolsa de textos.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Semana 4</title>
-      <link>//localhost:1313/courses/investigacionfilo/semana-4/</link>
-      <pubDate>Sun, 06 Feb 2022 17:36:27 +0000</pubDate>
-      
-      <guid>//localhost:1313/courses/investigacionfilo/semana-4/</guid>
-      <description>&lt;h2 id=&#34;recuento-de-la-semana&#34;&gt;Recuento de la semana:&lt;/h2&gt;
-&lt;p&gt;¿Cuál es su tema? Van a hablar 3 minutos sobre su tema de tesis o sobre los avances que han hecho esta semana. Luego, 3 minutos de preguntas. Cada semana vamos a empezar con una revisión del trabajo hecho o las dificultades enfrentadas durante la semana.&lt;/p&gt;
-&lt;h2 id=&#34;discusión&#34;&gt;Discusión&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;Las enseñanzas de los estudiantes pasados:&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;¿Qué se puede aprender del trabajo de los otros tesistas?&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Comentarios línea a línea&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;tareas&#34;&gt;Tareas&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;Tarea: Reseña de un texto de la bolsa de textos.&lt;/li&gt;
-&lt;li&gt;Tarea: Reseña de un texto de la bolsa de textos.&lt;/li&gt;
-&lt;/ol&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Semana 5</title>
-      <link>//localhost:1313/courses/investigacionfilo/semana-5/</link>
-      <pubDate>Sun, 06 Feb 2022 17:36:27 +0000</pubDate>
-      
-      <guid>//localhost:1313/courses/investigacionfilo/semana-5/</guid>
-      <description>&lt;h2 id=&#34;recuento-de-la-semana&#34;&gt;Recuento de la semana:&lt;/h2&gt;
-&lt;p&gt;¿Cuál es su tema? Van a hablar 3 minutos sobre su tema de tesis o sobre los avances que han hecho esta semana. Luego, 3 minutos de preguntas. Cada semana vamos a empezar con una revisión del trabajo hecho o las dificultades enfrentadas durante la semana.&lt;/p&gt;
-&lt;h2 id=&#34;discusión&#34;&gt;Discusión&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Comentarios línea a línea&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;tareas&#34;&gt;Tareas&lt;/h2&gt;
-&lt;p&gt;Tarea 1: Reseña de un texto.&lt;/p&gt;
-&lt;p&gt;Tarea 2:  Determine 3 posibles preguntas sobre las que les gustaría desarrollar en el trabajo de grado.&lt;/p&gt;
-&lt;p&gt;Tarea 3: Hablen con alguien que ya esté haciendo la tesis con quienes dijeron en la tarea 2 y pregúntenles sobre 1) los retos que han tenido que afrontar y 2) la forma en que están trabajando con sus directores. En particular, quiero que les pregunten cómo pasaron de definir un tema general a una pregunta específica.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Semana 6</title>
-      <link>//localhost:1313/courses/investigacionfilo/semana-6/</link>
-      <pubDate>Sun, 06 Feb 2022 17:36:27 +0000</pubDate>
-      
-      <guid>//localhost:1313/courses/investigacionfilo/semana-6/</guid>
-      <description>&lt;h2 id=&#34;recuento-de-la-semana&#34;&gt;Recuento de la semana:&lt;/h2&gt;
-&lt;p&gt;¿Cuál es su tema? Van a hablar 3 minutos sobre su tema de tesis o sobre los avances que han hecho esta semana. Luego, 3 minutos de preguntas. Cada semana vamos a empezar con una revisión del trabajo hecho o las dificultades enfrentadas durante la semana.&lt;/p&gt;
-&lt;h2 id=&#34;comentarios-línea-a-línea&#34;&gt;Comentarios línea a línea&lt;/h2&gt;
-&lt;p&gt;Primer texto&lt;/p&gt;
-&lt;p&gt;Segundo texto:&lt;/p&gt;
-&lt;h2 id=&#34;tareas&#34;&gt;Tareas&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;Tarea 1: Reseña de un texto.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Tarea 2: Reseña de un texto.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Tarea 3: Revisar el formato de anteproyecto (Revisen los comentarios al margen: ¿Queda clara cada una de las secciones?) y una primera  versión de una sección (un párrafo o dos).&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Semana 7</title>
-      <link>//localhost:1313/courses/investigacionfilo/semana-7/</link>
-      <pubDate>Sun, 06 Feb 2022 17:36:27 +0000</pubDate>
-      
-      <guid>//localhost:1313/courses/investigacionfilo/semana-7/</guid>
-      <description>&lt;h2 id=&#34;recuento-de-la-semana&#34;&gt;Recuento de la semana:&lt;/h2&gt;
-&lt;p&gt;¿Cuál es su tema? Van a hablar 3 minutos sobre su tema de tesis o sobre los avances que han hecho esta semana. Luego, 3 minutos de preguntas. Cada semana vamos a empezar con una revisión del trabajo hecho o las dificultades enfrentadas durante la semana.&lt;/p&gt;
-&lt;h2 id=&#34;diferencia-entre-tema-y-pregunta-de-investigación&#34;&gt;Diferencia entre Tema y pregunta de investigación&lt;/h2&gt;
-&lt;h2 id=&#34;comentarios-línea-a-línea&#34;&gt;Comentarios línea a línea&lt;/h2&gt;
-&lt;h2 id=&#34;tareas&#34;&gt;Tareas&lt;/h2&gt;
-&lt;p&gt;Tarea 1: Reseña de un texto.&lt;/p&gt;
-&lt;p&gt;Tarea 2: Escribir 1000 palabras sobre una pregunta de investigación filosófica relacionada con su tema de tesis. Preséntele al lector la pregunta, señale qué la hace problemática. Suponga que es un estudiante de primer semestre y explique el vocabulario técnico que utilice y por qué hay una cuestión filosófica ahí.  Aquí el ejercicio principal consiste en ejercitarse en presentar y explicar la pregunta problema de su investigación.&lt;/p&gt;
-&lt;p&gt;Tarea 3: Una segunda versión de una sección del ante proyecto (una página).&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Semana 8</title>
-      <link>//localhost:1313/courses/investigacionfilo/semana-9/</link>
-      <pubDate>Sun, 06 Feb 2022 17:36:27 +0000</pubDate>
-      
-      <guid>//localhost:1313/courses/investigacionfilo/semana-9/</guid>
-      <description>&lt;h2 id=&#34;recuento-de-la-semana&#34;&gt;Recuento de la semana:&lt;/h2&gt;
-&lt;p&gt;¿Cuál es su tema? Van a hablar 3 minutos sobre su tema de tesis o sobre los avances que han hecho esta semana. Luego, 3 minutos de preguntas. Cada semana vamos a empezar con una revisión del trabajo hecho o las dificultades enfrentadas durante la semana.&lt;/p&gt;
-&lt;h2 id=&#34;comentarios-línea-a-línea&#34;&gt;Comentarios línea a línea&lt;/h2&gt;
-&lt;h2 id=&#34;tareas&#34;&gt;Tareas&lt;/h2&gt;
-&lt;p&gt;Tarea 1: Reseña de un texto.&lt;/p&gt;
-&lt;p&gt;Tarea 2: Primera versión &lt;em&gt;completa&lt;/em&gt; del anteproyecto, al menos un párrafo por sección.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Semana 9</title>
-      <link>//localhost:1313/courses/investigacionfilo/semana-8/</link>
-      <pubDate>Sun, 06 Feb 2022 17:36:27 +0000</pubDate>
-      
-      <guid>//localhost:1313/courses/investigacionfilo/semana-8/</guid>
-      <description>&lt;h2 id=&#34;recuento-de-la-semana&#34;&gt;Recuento de la semana:&lt;/h2&gt;
-&lt;p&gt;¿Cuál es su tema? Van a hablar 3 minutos sobre su tema de tesis o sobre los avances que han hecho esta semana. Luego, 3 minutos de preguntas. Cada semana vamos a empezar con una revisión del trabajo hecho o las dificultades enfrentadas durante la semana.&lt;/p&gt;
-&lt;h2 id=&#34;comentarios-línea-a-línea&#34;&gt;Comentarios línea a línea&lt;/h2&gt;
-&lt;h2 id=&#34;tareas&#34;&gt;Tareas&lt;/h2&gt;
-&lt;p&gt;Tarea 1: Reseña de un texto.&lt;/p&gt;
-&lt;p&gt;Tarea 2: Segunda versión &lt;em&gt;completa&lt;/em&gt; del anteproyecto, al menos dos párrafos por sección.&lt;/p&gt;
-</description>
-    </item>
     
     <item>
       <title>Semana 1</title>
-      <link>//localhost:1313/courses/investigacionfilo/semana-1/</link>
+      <link>/courses/investigacionfilo/semana-1/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
       
-      <guid>//localhost:1313/courses/investigacionfilo/semana-1/</guid>
+      <guid>/courses/investigacionfilo/semana-1/</guid>
       <description>&lt;h2 id=&#34;presentación-del-curso&#34;&gt;Presentación del curso&lt;/h2&gt;
-&lt;p&gt;Este no es un curso común y corriente. No hay lecturas fijas; no hay parciales, talleres o exámenes. Esta es una clase para pulir las capacidades que han adquirido en lo que han cursado del pregrado.&lt;/p&gt;
+&lt;p&gt;Este no es un curso común y corriente. No hay lecturas fijas; no hay parciales, talleres o exámenes. Esta es una clase para pulir las capacidades que han adquirido durante el pregrado.&lt;/p&gt;
 &lt;p&gt;Para eso vamos a necesitar.&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;Computador en clase &lt;strong&gt;siempre&lt;/strong&gt;.&lt;/li&gt;
-&lt;li&gt;Usar Flip (anteriormente, Flipgrid)&lt;/li&gt;
+&lt;li&gt;Computador en clase siempre.&lt;/li&gt;
+&lt;li&gt;Flipgrid&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;¡y nada más! (Casi)&lt;/p&gt;
+&lt;p&gt;¡y nada más!&lt;/p&gt;
 &lt;h2 id=&#34;presentaciones-estudiantes&#34;&gt;Presentaciones estudiantes&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;¿Ya han pensado un tema de tesis?&lt;/li&gt;
-&lt;li&gt;Si no tienen una idea, ¿qué les interesas?&lt;/li&gt;
-&lt;li&gt;¿En qué materias les ha ido mejor?&lt;/li&gt;
-&lt;li&gt;¿Con qué profesor o profesora han pensado trabajar?&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;¿Ya han pensado un tema de tesis?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Si no tienen una idea, ¿qué les interesas?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;¿En qué materias les ha ido mejor?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;¿Con qué profesor o profesora han pensado trabajar?&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Piensen en tres temas, áreas o materias en las que les gustaría hacer la tesis&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Ninguno de estos determina ya su tesis, pero sí ofrecen una manera para empezar a orientar el asunto.&lt;/p&gt;
 &lt;h2 id=&#34;enlaces-importantes&#34;&gt;Enlaces importantes&lt;/h2&gt;
-&lt;p&gt;En ocasiones me gusta exagerar y decir que nadie sabe usar el español 100% bien. &lt;em&gt;Nadie&lt;/em&gt;. Pero sobre todo, nadie &lt;em&gt;puede&lt;/em&gt; saberlo todo porque hay cambios constantes y nadie &lt;em&gt;necesita&lt;/em&gt; saberlo todo porque puede suplementar su conocimiento con la colaboración de los linguistas y filólogos. Por ejemplo, consideren los siguientes recursos en línea.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;En ocasiones me gusta exagerar y decir que nadie sabe usar el español 100% bien. &lt;em&gt;Nadie&lt;/em&gt;. Pero sobre todo, nadie &lt;em&gt;necesita&lt;/em&gt; saberlo porque hay recursos en línea.&lt;/li&gt;
+&lt;/ul&gt;
 &lt;ol&gt;
 &lt;li&gt;Panhispánico de dudas:  &lt;a href=&#34;https://www.rae.es/dpd/&#34;&gt;https://www.rae.es/dpd/&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Fundación de español urgente &lt;em&gt;Fundeu&lt;/em&gt;: &lt;a href=&#34;https://www.fundeu.es/&#34;&gt;https://www.fundeu.es/&lt;/a&gt;&lt;/li&gt;
@@ -234,50 +79,19 @@
 &lt;p&gt;Bibliotecas (Octavio Arismendi, Andes, nacional, javeriana, BLAA)&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Scribd, facebook (philosophical underclass) y enlaces en páginas de dudosa reputación.&lt;/p&gt;
+&lt;p&gt;Scribd, facebook (philosophical underclass) y amigos con vínculos con los rusos.&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;tareas-para-la-próxima-semana&#34;&gt;Tareas para la próxima semana&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;
-&lt;p&gt;Escribir una página sobre un posible tema de tesis. Presente un tema de interés. Suponga que quien lo lee es un estudiante de primer semestre y explique el vocabulario técnico que utilice.&lt;/p&gt;
+&lt;p&gt;Escribir una página sobre un posible tema de tesis. Presente un tema de interés. Suponga que es un estudiante de primer semestre y explique el vocabulario técnico que utilice.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;Leer al menos 20 páginas (de la bolsa de textos). Hacer una reseña.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Participar en Flip antes del lunes a media noche&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Semana 2</title>
-      <link>//localhost:1313/courses/investigacionfilo/semana-2/</link>
-      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      
-      <guid>//localhost:1313/courses/investigacionfilo/semana-2/</guid>
-      <description>&lt;h3 id=&#34;recuento-de-la-semana&#34;&gt;Recuento de la semana:&lt;/h3&gt;
-&lt;p&gt;¿Cuál es su tema? Van a hablar 3 minutos sobre su tema de tesis o sobre los avances que han hecho esta semana. Luego, 3 minutos de preguntas. Cada semana vamos a empezar con una revisión del trabajo hecho o las dificultades enfrentadas durante la semana.&lt;/p&gt;
-&lt;h3 id=&#34;discusión&#34;&gt;Discusión&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Reconocer fortalezas y debilidades. Trabajar en ellas.&lt;/li&gt;
-&lt;li&gt;Los retos de la autonomía y la importancia de un sistema de trabajo&lt;/li&gt;
-&lt;li&gt;¿Cómo toman notas?&lt;/li&gt;
-&lt;li&gt;Trabajar autónomamente no es trabajar en solitario.&lt;/li&gt;
-&lt;li&gt;Las materias que han visto y planean ver&lt;/li&gt;
-&lt;li&gt;Los posibles directores y la relación con ellos.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;retroalimentación&#34;&gt;Retroalimentación&lt;/h3&gt;
-&lt;p&gt;Comentarios línea a línea.&lt;/p&gt;
-&lt;h3 id=&#34;tarea&#34;&gt;Tarea:&lt;/h3&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;Escribir &lt;strong&gt;dos&lt;/strong&gt; páginas sobre un posible tema de tesis. Es decir, edite la versión de la semana pasada y alárguela. Preséntele al lector el tema de su interés. Suponga que es un estudiante de primer semestre y explique el vocabulario técnico que utilice. Aquí el ejercicio principal consiste en ejercitarse en explicar un tema —independientemente del hecho de que al final sí resulten haciendo la tesis sobre eso.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Buscar una entrada de la SEP pertinente a su tema –la más general que haya.  Escribir una reseña. (Si tiene dudas, consulte con el profesor.)&lt;/p&gt;
+&lt;p&gt;Participar en Flipgrid antes del viernes a media noche&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
 </description>

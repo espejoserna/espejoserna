@@ -1,60 +1,58 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Presentaciones recientes on J.C. Espejo-Serna</title>
-    <link>//localhost:1313/talk/</link>
-    <description>Recent content in Presentaciones recientes on J.C. Espejo-Serna</description>
+    <title>Recent &amp; Upcoming Talks on J.C. Espejo-Serna</title>
+    <link>/talk/</link>
+    <description>Recent content in Recent &amp; Upcoming Talks on J.C. Espejo-Serna</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>es</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
-    <lastBuildDate>Fri, 04 Feb 2022 14:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="//localhost:1313/talk/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Ética e Inteligencia Artificial</title>
-      <link>//localhost:1313/talk/etica-e-ia/</link>
-      <pubDate>Fri, 04 Feb 2022 14:00:00 +0000</pubDate>
+      <title>Coding and Analyzing Qualitative Data</title>
+      <link>/talk/coding/</link>
+      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/talk/etica-e-ia/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Aquí estan las diapositivas: &lt;a href=&#34;https://jcunisabana.github.io/presentaciones/ia-tecno.html&#34;&gt;https://jcunisabana.github.io/presentaciones/ia-tecno.html&lt;/a&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;h2 id=&#34;lecturas-recomendadas&#34;&gt;Lecturas recomendadas&lt;/h2&gt;
+      <guid>/talk/coding/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;Boyle, Matthew (2016). Additive Theories of Rationality: A Critique. &lt;em&gt;European Journal of Philosophy&lt;/em&gt; 24 (3): 527-555.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Coeckelbergh, Marck. (2021). &lt;em&gt;Ética de la inteligencia artificial&lt;/em&gt;. Cátedra.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;O&amp;rsquo;Neil, Cathy. (2018). &lt;em&gt;Armas de destrucción matemática: cómo el big data aumenta la desigualdad y amenaza la democracia&lt;/em&gt;. Capitán Swing Libros.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Véliz, Carissa. (2021) &lt;em&gt;Privacidad es poder: Datos, vigilancia y libertad en la era digital&lt;/em&gt;. Debate.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Zuboff, Shoshana (2020). &lt;em&gt;La era del capitalismo de la vigilancia: La lucha por un futuro humano frente a las nuevas fronteras del poder&lt;/em&gt;. Paidós.&lt;/p&gt;
-&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using academia&amp;rsquo;s &lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#create-slides&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
 &lt;/ul&gt;
+&lt;p&gt;Further talk details can easily be added to this page using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Ética e Inteligencia Artificial</title>
-      <link>//localhost:1313/talk/etica-e-inteligencia-artificial/</link>
-      <pubDate>Fri, 04 Feb 2022 14:00:00 +0000</pubDate>
+      <title>Qualitative Research Summer Intensive</title>
+      <link>/talk/qualitative/</link>
+      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/talk/etica-e-inteligencia-artificial/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
+      <guid>/talk/qualitative/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using academia&amp;rsquo;s &lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#create-slides&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Further talk details can easily be added to this page using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Synthesizing Qualitative Data</title>
+      <link>/talk/synthesizing/</link>
+      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
+      
+      <guid>/talk/synthesizing/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
 &lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using academia&amp;rsquo;s &lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#create-slides&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
