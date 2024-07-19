@@ -10,7 +10,7 @@ draft: false
 toc: yes
 type: docs
 menu:
-  CienciaEnfermeria:
+  cienciaenfermeria:
     name: Syllabus
     weight: 0
 ---

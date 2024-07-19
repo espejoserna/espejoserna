@@ -2,49 +2,49 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on J.C. Espejo-Serna</title>
-    <link>/tags/</link>
+    <link>//localhost:1313/tags/</link>
     <description>Recent content in Tags on J.C. Espejo-Serna</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>es</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
-    <lastBuildDate>Wed, 29 Dec 2021 19:55:32 -0700</lastBuildDate>
+    <lastBuildDate>Tue, 04 Jan 2022 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>2022</title>
-      <link>/tags/2022/</link>
-      <pubDate>Wed, 29 Dec 2021 19:55:32 -0700</pubDate>
+      <title>Another Tag</title>
+      <link>//localhost:1313/tags/another-tag/</link>
+      <pubDate>Tue, 04 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>/tags/2022/</guid>
+      <guid>//localhost:1313/tags/another-tag/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>cursos</title>
-      <link>/tags/cursos/</link>
-      <pubDate>Wed, 29 Dec 2021 19:55:32 -0700</pubDate>
+      <title>Curso</title>
+      <link>//localhost:1313/tags/curso/</link>
+      <pubDate>Tue, 04 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>/tags/cursos/</guid>
+      <guid>//localhost:1313/tags/curso/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Source Themes</title>
-      <link>/tags/source-themes/</link>
+      <link>//localhost:1313/tags/source-themes/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/source-themes/</guid>
+      <guid>//localhost:1313/tags/source-themes/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>academia</title>
-      <link>/tags/academia/</link>
+      <title>Academia</title>
+      <link>//localhost:1313/tags/academia/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/tags/academia/</guid>
+      <guid>//localhost:1313/tags/academia/</guid>
       <description></description>
     </item>
     

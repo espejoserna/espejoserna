@@ -2,126 +2,264 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/courses/epistemologia/</loc>
-    <lastmod>2022-01-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/courses/hfc/</loc>
-    <lastmod>2022-01-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/courses/investigacionfilo/</loc>
+    <loc>//localhost:1313/courses/tecyeco/</loc>
     <lastmod>2022-01-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/courses/philandfilm/</loc>
-    <lastmod>2022-01-04T00:00:00+00:00</lastmod>
+    <loc>//localhost:1313/courses/tecyeco/semana-1/</loc>
+    <lastmod>2024-02-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/courses/hfc/semana-1/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+    <loc>//localhost:1313/courses/investigacionfilo/semana-3/</loc>
+    <lastmod>2022-02-06T17:36:27+00:00</lastmod>
   </url><url>
-    <loc>/courses/investigacionfilo/semana-1/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+    <loc>//localhost:1313/courses/investigacionfilo/semana-4/</loc>
+    <lastmod>2022-02-06T17:36:27+00:00</lastmod>
   </url><url>
-    <loc>/courses/philandfilm/semana-1/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+    <loc>//localhost:1313/courses/investigacionfilo/semana-5/</loc>
+    <lastmod>2022-02-06T17:36:27+00:00</lastmod>
   </url><url>
-    <loc>/talk/coding/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+    <loc>//localhost:1313/courses/investigacionfilo/semana-6/</loc>
+    <lastmod>2022-02-06T17:36:27+00:00</lastmod>
   </url><url>
-    <loc>/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+    <loc>//localhost:1313/courses/investigacionfilo/semana-7/</loc>
+    <lastmod>2022-02-06T17:36:27+00:00</lastmod>
   </url><url>
-    <loc>/talk/qualitative/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+    <loc>//localhost:1313/courses/investigacionfilo/semana-9/</loc>
+    <lastmod>2022-02-06T17:36:27+00:00</lastmod>
   </url><url>
-    <loc>/talk/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+    <loc>//localhost:1313/courses/investigacionfilo/semana-8/</loc>
+    <lastmod>2022-02-06T17:36:27+00:00</lastmod>
   </url><url>
-    <loc>/talk/synthesizing/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/courses/</loc>
+    <loc>//localhost:1313/courses/investigacionfilo/</loc>
     <lastmod>2022-01-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/2022/</loc>
-    <lastmod>2021-12-29T19:55:32-07:00</lastmod>
+    <loc>//localhost:1313/courses/investigacionfilo/semana-1/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>/tags/cursos/</loc>
-    <lastmod>2021-12-29T19:55:32-07:00</lastmod>
+    <loc>//localhost:1313/courses/cienciaenfermeria/semana-2/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>/project/philosophy-and-film/</loc>
-    <lastmod>2021-12-29T19:55:32-07:00</lastmod>
+    <loc>//localhost:1313/courses/investigacionfilo/semana-2/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>/project/</loc>
-    <lastmod>2021-12-29T19:55:32-07:00</lastmod>
+    <loc>//localhost:1313/courses/tecyeco/semana-2/</loc>
+    <lastmod>2024-02-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/</loc>
-    <lastmod>2021-12-29T19:55:32-07:00</lastmod>
+    <loc>//localhost:1313/courses/cienciaenfermeria/semana-3/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>/project/metodologia-de-la-investigacion-filosofica/</loc>
-    <lastmod>2021-12-29T19:55:12-07:00</lastmod>
+    <loc>//localhost:1313/courses/cienciaenfermeria/semana-7/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>/project/epistemologia-de-la-investigacion/</loc>
-    <lastmod>2021-12-29T10:37:51-07:00</lastmod>
+    <loc>//localhost:1313/courses/cienciaenfermeria/semana-8/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>/project/historiayfilosofiadelaciencia/</loc>
-    <lastmod>2021-12-28T21:22:58-07:00</lastmod>
+    <loc>//localhost:1313/courses/cienciaenfermeria/semana-9/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>/authors/admin/</loc>
+    <loc>//localhost:1313/courses/tecyeco/semana-3/</loc>
+    <lastmod>2024-02-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/courses/tecyeco/semana-4/</loc>
+    <lastmod>2024-02-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/courses/cienciaenfermeria/semana-4/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/courses/cienciaenfermeria/semana-5/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/courses/tecyeco/semana-5/</loc>
+    <lastmod>2024-02-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/courses/cienciaenfermeria/semana-6/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/courses/tecyeco/semana-6/</loc>
+    <lastmod>2024-02-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/courses/</loc>
+    <lastmod>2024-02-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/</loc>
+    <lastmod>2024-02-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/courses/tecyeco/peliculas-recomendadas/</loc>
+    <lastmod>2024-02-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/courses/cienciaenfermeria/semana-1/</loc>
+    <lastmod>2023-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/courses/cienciaenfermeria/</loc>
+    <lastmod>2023-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/slides/talks/metaversoeicea/</loc>
+    <lastmod>2022-03-23T19:53:02+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/slides/</loc>
+    <lastmod>2022-03-23T19:53:02+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/slides/talks/metaversopadres/</loc>
+    <lastmod>2022-03-23T19:53:02+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/slides/talks/metaversofilo/</loc>
+    <lastmod>2022-03-23T19:53:02+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/slides/talks/dualismo/</loc>
+    <lastmod>2022-02-20T20:06:58+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/slides/philandfilm/semana-10/</loc>
+    <lastmod>2022-02-20T20:06:58+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/slides/philandfilm/semana-11/</loc>
+    <lastmod>2022-02-20T20:06:58+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/slides/philandfilm/semana-12/</loc>
+    <lastmod>2022-02-20T20:06:58+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/slides/philandfilm/semana-13/</loc>
+    <lastmod>2022-02-20T20:06:58+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/slides/philandfilm/semana-14/</loc>
+    <lastmod>2022-02-20T20:06:58+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/slides/philandfilm/semana-5/</loc>
+    <lastmod>2022-02-20T20:06:58+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/slides/philandfilm/semana-6/</loc>
+    <lastmod>2022-02-20T20:06:58+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/slides/philandfilm/semana-7/</loc>
+    <lastmod>2022-02-20T20:06:58+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/slides/philandfilm/semana-8/</loc>
+    <lastmod>2022-02-20T20:06:58+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/talk/etica-e-ia/</loc>
+    <lastmod>2022-02-04T14:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/talk/etica-e-inteligencia-artificial/</loc>
+    <lastmod>2022-02-04T14:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/talk/</loc>
+    <lastmod>2022-02-04T14:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/another-tag/</loc>
+    <lastmod>2022-01-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/curso/</loc>
+    <lastmod>2022-01-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/</loc>
+    <lastmod>2022-01-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/authors/admin/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication_types/3/</loc>
+    <loc>//localhost:1313/publication_types/3/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication/preprint/</loc>
+    <loc>//localhost:1313/publication/preprint/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/authors/</loc>
+    <loc>//localhost:1313/authors/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication_types/</loc>
+    <loc>//localhost:1313/publication_types/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication/</loc>
+    <loc>//localhost:1313/publication/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/source-themes/</loc>
+    <loc>//localhost:1313/tags/source-themes/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/post/jupyter/</loc>
+    <loc>//localhost:1313/post/jupyter/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/post/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/slides/</loc>
+    <loc>//localhost:1313/slides/hfc/10/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/slides/example/</loc>
+    <loc>//localhost:1313/slides/hfc/11/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/post/snail/</loc>
+    <loc>//localhost:1313/slides/hfc/14/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/slides/hfc/15/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/slides/hfc/16/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/slides/hfc/6/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/slides/hfc/8/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/slides/hfc/9/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/slides/hfc/1/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/slides/hfc/3/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/slides/hfc/2/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/slides/logica1/1/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/slides/logica1/2/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/slides/philandfilm/semana-2/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/slides/philandfilm/semana-3/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/slides/philandfilm/semana-4/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/slides/talks/opencampus/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/post/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/academia/</loc>
+    <loc>//localhost:1313/slides/example/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/privacy/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/post/snail/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/post/getting-started/</loc>
+    <loc>//localhost:1313/tags/academia/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication_types/2/</loc>
+    <loc>//localhost:1313/post/getting-started/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/publication_types/2/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication/journal-article/</loc>
+    <loc>//localhost:1313/publication/journal-article/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/authors/robert-ford/</loc>
+    <loc>//localhost:1313/authors/robert-ford/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication_types/1/</loc>
+    <loc>//localhost:1313/publication_types/1/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication/conference-paper/</loc>
+    <loc>//localhost:1313/publication/conference-paper/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>//localhost:1313/categories/</loc>
   </url>
 </urlset>
