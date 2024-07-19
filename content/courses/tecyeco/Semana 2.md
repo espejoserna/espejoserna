@@ -141,7 +141,7 @@ la integran en entornos sociotécnicos más amplios.
 
 ## Ciencia de datos
 
-Varias de las cuestiones que revisaremos tienen que ver con la manera en que se entienden y usan los macrodatos (bigdata).
+Varias de las cuestiones que revisaremos tienen que ver con la manera en que se entienden y usan los macrodatos (bigdata). Por el momento, podemos usar la caracterización de los macro datos en términos de las 3 Vs: volumen, variedad y velocidad.
 
 
 > El aprendizaje automático está basado en la estadística: es un proceso estadístico. Puede usarse para varias tareas, pero la tarea subyacente es a menudo el reconocimiento de patrones.
@@ -180,6 +180,10 @@ Correlaciones espúreas:
 ![](/courses/tecyeco/img/15.png)
 ![](/courses/tecyeco/img/16.png)
 
+
+http://www.tylervigen.com/spurious-correlations
+
+
 Aplicaciones de la ciencia de datos:
 
 
@@ -189,25 +193,47 @@ Aplicaciones de la ciencia de datos:
 
 ## Preguntas
 
-- IA como ciencia vs IA como tecnología
-- ¿cómo se defiende privacidad?
-- ¿cuál es el rol del ser humano en la IA?
-- ¿dónde queda la sabiduría humana ante la IA?
-- ¿es una exxageraciòn pensar que ya hay IA manipulando gente?
-- ¿aprendizaje automático y su relaición con la realidad?
-- Los recursos utilizados para la IA implican poder. ¿cómo se establecen códigos y normas? 
-- ¿Cómo podemos equilibrar los beneficios de la IA con los riesgos potenciales para la privacidad y la
-seguridad?
-- ¿Qué marcos éticos y regulaciones son necesarios para guiar el desarrollo responsable de la IA?
-- ¿Cómo afectará la creciente dependencia de la IA en diversos sectores a la dinámica del empleo y
-la economía?
-- ¿A quien corresponde la responsabilidad de limitar o regular el uso de la
-inteligencia artificial?
-- ¿Esta responsabilidad y toma de decisiones debe corresponder a una entidad
-global? ¿O debería gestionarse de acuerdo a los gobiernos y sistemas
-judiciales de cada país?
+### Generalidades y Reflexiones
 
+1. Ambiguedad en la definición de inteligencia.
+3. ¿Cómo mitigar el impacto negativo de la IA?
+4. Aunque el artículo destaca la integración de la inteligencia artificial (IA) en nuestras vidas cotidianas y sus implicaciones éticas, no profundiza lo suficiente en cómo estas tecnologías podrían amplificar las desigualdades existentes o crear nuevas formas de exclusión social.
 
+### Impacto Social y Laboral de la IA
+
+1. ¿Qué podemos hacer para minimizar el impacto negativo de la automatización en nuestro trabajo? ¿Cómo podemos crear políticas que ayuden a los trabajadores a realizar una transición fluida hacia el uso de IA?
+2. ¿Qué tan conscientes somos de la posible desigualdad social que podría generar el uso de la IA?
+3. A quien esta afectando de manera negativo la IA, si se concibe como una tecnología complementaria y que ayuda al día a día de los seres humanos?
+
+### Privacidad y Protección de Datos
+
+1. ¿Qué leyes y regulaciones de privacidad se deben implementar para proteger los datos personales obtenidos y utilizados por los sistemas de inteligencia artificial, especialmente en aplicaciones que involucran vigilancia y reconocimiento facial?
+2. ¿Qué medidas éticas y legales se pueden implementar para proteger la privacidad de los datos en el contexto de la inteligencia artificial y evitar posibles violaciones de la autonomía y la intimidad de las personas?
+3. La recolección y tratamiento de aquellos grandes volúmenes de datos, puede poner en riesgo la privacidad de las personas y/o entidades dueñas de los datos. Por lo tanto, para el abordaje de este tema se debe recurrir al desarrollo e implementación de fuertes medidas de seguridad para proteger la privacidad de los usuarios en el entorno digital.
+
+### Sesgos y Equidad en la IA
+
+1. ¿Cuáles son las estrategias que se pueden adoptar para detectar y suprimir los sesgos entre los algoritmos de IA, garantizando una toma de decisiones justa e igualitaria?
+2. ¿Qué medidas se pueden tomar para mitigar los sesgos y discriminaciones que podrían ser amplificados por la integración invisible de la IA en diversas tecnologías?
+3. Pueden existir sesgos en algoritmos de IA, ya que los algoritmos pueden tomar decisiones críticas, como la aprobación de préstamos, la selección de candidatos laborales o la asignación de servicios públicos, basándose en patrones y correlaciones presentes en los datos históricos, que pueden reflejar desigualdades y discriminaciones sociales. Esta situación puede llevar a resultados injustos y discriminatorios, afectando desproporcionadamente a grupos minoritarios y vulnerables.
+
+### Ética y Gobernanza de la IA
+
+1. Ante el crecimiento acelerado de la IA, ¿Qué estrategias se están promoviendo para el cuidado de los posibles dilemas éticos que esto podría tener en la medida en que los datos podrían ser usados para malas intenciones (Biopolítica, Biopoder)?
+2. ¿Cómo pueden las organizaciones y los gobiernos colaborar para establecer estándares éticos comunes en el desarrollo y uso de la inteligencia artificial a nivel global?
+3. ¿Cuál es el papel de la transparencia y la rendición de cuentas en la gobernanza de la inteligencia artificial para prevenir posibles abusos y garantizar la confianza del público? 
+4. ¿Cómo garantizar que la interdependencia tecnológica de la IA con otras tecnologías no diluya la responsabilidad ética de la IA en la toma de decisiones y en su impacto?
+
+### Sostenibilidad y Consumo de Recursos
+
+1. La implementación y operación de sistemas de IA requieren una cantidad significativa de recursos computacionales, lo que conlleva un alto consumo de energía. Esto contribuye al aumento de la huella de carbono y plantea desafíos relacionados con la sostenibilidad medioambiental.
+
+### Futuro y Limitaciones de la IA
+
+1. Al integrarse en tantos campos y al facilitar la vida del ser humano ¿Llegaremos a un punto donde debamos suspender el uso de la IA?
+2. Puede la IA funcionar sin ayuda de los seres humanos?
+3. Cómo se complementan la tecnología y la ciencia de datos para lograr una Inteligencia Artificial eficiente y autónoma desmintiendo el apartado que solo los humanos pueden aprender debido a su cognición real?
+4. Pueden las tareas cognitivas dadas a la TA superar imprevistos humanos/naturales desconocidos hasta el momento por los mismos humanos?
 
 
 
